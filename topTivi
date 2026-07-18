@@ -5208,3 +5208,456 @@ http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138612
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr." tvg-logo="http://163.172.89.228/~msepg/logos/New-Uk/Disney-Jr.png" group-title="UK Kids",Disney Jr.
 http://lunar.pm:8080/Mrrob/CjseFXmXpPrw/138613
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - ENTERTAINMENT #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | ENTERTAINMENT",##### UK - ENTERTAINMENT #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17387.m3u8
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="UK - LONDON LIVE FHD" tvg-logo="https://go4.pw/UK/londlv.png" group-title="EU | UK | ENTERTAINMENT",UK - LONDON LIVE FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/912777.m3u8
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK - SKY WITNESS FHD" tvg-logo="https://go4.pw/UK/skywtn.png" group-title="EU | UK | ENTERTAINMENT",UK - SKY WITNESS FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69492.m3u8
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK -  SKY WITNESS HEVC" tvg-logo="https://go4.pw/UK/skywtn.png" group-title="EU | UK | ENTERTAINMENT",UK -  SKY WITNESS HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348266.m3u8
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK - SKY WITNESS HD" tvg-logo="https://go4.pw/UK/skywtn.png" group-title="EU | UK | ENTERTAINMENT",UK - SKY WITNESS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980455.m3u8
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK - SKY WITNESS SD" tvg-logo="https://go4.pw/UK/skywtn.png" group-title="EU | UK | ENTERTAINMENT",UK - SKY WITNESS SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348257.m3u8
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK - SKY COMEDY FHD" tvg-logo="https://go4.pw/germany/SKY_COMEDY.png" group-title="EU | UK | ENTERTAINMENT",UK - SKY COMEDY FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1193390.m3u8
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK - SKY COMEDY HD" tvg-logo="https://go4.pw/germany/SKY_COMEDY.png" group-title="EU | UK | ENTERTAINMENT",UK - SKY COMEDY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1193389.m3u8
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK - SKY COMEDY SD" tvg-logo="https://go4.pw/germany/SKY_COMEDY.png" group-title="EU | UK | ENTERTAINMENT",UK - SKY COMEDY SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1193388.m3u8
+#EXTINF:-1 tvg-id="sky2.uk" tvg-name="UK - SKY TWO  SD" tvg-logo="https://go4.pw/UK/skyy.png" group-title="EU | UK | ENTERTAINMENT",UK - SKY TWO  SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69493.m3u8
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK - DAVE FHD" tvg-logo="https://go4.pw/UK/u&dave.png" group-title="EU | UK | ENTERTAINMENT",UK - DAVE FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980470.m3u8
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK - DAVE HEVC" tvg-logo="https://go4.pw/UK/u&dave.png" group-title="EU | UK | ENTERTAINMENT",UK - DAVE HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69502.m3u8
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK - DAVE HD" tvg-logo="https://go4.pw/UK/u&dave.png" group-title="EU | UK | ENTERTAINMENT",UK - DAVE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17374.m3u8
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK -  MORE 4 FHD" tvg-logo="https://go4.pw/UK/MORE4.png" group-title="EU | UK | ENTERTAINMENT",UK -  MORE 4 FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348259.m3u8
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK - MORE 4 HEVC" tvg-logo="https://go4.pw/UK/MORE4.png" group-title="EU | UK | ENTERTAINMENT",UK - MORE 4 HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980462.m3u8
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK - MORE 4 HD" tvg-logo="https://go4.pw/UK/MORE4.png" group-title="EU | UK | ENTERTAINMENT",UK - MORE 4 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17371.m3u8
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK - MORE 4 SD" tvg-logo="https://go4.pw/UK/MORE4.png" group-title="EU | UK | ENTERTAINMENT",UK - MORE 4 SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348260.m3u8
+#EXTINF:-1 tvg-id="e4extra.uk" tvg-name="UK - E4 EXTRA SD" tvg-logo="https://go4.pw/UK/E4S.png" group-title="EU | UK | ENTERTAINMENT",UK - E4 EXTRA SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1143996.m3u8
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK - QUEST HEVC" tvg-logo="https://go4.pw/UK/quest.png" group-title="EU | UK | ENTERTAINMENT",UK - QUEST HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69488.m3u8
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK - QUEST HD" tvg-logo="https://go4.pw/UK/quest.png" group-title="EU | UK | ENTERTAINMENT",UK - QUEST HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348254.m3u8
+#EXTINF:-1 tvg-id="questredplus1.uk" tvg-name="UK - QUEST RED HD" tvg-logo="https://go4.pw/UK/questred1.png" group-title="EU | UK | ENTERTAINMENT",UK - QUEST RED HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69508.m3u8
+#EXTINF:-1 tvg-id="questredplus1.uk" tvg-name="UK - QUEST RED SD" tvg-logo="https://go4.pw/UK/questred1.png" group-title="EU | UK | ENTERTAINMENT",UK - QUEST RED SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348261.m3u8
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK - GOLD HEVC" tvg-logo="https://go4.pw/UK/u&gold.png" group-title="EU | UK | ENTERTAINMENT",UK - GOLD HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980467.m3u8
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK - GOLD SD " tvg-logo="https://go4.pw/UK/u&gold.png" group-title="EU | UK | ENTERTAINMENT",UK - GOLD SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980397.m3u8
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK - 4 SEVEN HD" tvg-logo="https://go4.pw/UK/ch4.png" group-title="EU | UK | ENTERTAINMENT",UK - 4 SEVEN HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69494.m3u8
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK - 5 SELECT HD" tvg-logo="https://go4.pw/UK/5select.png" group-title="EU | UK | ENTERTAINMENT",UK - 5 SELECT HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69495.m3u8
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK - 5 USA HD" tvg-logo="https://go4.pw/UK/5usa.png" group-title="EU | UK | ENTERTAINMENT",UK - 5 USA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69497.m3u8
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK - 5 STAR SD" tvg-logo="https://go4.pw/UK/5star.png" group-title="EU | UK | ENTERTAINMENT",UK - 5 STAR SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17386.m3u8
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK - S4C HD" tvg-logo="https://go4.pw/UK/s4c.png" group-title="EU | UK | ENTERTAINMENT",UK - S4C HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70094.m3u8
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK - TLC HD ◉" tvg-logo="https://go4.pw/EUROPE/FRANCE/TLC.png" group-title="EU | UK | ENTERTAINMENT",UK - TLC HD ◉
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17364.m3u8
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK - EDEN HD" tvg-logo="https://go4.pw/UK/eden.png" group-title="EU | UK | ENTERTAINMENT",UK - EDEN HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17372.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="UK - FOOD NETWORK HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="EU | UK | ENTERTAINMENT",UK - FOOD NETWORK HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17699.m3u8
+#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="UK - HGTV HD" tvg-logo="https://go4.pw/germany/HGTV.png" group-title="EU | UK | ENTERTAINMENT",UK - HGTV HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIRGIN MEDIA ONE HD" tvg-logo="https://go4.pw/UK/virginmedia11.png" group-title="EU | UK | ENTERTAINMENT",UK - VIRGIN MEDIA ONE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70090.m3u8
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK - CBS REALITY SD" tvg-logo="https://go4.pw/UK/cbs.png" group-title="EU | UK | ENTERTAINMENT",UK - CBS REALITY SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17379.m3u8
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK - CBS REALITY 1  SD" tvg-logo="https://go4.pw/UK/cbs.png" group-title="EU | UK | ENTERTAINMENT",UK - CBS REALITY 1  SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17378.m3u8
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK - CHALLENGE SD" tvg-logo="https://go4.pw/UK/CHALLENG.png" group-title="EU | UK | ENTERTAINMENT",UK - CHALLENGE SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69501.m3u8
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK - BLAZE SD" tvg-logo="https://go4.pw/EUROPE/UK/BLAZE.png" group-title="EU | UK | ENTERTAINMENT",UK - BLAZE SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK -  FASHION TV SD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FTV.png" group-title="EU | UK | ENTERTAINMENT",UK -  FASHION TV SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/811643.m3u8
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK - REALLY SD" tvg-logo="https://go4.pw/UK/really.png" group-title="EU | UK | ENTERTAINMENT",UK - REALLY SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69510.m3u8
+#EXTINF:-1 tvg-id="pbsamerica.uk" tvg-name="UK - PBS AMERICA SD" tvg-logo="https://go4.pw/EUROPE/UK/PBSAMERICA.png" group-title="EU | UK | ENTERTAINMENT",UK - PBS AMERICA SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69506.m3u8
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK - DMAX SD" tvg-logo="https://go4.pw/UK/demax1.png" group-title="EU | UK | ENTERTAINMENT",UK - DMAX SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - ITVX #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | ENTERTAINMENT",##### UK - ITVX #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1354655.m3u8
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK - (ITVX) ITV 1 HD" tvg-logo="https://go4.pw/UK/ITVX.png" group-title="EU | UK | ENTERTAINMENT",UK - (ITVX) ITV 1 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/999470.m3u8
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK - (ITVX) ITV 2 HD" tvg-logo="https://go4.pw/UK/ITVX.png" group-title="EU | UK | ENTERTAINMENT",UK - (ITVX) ITV 2 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/999469.m3u8
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK - (ITVX) ITV 3 HD" tvg-logo="https://go4.pw/UK/ITVX.png" group-title="EU | UK | ENTERTAINMENT",UK - (ITVX) ITV 3 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/999467.m3u8
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK - (ITVX) ITV 4 HD" tvg-logo="https://go4.pw/UK/ITVX.png" group-title="EU | UK | ENTERTAINMENT",UK - (ITVX) ITV 4 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/999466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - (ITVX) ITV QUIZ HD" tvg-logo="https://go4.pw/UK/ITVX.png" group-title="EU | UK | ENTERTAINMENT",UK - (ITVX) ITV QUIZ HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/999468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - (ITVX) WORLD OF  (ITVX) CELEBRITY BIG BROTHER: LIVE STREAM HD" tvg-logo="https://go4.pw/UK/ITVX.png" group-title="EU | UK | ENTERTAINMENT",UK - (ITVX) WORLD OF  (ITVX) CELEBRITY BIG BROTHER: LIVE STREAM HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/999454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - (ITVX) MIDSOMER MURDERS HD" tvg-logo="https://go4.pw/UK/ITVX.png" group-title="EU | UK | ENTERTAINMENT",UK - (ITVX) MIDSOMER MURDERS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/999455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - (ITVX) CRIME DRAMA HD" tvg-logo="https://go4.pw/UK/ITVX.png" group-title="EU | UK | ENTERTAINMENT",UK - (ITVX) CRIME DRAMA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/999457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - (ITVX) WORLD OF MORSE HD" tvg-logo="https://go4.pw/UK/ITVX.png" group-title="EU | UK | ENTERTAINMENT",UK - (ITVX) WORLD OF MORSE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/999458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - (ITVX) VERA HD" tvg-logo="https://go4.pw/UK/ITVX.png" group-title="EU | UK | ENTERTAINMENT",UK - (ITVX) VERA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/999456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - DOCUMENTARY #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | DOCUMENTARY",##### UK - DOCUMENTARY #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70072.m3u8
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK - SKY DOCUMENTARIES FHD" tvg-logo="https://go4.pw/UK/skydoc.png" group-title="EU | UK | DOCUMENTARY",UK - SKY DOCUMENTARIES FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/277146.m3u8
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK - SKY DOCUMENTARIES HD" tvg-logo="https://go4.pw/UK/skydoc.png" group-title="EU | UK | DOCUMENTARY",UK - SKY DOCUMENTARIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348234.m3u8
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK - SKY DOCUMENTARIES SD" tvg-logo="https://go4.pw/UK/skydoc.png" group-title="EU | UK | DOCUMENTARY",UK - SKY DOCUMENTARIES SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348233.m3u8
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK -  SKY CRIME FHD" tvg-logo="https://go4.pw/germany/SKY_CRIME.png" group-title="EU | UK | DOCUMENTARY",UK -  SKY CRIME FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348251.m3u8
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK - SKY CRIME HEVC" tvg-logo="https://go4.pw/germany/SKY_CRIME.png" group-title="EU | UK | DOCUMENTARY",UK - SKY CRIME HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980441.m3u8
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK - SKY CRIME HD" tvg-logo="https://go4.pw/germany/SKY_CRIME.png" group-title="EU | UK | DOCUMENTARY",UK - SKY CRIME HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348252.m3u8
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK - SKY NATURE HEVC" tvg-logo="https://go4.pw/UK/SKYN.png" group-title="EU | UK | DOCUMENTARY",UK - SKY NATURE HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980437.m3u8
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK - SKY NATURE HD" tvg-logo="https://go4.pw/UK/SKYN.png" group-title="EU | UK | DOCUMENTARY",UK - SKY NATURE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/193920.m3u8
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK - SKY NATURE SD" tvg-logo="https://go4.pw/UK/SKYN.png" group-title="EU | UK | DOCUMENTARY",UK - SKY NATURE SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348250.m3u8
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="UK - SKY HISTORY HEVC" tvg-logo="https://go4.pw/UK/skyhh.png" group-title="EU | UK | DOCUMENTARY",UK - SKY HISTORY HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980451.m3u8
+#EXTINF:-1 tvg-id="skyhistory2.uk" tvg-name="UK - SKY HISTORY2 HEVC" tvg-logo="https://go4.pw/UK/skyhh.png" group-title="EU | UK | DOCUMENTARY",UK - SKY HISTORY2 HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980452.m3u8
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK - CRIME&INVESTIGATION FHD" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="EU | UK | DOCUMENTARY",UK - CRIME&INVESTIGATION FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348249.m3u8
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK - CRIME&INVESTIGATION FHD" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="EU | UK | DOCUMENTARY",UK - CRIME&INVESTIGATION FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70073.m3u8
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK - CRIME+INV HEVC" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="EU | UK | DOCUMENTARY",UK - CRIME+INV HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980459.m3u8
+#EXTINF:-1 tvg-id="trtworld.uk" tvg-name="UK - TRT WORLD FHD" tvg-logo="https://go4.pw/UK/trtw.png" group-title="EU | UK | DOCUMENTARY",UK - TRT WORLD FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1057185.m3u8
+#EXTINF:-1 tvg-id="trtworld.uk" tvg-name="UK - TRT WORLD HD" tvg-logo="https://go4.pw/UK/trtw.png" group-title="EU | UK | DOCUMENTARY",UK - TRT WORLD HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1057184.m3u8
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK - NAT GEO WILD HEVC" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="EU | UK | DOCUMENTARY",UK - NAT GEO WILD HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17310.m3u8
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK - NAT GEO WILD HD" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="EU | UK | DOCUMENTARY",UK - NAT GEO WILD HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980458.m3u8
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK - NAT GEO WILD SD" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="EU | UK | DOCUMENTARY",UK - NAT GEO WILD SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348247.m3u8
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK - NAT GEO HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | UK | DOCUMENTARY",UK - NAT GEO HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980474.m3u8
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK - NAT GEO HD ◉" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | UK | DOCUMENTARY",UK - NAT GEO HD ◉
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17309.m3u8
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK - NAT GEO FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | UK | DOCUMENTARY",UK - NAT GEO FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348246.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK - DISCOVERY HEVC" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="EU | UK | DOCUMENTARY",UK - DISCOVERY HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980464.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK - DISCOVERY HD" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="EU | UK | DOCUMENTARY",UK - DISCOVERY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17314.m3u8
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK - DISCOVERY HISTORY HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/DISCOVERYHISTORIA.png" group-title="EU | UK | DOCUMENTARY",UK - DISCOVERY HISTORY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70077.m3u8
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK - DISCOVERY HISTORY SD" tvg-logo="https://go4.pw/EUROPE/POLONIA/DISCOVERYHISTORIA.png" group-title="EU | UK | DOCUMENTARY",UK - DISCOVERY HISTORY SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348239.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK - DISCOVERY SCIENCE HD" tvg-logo="https://go4.pw/EUROPE/discoveryscience.png" group-title="EU | UK | DOCUMENTARY",UK - DISCOVERY SCIENCE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70079.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK - DISCOVERY TURBO SD" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png" group-title="EU | UK | DOCUMENTARY",UK - DISCOVERY TURBO SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70082.m3u8
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK - HISTORY HD" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORYHD-1.png" group-title="EU | UK | DOCUMENTARY",UK - HISTORY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17691.m3u8
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK - HISTORY SD" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORYHD-1.png" group-title="EU | UK | DOCUMENTARY",UK - HISTORY SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348237.m3u8
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK - HISTORY 2 HD" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORY-2-1.png" group-title="EU | UK | DOCUMENTARY",UK - HISTORY 2 HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17311.m3u8
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK - HISTORY 2 SD" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORY-2-1.png" group-title="EU | UK | DOCUMENTARY",UK - HISTORY 2 SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348238.m3u8
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK - ANIMAL PLANET HD" tvg-logo="https://go4.pw/EUROPE/DENMARK/ANIMALPLANET.png" group-title="EU | UK | DOCUMENTARY",UK - ANIMAL PLANET HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17315.m3u8
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK - ANIMAL PLANET SD" tvg-logo="https://go4.pw/EUROPE/DENMARK/ANIMALPLANET.png" group-title="EU | UK | DOCUMENTARY",UK - ANIMAL PLANET SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348248.m3u8
+#EXTINF:-1 tvg-id="Paramount.uk" tvg-name="UK - PARAMOUNT NETWORK HD" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="EU | UK | DOCUMENTARY",UK - PARAMOUNT NETWORK HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - PARAMOUNT NETWORK SD" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="EU | UK | DOCUMENTARY",UK - PARAMOUNT NETWORK SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348244.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK - INVESTIGATION DISCOVERY (ID) HD" tvg-logo="https://go4.pw/EUROPE/id.png" group-title="EU | UK | DOCUMENTARY",UK - INVESTIGATION DISCOVERY (ID) HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348243.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK - INVESTIGATION DISCOVERY (ID) SD" tvg-logo="https://go4.pw/EUROPE/id.png" group-title="EU | UK | DOCUMENTARY",UK - INVESTIGATION DISCOVERY (ID) SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC EARTH HD" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="EU | UK | DOCUMENTARY",UK - BBC EARTH HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/273577.m3u8
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK - TRAVEL CHANNEL" tvg-logo="https://go4.pw/AMERICA/USA/THETRAVELCHANNEL.png" group-title="EU | UK | ENTERTAINMENT",UK - TRAVEL CHANNEL
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIRGIN MEDIA THREE SD" tvg-logo="https://go4.pw/UK/three.png" group-title="EU | UK | DOCUMENTARY",UK - VIRGIN MEDIA THREE SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### UK - KIDS #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | KIDS",##### UK - KIDS #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17337.m3u8
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="UK - SKY KIDS FHD" tvg-logo="https://go4.pw/UK/skykids1.png" group-title="EU | UK | KIDS",UK - SKY KIDS FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348210.m3u8
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="UK - SKY KIDS HEVC" tvg-logo="https://go4.pw/UK/skykids1.png" group-title="EU | UK | KIDS",UK - SKY KIDS HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980425.m3u8
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="UK - SKY KIDS HD" tvg-logo="https://go4.pw/UK/skykids1.png" group-title="EU | UK | KIDS",UK - SKY KIDS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348209.m3u8
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="UK - SKY KIDS SD" tvg-logo="https://go4.pw/UK/skykids1.png" group-title="EU | UK | KIDS",UK - SKY KIDS SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/348211.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK - NICKELODEON FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="EU | UK | KIDS",UK - NICKELODEON FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/764529.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK - NICKELODEON HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="EU | UK | KIDS",UK - NICKELODEON HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980465.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK - NICKELODEON EUROPE HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="EU | UK | KIDS",UK - NICKELODEON EUROPE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17327.m3u8
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK - NICK JR PEPPA HD" tvg-logo="https://go4.pw/UK/nickjrpeppa.png" group-title="EU | UK | KIDS",UK - NICK JR PEPPA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17330.m3u8
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK - NICK JUNIOR  HD" tvg-logo="https://go4.pw/UK/nickjr.png" group-title="EU | UK | KIDS",UK - NICK JUNIOR  HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17329.m3u8
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="UK - NICK TOONS SD" tvg-logo="https://go4.pw/germany/Nicktoons.png" group-title="EU | UK | KIDS",UK - NICK TOONS SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17328.m3u8
+#EXTINF:-1 tvg-id="disneychannel.uk" tvg-name="UK - DISNEY CHANNEL FHD" tvg-logo="https://go4.pw/EUROPE/UK/DISNEYCHANNEL.png" group-title="EU | UK | KIDS",UK - DISNEY CHANNEL FHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17326.m3u8
+#EXTINF:-1 tvg-id="disneychannel.uk" tvg-name="UK - DISNEY CHANNEL HD" tvg-logo="https://go4.pw/EUROPE/UK/DISNEYCHANNEL.png" group-title="EU | UK | KIDS",UK - DISNEY CHANNEL HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17325.m3u8
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK - DISNEY JUNIOR HEVC" tvg-logo="https://go4.pw/UK/disneyjr.png" group-title="EU | UK | KIDS",UK - DISNEY JUNIOR HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17697.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-name="UK - DISNEY JUNIOR HD" tvg-logo="https://go4.pw/UK/disneyjr.png" group-title="EU | UK | KIDS",UK - DISNEY JUNIOR HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17324.m3u8
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK - DISNEY XD HD" tvg-logo="https://go4.pw/EUROPE/UK/DISNEYXD.png" group-title="EU | UK | KIDS",UK - DISNEY XD HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17696.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK - CARTOON NET HEVC" tvg-logo="https://go4.pw/UK/cartoonnet.png" group-title="EU | UK | KIDS",UK - CARTOON NET HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980475.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK - CARTOON NETWORK HD" tvg-logo="https://go4.pw/UK/cartoonnet.png" group-title="EU | UK | KIDS",UK - CARTOON NETWORK HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17323.m3u8
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK - CARTOONITO (NOT 24) HD" tvg-logo="https://go4.pw/UK/cartoonito.png" group-title="EU | UK | KIDS",UK - CARTOONITO (NOT 24) HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69483.m3u8
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK - BOOMERANG HEVC" tvg-logo="https://go4.pw/EUROPE/UK/BOOMERANG-1.png" group-title="EU | UK | KIDS",UK - BOOMERANG HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980477.m3u8
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK - BOOMERANG SD" tvg-logo="https://go4.pw/EUROPE/UK/BOOMERANG-1.png" group-title="EU | UK | KIDS",UK - BOOMERANG SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17334.m3u8
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK - CBEEBIES HD" tvg-logo="https://go4.pw/EUROPE/UK/CBEEBIES.png" group-title="EU | UK | KIDS",UK - CBEEBIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - RTE JUNIOR HD" tvg-logo="https://go4.pw/EUROPE/rtejr.png" group-title="EU | UK | KIDS",UK - RTE JUNIOR HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17333.m3u8
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK - BABY TV SD" tvg-logo="https://go4.pw/EUROPE/UK/BABYTV.png" group-title="EU | UK | KIDS",UK - BABY TV SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17336.m3u8
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK - POP SD" tvg-logo="https://go4.pw/UK/POP1.png" group-title="EU | UK | KIDS",UK - POP SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17298.m3u8
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="UK - POP MAX SD" tvg-logo="https://go4.pw/EUROPE/UK/POPMAX-1.png" group-title="EU | UK | KIDS",UK - POP MAX SD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/17297.m3u8
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK - YESTERDAY HEVC" tvg-logo="https://go4.pw/UK/yesterday.png" group-title="EU | UK | ENTERTAINMENT",UK - YESTERDAY HEVC
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/980461.m3u8
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK - YESTERDAY HD" tvg-logo="https://go4.pw/UK/yesterday.png" group-title="EU | UK | ENTERTAINMENT",UK - YESTERDAY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/69518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="######## GOLDTV 24/7 CHANNELS ########" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | 24/7",######## GOLDTV 24/7 CHANNELS ########
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1018116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | AL PACINO HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | AL PACINO HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | ARCHER HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | ARCHER HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | ARNOLD SCHWARZENEGGERHD " tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | ARNOLD SCHWARZENEGGERHD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | BACK TO THE FUTURE HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | BACK TO THE FUTURE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | BATMAN MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | BATMAN MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | BILLY THE EXTERMINATOR HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | BILLY THE EXTERMINATOR HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | BILLY THE EXTERMINATOR HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | BILLY THE EXTERMINATOR HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | BLADE MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | BLADE MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | BONANZA HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | BONANZA HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | BRUCE LEE MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | BRUCE LEE MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | CHAPPELLE'S SHOW HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | CHAPPELLE'S SHOW HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 |  COMEDY MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 |  COMEDY MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | CRIME MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | CRIME MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | DEADLIEST CATCH HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | DEADLIEST CATCH HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | DEGRASSI JUNIOR HIGH HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | DEGRASSI JUNIOR HIGH HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | DIE HARD HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | DIE HARD HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 |  EDDY MURPHY HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 |  EDDY MURPHY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 |  FAMILY MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 |  FAMILY MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | FIFTY SHADES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | FIFTY SHADES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | FRIDAY THE 13TH HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | FRIDAY THE 13TH HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | GREASE HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | GREASE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | HARRY POTTER HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | HARRY POTTER HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | HORROR MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | HORROR MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | INDIANA JONES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | INDIANA JONES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | JAMES BOND HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | JAMES BOND HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | JASON BOURNE HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | JASON BOURNE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | JCVD MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | JCVD MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | JIM CARREY HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | JIM CARREY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | JURASSIC PARK HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | JURASSIC PARK HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | KING OF THE HILL HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | KING OF THE HILL HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | LORD OF THE RINGS HD " tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | LORD OF THE RINGS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | MATRIX HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | MATRIX HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | MEN IN BLACK HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | MEN IN BLACK HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 |  MR BEAN HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 |  MR BEAN HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | NIGHT COURT HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | NIGHT COURT HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | PIRATES OF THE CARIBBEAN HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | PIRATES OF THE CARIBBEAN HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | PLANET OF THE APES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | PLANET OF THE APES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | POLICE ACADEMY HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | POLICE ACADEMY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | PREDATOR/ALIEN MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | PREDATOR/ALIEN MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | QUENTIN TARANTINO MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | QUENTIN TARANTINO MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | RAMBO HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | RAMBO HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | RICK AND MORTY HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | RICK AND MORTY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | ROCKY HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | ROCKY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | ROMANCE MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | ROMANCE MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | ROSEANNE HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | ROSEANNE HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | RUSH HOUR HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | RUSH HOUR HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | SCIFI MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | SCIFI MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | SHE-RA: PRINCESS OF POWER HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | SHE-RA: PRINCESS OF POWER HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | SIMPSONS HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | SIMPSONS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | SIX MILLION DOLLAR MAN HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | SIX MILLION DOLLAR MAN HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | SPONGEBOB SQUAREPANTS HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | SPONGEBOB SQUAREPANTS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | SPORTS MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | SPORTS MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | STAR TREK MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | STAR TREK MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | STAR WARS HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | STAR WARS HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | STEVEN SEAGAL HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | STEVEN SEAGAL HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | TEXAS CHAINSAW MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | TEXAS CHAINSAW MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 |THE ANDY GRIFFITH SHOW HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 |THE ANDY GRIFFITH SHOW HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | THE BEVERLY HILLBILLIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | THE BEVERLY HILLBILLIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | THE BIONIC WOMAN HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | THE BIONIC WOMAN HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | THE BOB NEWHART SHOW HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | THE BOB NEWHART SHOW HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | THE CAROL BURNETT SHOW HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | THE CAROL BURNETT SHOW HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | THE LOVE BOAT HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | THE LOVE BOAT HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | THE NANNY HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | THE NANNY HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 |  THRILLER MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 |  THRILLER MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | WILL FERRELL MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | WILL FERRELL MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - GOLD TV 24/7 | WILL FERRELL MOVIES HD" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | UK | 24/7",UK - GOLD TV 24/7 | WILL FERRELL MOVIES HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### HBO MAX PPV #####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | HBO MAX PPV",##### HBO MAX PPV #####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  01 : SAN DIEGO PADRES @ CHICAGO CUBS (MLB) – JUL 01 – 7:00 PM UK / 2:00 PM ET" tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  01 : SAN DIEGO PADRES @ CHICAGO CUBS (MLB) – JUL 01 – 7:00 PM UK / 2:00 PM ET
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  02 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  02 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  03 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  03 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  04 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  04 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  05 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  05 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  06 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  06 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  07 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  07 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  08 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  08 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  09 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  09 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  10 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  10 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  11 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  11 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  12 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  12 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  13 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  13 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  14 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  14 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  15 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  15 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  16 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  16 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  17 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  17 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  18 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  18 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  19 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  19 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - HBO MAX  20 : " tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="EU | UK | HBO MAX PPV",UK - HBO MAX  20 :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1405334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#### UK - DAZN ####" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="EU | UK | DAZN",#### UK - DAZN ####
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1130223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 01 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 01 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 02 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 02 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 03 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 03 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 04 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 04 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 05 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 05 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 06 HD :" tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 06 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 07 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 07 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 08 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 08 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 09 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 09 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 10 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 10 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 11 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 11 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN EVENT 12 HD : " tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN EVENT 12 HD :
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAZN RED BULL TV HD" tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN RED BULL TV HD
+http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428583.m3u8
