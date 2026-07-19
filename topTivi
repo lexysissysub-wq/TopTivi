@@ -6404,3 +6404,9 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428572.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428571.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK - DAZN RED BULL TV HD" tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="EU | UK | DAZN",UK - DAZN RED BULL TV HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/428583.m3u8
+#EXTINF:-1,Deluxe Dance by Kontor
+http://83.228.75.166:8000/play/a0f8
+#EXTINF:-1,Deluxe Rap
+http://83.228.75.166:8000/play/a0f7
+#EXTINF:-1,Xplore
+http://83.228.75.166:8000/play/a0f5
