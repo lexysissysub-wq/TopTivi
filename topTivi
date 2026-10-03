@@ -1,301 +1,301 @@
-#EXTINF:-1 group-title="Magyar",Balaton TV
+#EXTINF:-1 group-title="Magyarország",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8 
 
 
-#EXTINF:-1 group-title="Magyar",DTV
+#EXTINF:-1 group-title="Magyarország",DTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Magyar",Pannon TV
+#EXTINF:-1 group-title="Magyarország",Pannon TV
 https://stream2.nmih.hu:4102/live.m3u8
 
 
 
-#EXTINF:-1 group-title="Magyar",Trimedio TV
+#EXTINF:-1 group-title="Magyarország",Trimedio TV
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 
 
-#EXTINF:-1 group-title="Magyar",SPORT 2
+#EXTINF:-1 group-title="Magyarország",SPORT 2
 http://213.163.13.122:1559/udp/239.1.10.167:2000
 
-#EXTINF:-1 group-title="Magyar",HBO HD
+#EXTINF:-1 group-title="Magyarország",HBO HD
 http://213.163.13.122:1559/udp/239.1.10.37:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",HBO2 HD
+#EXTINF:-1 group-title="Magyarország",HBO2 HD
 http://213.163.13.122:1559/udp/239.1.10.38:2000
 
-#EXTINF:-1 group-title="Magyar",HBO 3 HD
+#EXTINF:-1 group-title="Magyarország",HBO 3 HD
 http://213.163.13.122:1559/udp/239.1.10.39:2000
 
-#EXTINF:-1 group-title="Magyar",CINEMAX HD
+#EXTINF:-1 group-title="Magyarország",CINEMAX HD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
 
 
-#EXTINF:-1 group-title="Magyar",MAGYAR MOZI TV
+#EXTINF:-1 group-title="Magyarország",MAGYAR MOZI TV
 http://213.163.13.122:1559/udp/239.1.10.76:2000
 
-#EXTINF:-1 group-title="Magyar",M1 HD
+#EXTINF:-1 group-title="Magyarország",M1 HD
 http://213.163.13.122:1559/udp/239.1.10.1:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",TV2 SUPER HD
+#EXTINF:-1 group-title="Magyarország",TV2 SUPER HD
 http://213.163.13.122:1559/udp/239.1.10.113:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",RTL 2HD
+#EXTINF:-1 group-title="Magyarország",RTL 2HD
 http://213.163.13.122:1559/udp/239.1.10.124:2000
 
-#EXTINF:-1 group-title="Magyar",PRIME
+#EXTINF:-1 group-title="Magyarország",PRIME
 http://213.163.13.122:1559/udp/239.1.10.63:2000
 
-#EXTINF:-1 group-title="Magyar",M4 SPORT HD
+#EXTINF:-1 group-title="Magyarország",M4 SPORT HD
 http://213.163.13.122:1559/udp/239.1.10.135:2000
 
-#EXTINF:-1 group-title="Magyar",SPILER
+#EXTINF:-1 group-title="Magyarország",SPILER
 http://213.163.13.122:1559/udp/239.1.10.154:2000
 
-#EXTINF:-1 group-title="Magyar",SPILER 2
+#EXTINF:-1 group-title="Magyarország",SPILER 2
 http://213.163.13.122:1559/udp/239.1.10.155:2000
 
-#EXTINF:-1 group-title="Magyar",MATCH 4 HD
+#EXTINF:-1 group-title="Magyarország",MATCH 4 HD
 http://213.163.13.122:1559/udp/239.1.10.19:2000
 
-#EXTINF:-1 group-title="Magyar",ARENA 4 HD
+#EXTINF:-1 group-title="Magyarország",ARENA 4 HD
 http://213.163.13.122:1559/udp/239.1.10.62:2000
 
 
-#EXTINF:-1 group-title="Magyar",FILM+ HD
+#EXTINF:-1 group-title="Magyarország",FILM+ HD
 http://213.163.13.122:1559/udp/239.1.10.126:2000
 
-#EXTINF:-1 group-title="Magyar",COOL HD
+#EXTINF:-1 group-title="Magyarország",COOL HD
 http://213.163.13.122:1559/udp/239.1.10.125:2000
 
 
-#EXTINF:-1 group-title="Magyar",AMC
+#EXTINF:-1 group-title="Magyarország",AMC
 http://213.163.13.122:1559/udp/239.1.10.139:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",MOZI+
+#EXTINF:-1 group-title="Magyarország",MOZI+
 http://213.163.13.122:1559/udp/239.1.10.64:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",VIASAT 3
+#EXTINF:-1 group-title="Magyarország",VIASAT 3
 http://213.163.13.122:1559/udp/239.1.10.16:2000
 
-#EXTINF:-1 group-title="Magyar",VIASAT 2
+#EXTINF:-1 group-title="Magyarország",VIASAT 2
 http://213.163.13.122:1559/udp/239.1.10.118:2000
 
-#EXTINF:-1 group-title="Magyar",VIASAT 6
+#EXTINF:-1 group-title="Magyarország",VIASAT 6
 http://213.163.13.122:1559/udp/239.1.10.79:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",DUNA WORLD HD
+#EXTINF:-1 group-title="Magyarország",DUNA WORLD HD
 http://213.163.13.122:1559/udp/239.1.10.4:2000
 
 
-#EXTINF:-1 group-title="Magyar",HISTORY HD
+#EXTINF:-1 group-title="Magyarország",HISTORY HD
 http://213.163.13.122:1559/udp/239.1.10.116:2000
 
 
-#EXTINF:-1 group-title="Magyar",BBC EARTH
+#EXTINF:-1 group-title="Magyarország",BBC EARTH
 http://213.163.13.122:1559/udp/239.1.10.106:2000
 
-#EXTINF:-1 group-title="Magyar",VIASAT HISTORY
+#EXTINF:-1 group-title="Magyarország",VIASAT HISTORY
 http://213.163.13.122:1559/udp/239.1.10.78:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",SOROZAT+
+#EXTINF:-1 group-title="Magyarország",SOROZAT+
 http://213.163.13.122:1559/udp/239.1.10.128:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",EPIC DRAMA
+#EXTINF:-1 group-title="Magyarország",EPIC DRAMA
 http://213.163.13.122:1559/udp/239.1.10.163:2000
 
-#EXTINF:-1 group-title="Magyar",FILM MANIA HD
+#EXTINF:-1 group-title="Magyarország",FILM MANIA HD
 http://213.163.13.122:1559/udp/239.1.10.96:2000
 
-#EXTINF:-1 group-title="Magyar",MOZIVERZUM
+#EXTINF:-1 group-title="Magyarország",MOZIVERZUM
 http://213.163.13.122:1559/udp/239.1.10.158:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",VIASAT FILM
+#EXTINF:-1 group-title="Magyarország",VIASAT FILM
 http://213.163.13.122:1559/udp/239.1.10.117:2000
 
 
-#EXTINF:-1 group-title="Magyar",FILMBOX STARS
+#EXTINF:-1 group-title="Magyarország",FILMBOX STARS
 http://213.163.13.122:1559/udp/239.1.10.175:2000
 
-#EXTINF:-1 group-title="Magyar",JOCKY TV
+#EXTINF:-1 group-title="Magyarország",JOCKY TV
 http://213.163.13.122:1559/udp/239.1.10.159:2000
 
-#EXTINF:-1 group-title="Magyar",TV4
+#EXTINF:-1 group-title="Magyarország",TV4
 http://213.163.13.122:1559/udp/239.1.10.34:2000
 
-#EXTINF:-1 group-title="Magyar",FILM 4
+#EXTINF:-1 group-title="Magyarország",FILM 4
 http://213.163.13.122:1559/udp/239.1.10.164:2000
 
-#EXTINF:-1 group-title="Magyar",AXN
+#EXTINF:-1 group-title="Magyarország",AXN
 http://213.163.13.122:1559/udp/239.1.10.132:2000
 
 
-#EXTINF:-1 group-title="Magyar",STORY 4
+#EXTINF:-1 group-title="Magyarország",STORY 4
 http://213.163.13.122:1559/udp/239.1.10.85:2000
 
-#EXTINF:-1 group-title="Magyar",MAX4
+#EXTINF:-1 group-title="Magyarország",MAX4
 http://213.163.13.122:1559/udp/239.1.10.75:2000
 
-#EXTINF:-1 group-title="Magyar",IZAURA TV
+#EXTINF:-1 group-title="Magyarország",IZAURA TV
 http://213.163.13.122:1559/udp/239.1.10.145:2000
 
-#EXTINF:-1 group-title="Magyar",LIFE
+#EXTINF:-1 group-title="Magyarország",LIFE
 http://213.163.13.122:1559/udp/239.1.10.90:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",ATV
+#EXTINF:-1 group-title="Magyarország",ATV
 http://213.163.13.122:1559/udp/239.1.10.152:2000
 
-#EXTINF:-1 group-title="Magyar",ATV EXTRA
+#EXTINF:-1 group-title="Magyarország",ATV EXTRA
 http://213.163.13.122:1559/udp/239.1.10.161:2000
 
-#EXTINF:-1 group-title="Magyar",SOROZAT KLUB
+#EXTINF:-1 group-title="Magyarország",SOROZAT KLUB
 http://213.163.13.122:1559/udp/239.1.10.72:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",Dance Tv
+#EXTINF:-1 group-title="Magyarország",Dance Tv
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 
-#EXTINF:-1 group-title="Magyar",EUROSPORT 1
+#EXTINF:-1 group-title="Magyarország",EUROSPORT 1
 http://213.163.13.122:1559/udp/239.1.10.120:2000
 
-#EXTINF:-1 group-title="Magyar",EUROSPORT 2
+#EXTINF:-1 group-title="Magyarország",EUROSPORT 2
 http://213.163.13.122:1559/udp/239.1.10.121:2000
 
-#EXTINF:-1 group-title="Magyar",OZONE HD
+#EXTINF:-1 group-title="Magyarország",OZONE HD
 http://213.163.13.122:1559/udp/239.1.10.52:2000
 
-#EXTINF:-1 group-title="Magyar",SPEKTRUM
+#EXTINF:-1 group-title="Magyarország",SPEKTRUM
 http://213.163.13.122:1559/udp/239.1.10.165:2000
 
-#EXTINF:-1 group-title="Magyar",SPEKTRUM HOME
+#EXTINF:-1 group-title="Magyarország",SPEKTRUM HOME
 http://213.163.13.122:1559/udp/239.1.10.166:2000
 
-#EXTINF:-1 group-title="Magyar",DISCOVERY ID
+#EXTINF:-1 group-title="Magyarország",DISCOVERY ID
 http://213.163.13.122:1559/udp/239.1.10.70:2000
 
-#EXTINF:-1 group-title="Magyar",CARTOON NETWORK
+#EXTINF:-1 group-title="Magyarország",CARTOON NETWORK
 http://213.163.13.122:1559/udp/239.1.10.74:2000
 
-#EXTINF:-1 group-title="Magyar",TV2 KIDS
+#EXTINF:-1 group-title="Magyarország",TV2 KIDS
 http://213.163.13.122:1559/udp/239.1.10.148:2000
 
-#EXTINF:-1 group-title="Magyar",NICK JR
+#EXTINF:-1 group-title="Magyarország",NICK JR
 http://213.163.13.122:1559/udp/239.1.10.140:2000
 
-#EXTINF:-1 group-title="Magyar",TV2 COMEDY
+#EXTINF:-1 group-title="Magyarország",TV2 COMEDY
 http://213.163.13.122:1559/udp/239.1.10.146:2000
 
 
-#EXTINF:-1 group-title="Magyar",VIASAT EXPLORER
+#EXTINF:-1 group-title="Magyarország",VIASAT EXPLORER
 http://213.163.13.122:1559/udp/239.1.10.28:2000
 
 
-#EXTINF:-1 group-title="Magyar",TRAVEL
+#EXTINF:-1 group-title="Magyarország",TRAVEL
 http://213.163.13.122:1559/udp/239.1.10.104:2000
 
-#EXTINF:-1 group-title="Magyar",RTL OTTHON HD
+#EXTINF:-1 group-title="Magyarország",RTL OTTHON HD
 http://213.163.13.122:1559/udp/239.1.10.93:2000
 
-#EXTINF:-1 group-title="Magyar",VIASAT NATURE HD
+#EXTINF:-1 group-title="Magyarország",VIASAT NATURE HD
 http://213.163.13.122:1559/udp/239.1.10.65:2000
 
-#EXTINF:-1 group-title="Magyar",NAT GEO WILD HD
+#EXTINF:-1 group-title="Magyarország",NAT GEO WILD HD
 http://213.163.13.122:1559/udp/239.1.10.60:2000
 
-#EXTINF:-1 group-title="Magyar",ANIMAL PLANET
+#EXTINF:-1 group-title="Magyarország",ANIMAL PLANET
 http://213.163.13.122:1559/udp/239.1.10.102:2000
 
-#EXTINF:-1 group-title="Magyar",TLC
+#EXTINF:-1 group-title="Magyarország",TLC
 http://213.163.13.122:1559/udp/239.1.10.151:2000
 
-#EXTINF:-1 group-title="Magyar",DISCOVERY
+#EXTINF:-1 group-title="Magyarország",DISCOVERY
 http://213.163.13.122:1559/udp/239.1.10.150:2000
 
 
 
 
-#EXTINF:-1 group-title="Magyar",JAZZ TV
+#EXTINF:-1 group-title="Magyarország",JAZZ TV
 http://213.163.13.122:1559/udp/239.1.10.11:2000
 
-#EXTINF:-1 group-title="Magyar",SLÁGER TV
+#EXTINF:-1 group-title="Magyarország",SLÁGER TV
 http://213.163.13.122:1559/udp/239.1.10.89:2000
 
-#EXTINF:-1 group-title="Magyar",ZENEBUTIK
+#EXTINF:-1 group-title="Magyarország",ZENEBUTIK
 http://213.163.13.122:1559/udp/239.1.10.149:2000
 
-#EXTINF:-1 group-title="Magyar",DA VINCI
+#EXTINF:-1 group-title="Magyarország",DA VINCI
 http://213.163.13.122:1559/udp/239.1.10.141:2000
 
-#EXTINF:-1 group-title="Magyar",MINIMAX
+#EXTINF:-1 group-title="Magyarország",MINIMAX
 http://213.163.13.122:1559/udp/239.1.10.26:2000
 
-#EXTINF:-1 group-title="Magyar",TV2 KLUB
+#EXTINF:-1 group-title="Magyarország",TV2 KLUB
 http://213.163.13.122:1559/udp/239.1.10.144:2000
 
-#EXTINF:-1 group-title="Magyar",DISNEY CHANNEL
+#EXTINF:-1 group-title="Magyarország",DISNEY CHANNEL
 http://213.163.13.122:1559/udp/239.1.10.88:2000
 
-#EXTINF:-1 group-title="Magyar",NICKTOONS
+#EXTINF:-1 group-title="Magyarország",NICKTOONS
 http://213.163.13.122:1559/udp/239.1.10.112:2000
 
-#EXTINF:-1 group-title="Magyar",TV2 SÉF
+#EXTINF:-1 group-title="Magyarország",TV2 SÉF
 http://213.163.13.122:1559/udp/239.1.10.147:2000
 
-#EXTINF:-1 group-title="Magyar",KÖLYÖK KLUB HD
+#EXTINF:-1 group-title="Magyarország",KÖLYÖK KLUB HD
 http://213.163.13.122:1559/udp/239.1.10.115:2000
 
-#EXTINF:-1 group-title="Magyar",DIKH
+#EXTINF:-1 group-title="Magyarország",DIKH
 http://213.163.13.122:1559/udp/239.1.10.157:2000
 
 
-#EXTINF:-1 group-title="Magyar",TV EGER
+#EXTINF:-1 group-title="Magyarország",TV EGER
 http://stream.tveger.hu:8010/live.m3u8
 
-#EXTINF:-1 group-title="Magyar",PAX
+#EXTINF:-1 group-title="Magyarország",PAX
 http://213.163.13.122:1559/udp/239.1.10.10:2000
 
-#EXTINF:-1 group-title="Magyar",CARTOONITO
+#EXTINF:-1 group-title="Magyarország",CARTOONITO
 http://213.163.13.122:1559/udp/239.1.10.87:2000
 
 
 
-#EXTINF:-1 group-title="Magyar",The Fishing And Hunting
+#EXTINF:-1 group-title="Magyarország",The Fishing And Hunting
 http://213.163.13.122:1559/udp/239.1.10.98:2000
 
-#EXTINF:-1 group-title="Magyar",JIM JAM
+#EXTINF:-1 group-title="Magyarország",JIM JAM
 http://213.163.13.122:1559/udp/239.1.10.46:2000
 
-#EXTINF:-1 group-title="Magyar",Duck TV
+#EXTINF:-1 group-title="Magyarország",Duck TV
 http://213.163.13.122:1559/udp/239.1.10.97:2000
 
-#EXTINF:-1 group-title="Magyar",APOSTOL TV
+#EXTINF:-1 group-title="Magyarország",APOSTOL TV
 http://213.163.13.122:1559/udp/239.1.10.51:2000
 
-#EXTINF:-1 group-title="Magyar",HETI TV
+#EXTINF:-1 group-title="Magyarország",HETI TV
 http://213.163.13.122:1559/udp/239.1.10.54:2000
 
 #EXTM3U
@@ -500,181 +500,181 @@ http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13371
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Magyar",Izaura
+#EXTINF:-1 group-title="Magyarország",Izaura
 http://88.212.15.19/live/izaura/index.m3u8
-#EXTINF:-1 group-title="Magyar",Slager Tv 1200
+#EXTINF:-1 group-title="Magyarország",Slager Tv 1200
 http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Esp1
+#EXTINF:-1 group-title="Magyarország",Esp1
 http://88.212.15.19/live/esp1_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Esp2
+#EXTINF:-1 group-title="Magyarország",Esp2
 http://88.212.15.19/live/esp2_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Atv Spirit
+#EXTINF:-1 group-title="Magyarország",Atv Spirit
 http://88.212.15.19/live/test_atv_spirit/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Atv 1200
+#EXTINF:-1 group-title="Magyarország",Atv 1200
 http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Muzsika 1200
+#EXTINF:-1 group-title="Magyarország",Muzsika 1200
 http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Rtl2 1200
+#EXTINF:-1 group-title="Magyarország",Rtl2 1200
 http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Rtl Plus 1200
+#EXTINF:-1 group-title="Magyarország",Rtl Plus 1200
 http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Rtl Klub 1200
+#EXTINF:-1 group-title="Magyarország",Rtl Klub 1200
 http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Film Plus 2 1200
+#EXTINF:-1 group-title="Magyarország",Film Plus 2 1200
 https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Galaxy 4 Atk
+#EXTINF:-1 group-title="Magyarország",Galaxy 4 Atk
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Euronews 1200
+#EXTINF:-1 group-title="Magyarország",Euronews 1200
 https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Filmbox Plus Atk
+#EXTINF:-1 group-title="Magyarország",Filmbox Plus Atk
 http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Filmbox
+#EXTINF:-1 group-title="Magyarország",Filmbox
 http://88.212.15.19/live/filmbox_hungary/index.m3u8
-#EXTINF:-1 group-title="Magyar",Filmbox Family Atk
+#EXTINF:-1 group-title="Magyarország",Filmbox Family Atk
 http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Filmbox Extra Hd Atk
+#EXTINF:-1 group-title="Magyarország",Filmbox Extra Hd Atk
 http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Fb Extra
+#EXTINF:-1 group-title="Magyarország",Fb Extra
 http://88.212.15.19/live/fb_extra_hungary/index.m3u8
-#EXTINF:-1 group-title="Magyar",Rtl Otthon
+#EXTINF:-1 group-title="Magyarország",Rtl Otthon
 http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
-#EXTINF:-1 group-title="Magyar",Dikh
+#EXTINF:-1 group-title="Magyarország",Dikh
 http://88.212.15.19/live/dikh/index.m3u8
-#EXTINF:-1 group-title="Magyar",Moziverzum
+#EXTINF:-1 group-title="Magyarország",Moziverzum
 http://88.212.15.19/live/moziverzum/index.m3u8
-#EXTINF:-1 group-title="Magyar",Balaton Tv
+#EXTINF:-1 group-title="Magyarország",Balaton Tv
 http://88.212.15.19/live/balaton_tv/index.m3u8
-#EXTINF:-1 group-title="Magyar",Zenebutik
+#EXTINF:-1 group-title="Magyarország",Zenebutik
 http://88.212.15.19/live/zenebutik/index.m3u8
-#EXTINF:-1 group-title="Magyar",Mozi Plusz
+#EXTINF:-1 group-title="Magyarország",Mozi Plusz
 http://88.212.15.19/live/mozi_plusz/index.m3u8
-#EXTINF:-1 group-title="Magyar",Disney Channel
+#EXTINF:-1 group-title="Magyarország",Disney Channel
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Viasat6
+#EXTINF:-1 group-title="Magyarország",Viasat6
 http://88.212.15.19/live/viasat6/index.m3u8
-#EXTINF:-1 group-title="Magyar",Viasat3
+#EXTINF:-1 group-title="Magyarország",Viasat3
 http://88.212.15.19/live/viasat3/index.m3u8
-#EXTINF:-1 group-title="Magyar",Viasat2
+#EXTINF:-1 group-title="Magyarország",Viasat2
 http://88.212.15.19/live/viasat2/index.m3u8
-#EXTINF:-1 group-title="Magyar",Viasat Film
+#EXTINF:-1 group-title="Magyarország",Viasat Film
 http://88.212.15.19/live/viasat_film/index.m3u8
-#EXTINF:-1 group-title="Magyar",Spektrum
+#EXTINF:-1 group-title="Magyarország",Spektrum
 http://88.212.15.19/live/spektrum_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Spektrum Home
+#EXTINF:-1 group-title="Magyarország",Spektrum Home
 http://88.212.15.19/live/spektrum_home_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Story 4 Atk
+#EXTINF:-1 group-title="Magyarország",Story 4 Atk
 http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Csaba Tv Atk
+#EXTINF:-1 group-title="Magyarország",Csaba Tv Atk
 http://budapest-cache-1.antik.sk/live/test_csaba_tv_atk_800/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Newsmax
+#EXTINF:-1 group-title="Magyarország",Newsmax
 http://budapest-cache-1.antik.sk/live/test_newsmax_avc/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Pianko
+#EXTINF:-1 group-title="Magyarország",Pianko
 http://budapest-cache-1.antik.sk/live/test_pianko/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Film4
+#EXTINF:-1 group-title="Magyarország",Film4
 http://88.212.15.19/live/film4_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Kitchen Tv
+#EXTINF:-1 group-title="Magyarország",Kitchen Tv
 http://budapest-cache-1.antik.sk/live/test_kitchen_tv/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Nicktoons
+#EXTINF:-1 group-title="Magyarország",Nicktoons
 http://88.212.15.19/live/nicktoons_hungary/index.m3u8
-#EXTINF:-1 group-title="Magyar",Nick Junior
+#EXTINF:-1 group-title="Magyarország",Nick Junior
 http://88.212.15.19/live/nick_junior_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Nick Jr 1200
+#EXTINF:-1 group-title="Magyarország",Nick Jr 1200
 http://88.212.15.19/live/test_nick_jr_hu_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Travel
+#EXTINF:-1 group-title="Magyarország",Travel
 http://88.212.15.19/live/travel_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Discovery
+#EXTINF:-1 group-title="Magyarország",Discovery
 http://88.212.15.19/live/discovery_hungary/index.m3u8
-#EXTINF:-1 group-title="Magyar",Tlc
+#EXTINF:-1 group-title="Magyarország",Tlc
 http://88.212.15.19/live/tlc_hungary/index.m3u8
-#EXTINF:-1 group-title="Magyar",Jocky
+#EXTINF:-1 group-title="Magyarország",Jocky
 http://88.212.15.19/live/jocky/index.m3u8
-#EXTINF:-1 group-title="Magyar",Fn
+#EXTINF:-1 group-title="Magyarország",Fn
 http://88.212.15.19/live/fn_hungary/index.m3u8
-#EXTINF:-1 group-title="Magyar",Fb Premium
+#EXTINF:-1 group-title="Magyarország",Fb Premium
 http://88.212.15.19/live/fb_premium_hungary/index.m3u8
-#EXTINF:-1 group-title="Magyar",Amc
+#EXTINF:-1 group-title="Magyarország",Amc
 http://88.212.15.19/live/amc_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Sport1
+#EXTINF:-1 group-title="Magyarország",Sport1
 http://88.212.15.19/live/sport1_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Sport2
+#EXTINF:-1 group-title="Magyarország",Sport2
 http://88.212.15.19/live/sport2_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Minimax
+#EXTINF:-1 group-title="Magyarország",Minimax
 http://88.212.15.19/live/minimax_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Film Cafe
+#EXTINF:-1 group-title="Magyarország",Film Cafe
 http://88.212.15.19/live/film_cafe/index.m3u8
-#EXTINF:-1 group-title="Magyar",Ozone
+#EXTINF:-1 group-title="Magyarország",Ozone
 http://88.212.15.19/live/ozone/index.m3u8
-#EXTINF:-1 group-title="Magyar",Lifetv
+#EXTINF:-1 group-title="Magyarország",Lifetv
 http://88.212.15.19/live/lifetv/index.m3u8
-#EXTINF:-1 group-title="Magyar",Axn
+#EXTINF:-1 group-title="Magyarország",Axn
 http://88.212.15.19/live/axn_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Real Madrid Tv
+#EXTINF:-1 group-title="Magyarország",Real Madrid Tv
 http://88.212.15.19/live/real_madrid_tv/index.m3u8
-#EXTINF:-1 group-title="Magyar",Apostol Tv
+#EXTINF:-1 group-title="Magyarország",Apostol Tv
 http://88.212.15.19/live/apostol_tv/index.m3u8
-#EXTINF:-1 group-title="Magyar",Svoboda
+#EXTINF:-1 group-title="Magyarország",Svoboda
 http://88.212.15.19/live/svoboda/index.m3u8
-#EXTINF:-1 group-title="Magyar",Warner Tv
+#EXTINF:-1 group-title="Magyarország",Warner Tv
 http://88.212.15.19/live/warner_tv/index.m3u8
-#EXTINF:-1 group-title="Magyar",Nickelodeon 1200
+#EXTINF:-1 group-title="Magyarország",Nickelodeon 1200
 http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",History
+#EXTINF:-1 group-title="Magyarország",History
 http://88.212.15.19/live/history_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Travel Xp
+#EXTINF:-1 group-title="Magyarország",Travel Xp
 http://88.212.15.19/live/travel_xp_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Hgtv
+#EXTINF:-1 group-title="Magyarország",Hgtv
 http://88.212.15.19/live/hgtv_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Id
+#EXTINF:-1 group-title="Magyarország",Id
 http://88.212.15.19/live/id_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Ngc
+#EXTINF:-1 group-title="Magyarország",Ngc
 http://88.212.15.19/live/ngc_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Ngw
+#EXTINF:-1 group-title="Magyarország",Ngw
 http://88.212.15.19/live/ngw_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Ewtn Bonum
+#EXTINF:-1 group-title="Magyarország",Ewtn Bonum
 http://88.212.15.19/live/ewtn_bonum/index.m3u8
-#EXTINF:-1 group-title="Magyar",Arena4
+#EXTINF:-1 group-title="Magyarország",Arena4
 http://88.212.15.19/live/arena4/index.m3u8
-#EXTINF:-1 group-title="Magyar",Tv 4 Atk
+#EXTINF:-1 group-title="Magyarország",Tv 4 Atk
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Sorozatklub
+#EXTINF:-1 group-title="Magyarország",Sorozatklub
 http://88.212.15.19/live/sorozatklub_atk/index.m3u8
-#EXTINF:-1 group-title="Magyar",Moziklub
+#EXTINF:-1 group-title="Magyarország",Moziklub
 http://88.212.15.19/live/moziklub_atk/index.m3u8
-#EXTINF:-1 group-title="Magyar",Kolyokklub
+#EXTINF:-1 group-title="Magyarország",Kolyokklub
 http://88.212.15.19/live/kolyokklub_atk/index.m3u8
-#EXTINF:-1 group-title="Magyar",Fem3
+#EXTINF:-1 group-title="Magyarország",Fem3
 http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Tv 2 1200
+#EXTINF:-1 group-title="Magyarország",Tv 2 1200
 http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Super Tv2 1200
+#EXTINF:-1 group-title="Magyarország",Super Tv2 1200
 http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Tv2 Kids
+#EXTINF:-1 group-title="Magyarország",Tv2 Kids
 http://88.212.15.19/live/tv2_kids/index.m3u8
-#EXTINF:-1 group-title="Magyar",Tv2 Comedy
+#EXTINF:-1 group-title="Magyarország",Tv2 Comedy
 http://88.212.15.19/live/tv2_comedy/index.m3u8
-#EXTINF:-1 group-title="Magyar",Lichi Tv
+#EXTINF:-1 group-title="Magyarország",Lichi Tv
 http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Duna
+#EXTINF:-1 group-title="Magyarország",Duna
 http://88.212.15.19/live/duna_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Duna World
+#EXTINF:-1 group-title="Magyarország",Duna World
 http://88.212.15.19/live/duna_world_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Film Plus
+#EXTINF:-1 group-title="Magyarország",Film Plus
 http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
-#EXTINF:-1 group-title="Magyar",M 1 1200
+#EXTINF:-1 group-title="Magyarország",M 1 1200
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",M2
+#EXTINF:-1 group-title="Magyarország",M2
 http://88.212.15.19/live/m2_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",M 5 Atk
+#EXTINF:-1 group-title="Magyarország",M 5 Atk
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Spiler1
+#EXTINF:-1 group-title="Magyarország",Spiler1
 http://88.212.15.19/live/spiler1/index.m3u8
-#EXTINF:-1 group-title="Magyar",Spiler2
+#EXTINF:-1 group-title="Magyarország",Spiler2
 http://88.212.15.19/live/spiler2/index.m3u8
-#EXTINF:-1 group-title="Magyar",Prime
+#EXTINF:-1 group-title="Magyarország",Prime
 http://88.212.15.19/live/prime/index.m3u8
-#EXTINF:-1 group-title="Magyar",Sorozat 1200
+#EXTINF:-1 group-title="Magyarország",Sorozat 1200
 http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Bbc Eartch
+#EXTINF:-1 group-title="Magyarország",Bbc Eartch
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Magyar",Mozi
+#EXTINF:-1 group-title="Magyarország",Mozi
 http://88.212.15.19/live/mozi/index.m3u8
