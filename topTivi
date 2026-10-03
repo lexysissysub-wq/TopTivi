@@ -663,8 +663,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1138865.m3u8
 
 #EXTINF:-1 group-title="Németország",DE - ARTE 
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33571.m3u8
-#EXTINF:-1 group-title="Németország",DE - ARTE FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762821.m3u8
+
 #EXTINF:-1 group-title="Németország",DE - 3 SAT HD 
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33568.m3u8
 #EXTINF:-1 group-title="Németország",DE - ALPHA FHD
@@ -676,12 +675,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762819.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1029569.m3u8
 #EXTINF:-1 group-title="Németország",DE - ZDF HD 
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33570.m3u8
-#EXTINF:-1 group-title="Németország",DE - ZDF SD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762816.m3u8
 
-
-#EXTINF:-1 group-title="Németország",DE - ZDF INFO FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/497884.m3u8
 #EXTINF:-1 group-title="Németország",DE - ZDF INFO HD 
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/83173.m3u8
 
@@ -691,45 +685,26 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139032.m3u8
 #EXTINF:-1 group-title="Németország",DE - ZDF NEO HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33569.m3u8
 
-#EXTINF:-1 group-title="Németország",DE - GENIUS FAMILY SD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/325528.m3u8
 #EXTINF:-1 group-title="Németország",DE - RTL 8K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1138856.m3u8
 #EXTINF:-1 group-title="Németország",DE - RTL 4K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1029570.m3u8
-#EXTINF:-1 group-title="Németország",DE - RTL FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498795.m3u8
-#EXTINF:-1 group-title="Németország",DE - RTL HD 
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/497888.m3u8
-
 
 #EXTINF:-1 group-title="Németország",DE - RTL ZWEI 4K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139037.m3u8
-#EXTINF:-1 group-title="Németország",DE - RTL ZWEI FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/780811.m3u8
-#EXTINF:-1 group-title="Németország",DE - RTL ZWEI FHD2 
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33553.m3u8
-#EXTINF:-1 group-title="Németország",DE - RTL ZWEI HEVC
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33566.m3u8
 #EXTINF:-1 group-title="Németország",DE - RTL ZWEI HD 
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/70098.m3u8
-#EXTINF:-1 group-title="Németország",DE - RTL ZWEI HD2
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762725.m3u8
+
 
 
 #EXTINF:-1 group-title="Németország",DE - RTL UP 4K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139035.m3u8
 #EXTINF:-1 group-title="Németország",DE - RTL UP FHD 
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33565.m3u8
-#EXTINF:-1 group-title="Németország",DE - RTL UP HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762731.m3u8
 
 
 #EXTINF:-1 group-title="Németország",DE - RTL LIVING 4K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139034.m3u8
-
-#EXTINF:-1 group-title="Németország",DE - RTL LIVING HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762727.m3u8
 
 
 #EXTINF:-1 group-title="Németország",DE - RTL PASSION FHD
@@ -928,22 +903,12 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498673.m3u8
 #EXTINF:-1 group-title="Németország",DE - DEUTSCHES MUSIK FERNSEHEN HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/325520.m3u8
 
-#EXTINF:-1 group-title="Németország", DE - STINGRAY CLASSICA FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498075.m3u8
+
 #EXTINF:-1 group-title="Németország",DE - STINGRAY CLASSICA HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33455.m3u8
 
 #EXTINF:-1 group-title="Németország",DE - SAT1 EMOTIONS FHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762803.m3u8
-#EXTINF:-1 group-title="Németország",DE - SAT 1 EMOTIONS HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762804.m3u8
-#EXTINF:-1 group-title="Németország",DE - MAGENTA MUSIK 1 FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/970169.m3u8
-#EXTINF:-1 group-title="Németország",DE - MAGENTA MUSIK 2 FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/970170.m3u8
-
-#EXTINF:-1 group-title="Németország",DE - GUTE LAUNE 8K
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139011.m3u8
 
 #EXTINF:-1 group-title="Ausztria",AT - ATV 4K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1030415.m3u8
