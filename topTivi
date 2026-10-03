@@ -669,8 +669,6 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33568.m3u8
 #EXTINF:-1 group-title="Németország",DE - ALPHA FHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1138871.m3u8
 
-#EXTINF:-1 group-title="Németország",DE - ALPHA HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762819.m3u8
 #EXTINF:-1 group-title="Németország",DE - ZDF 4K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1029569.m3u8
 #EXTINF:-1 group-title="Németország",DE - ZDF HD 
@@ -707,23 +705,6 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33565.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139034.m3u8
 
 
-#EXTINF:-1 group-title="Németország",DE - RTL PASSION FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498449.m3u8
-#EXTINF:-1 group-title="Németország",DE - RTL PASSION HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762729.m3u8
-
-
-#EXTINF:-1 group-title="Németország",DE - RTL PLUS HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498790.m3u8
-
-#EXTINF:-1 group-title="Németország",DE - RTL CRIME FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498448.m3u8
-#EXTINF:-1 group-title="Németország",DE - RTL CRIME HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762723.m3u8
-
-
-#EXTINF:-1 group-title="Németország",DE - NITRO 4K
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1030319.m3u8
 
 
 #EXTINF:-1 group-title="Németország",DE - NITRO HD
@@ -731,8 +712,6 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33562.m3u8
 
 #EXTINF:-1 group-title="Németország",DE - SIXX HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33550.m3u8
-#EXTINF:-1 group-title="Németország",DE - SIXX SD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762811.m3u8
 
 
 #EXTINF:-1 group-title="Németország",DE - PROSIEBEN HD 
