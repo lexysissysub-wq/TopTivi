@@ -12589,3 +12589,249 @@ http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/51384
 http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/51385
 #EXTINF:-1 tvg-id="" tvg-name="SWE: DISCOVERY" tvg-logo="" group-title="Svédország",SWE: DISCOVERY
 http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/57366
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="|UK| ITV 1 UK" tvg-logo="https://i.imgur.com/anwabuB.png" group-title="Nagy-Britannia",|UK| ITV 1 UK
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1678.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="|UK| ITV 1 FHD UK" tvg-logo="https://i.imgur.com/anwabuB.png" group-title="Nagy-Britannia",|UK| ITV 1 FHD UK
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/88286.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="|UK| ITV 2 HD" tvg-logo="https://i.imgur.com/3ROEY9n.png" group-title="Nagy-Britannia",|UK| ITV 2 HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1679.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="|UK| ITV 3 HD" tvg-logo="https://i.imgur.com/1z4bKqE.png" group-title="Nagy-Britannia",|UK| ITV 3 HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1680.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="|UK| ITV 4 HD" tvg-logo="https://i.imgur.com/bDzDj3C.png" group-title="Nagy-Britannia",|UK| ITV 4 HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1681.m3u8
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="|UK| TALKTV HD" tvg-logo="https://i.imgur.com/tBrtWiJ.png" group-title="Nagy-Britannia",|UK| TALKTV HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2246.m3u8
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="|UK| ITV BE FHD" tvg-logo="https://i.imgur.com/hI8Z6p3.png" group-title="Nagy-Britannia",|UK| ITV BE FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/4374.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="|UK| GB NEWS HD" tvg-logo="https://i.imgur.com/L2PSsBz.png" group-title="Nagy-Britannia",|UK| GB NEWS HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101007.m3u8
+#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-name="|UK| VIRGIN Media One UK" tvg-logo="https://i.imgur.com/vHEeWSN.png" group-title="Nagy-Britannia",|UK| VIRGIN Media One UK
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/672.m3u8
+#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-name="|UK| VIRGIN Media Two UK FHD" tvg-logo="https://i.imgur.com/QJzaYAQ.png" group-title="Nagy-Britannia",|UK| VIRGIN Media Two UK FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1928.m3u8
+#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-name="|UK| RTÉ NEWS NOW HD" tvg-logo="https://i.imgur.com/qV2gdab.png" group-title="Nagy-Britannia",|UK| RTÉ NEWS NOW HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1930.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="|UK| BBC NEWS FHD" tvg-logo="https://i.imgur.com/IStsN2U.png" group-title="Nagy-Britannia",|UK| BBC NEWS FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1927.m3u8
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="|UK| BBC ONE UK" tvg-logo="https://i.imgur.com/f2dyov3.png" group-title="Nagy-Britannia",|UK| BBC ONE UK
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1171.m3u8
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="|UK| BBC ONE UK HD" tvg-logo="https://i.imgur.com/f2dyov3.png" group-title="Nagy-Britannia",|UK| BBC ONE UK HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/88287.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="|UK| CBBC HD" tvg-logo="https://i.imgur.com/wZ8lKZY.png" group-title="Nagy-Britannia",|UK| CBBC HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2290.m3u8
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="|UK| BBC TWO HD UK" tvg-logo="https://i.imgur.com/f2dyov3.png" group-title="Nagy-Britannia",|UK| BBC TWO HD UK
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1172.m3u8
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="|UK| BBC FOUR HD UK" tvg-logo="https://i.imgur.com/f2dyov3.png" group-title="Nagy-Britannia",|UK| BBC FOUR HD UK
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1173.m3u8
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="|UK| BBC PARLIAMENT HD" tvg-logo="https://i.imgur.com/QHzXyLA.png" group-title="Nagy-Britannia",|UK| BBC PARLIAMENT HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/5448.m3u8
+#EXTINF:-1 tvg-id="STVCentral.uk" tvg-name="|UK| STV FHD" tvg-logo="https://i.imgur.com/O7tlOI1.png" group-title="Nagy-Britannia",|UK| STV FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/100909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| CNN FHD" tvg-logo="" group-title="Nagy-Britannia",|UK| CNN FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101009.m3u8
+#EXTINF:-1 tvg-id="CBSJustice.uk" tvg-name="|UK| CBS JUSTICE HD" tvg-logo="https://i.imgur.com/IXhxjDD.png" group-title="Nagy-Britannia",|UK| CBS JUSTICE HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1935.m3u8
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="|UK| CBS DRAMA" tvg-logo="https://i.imgur.com/zKCralT.png" group-title="Nagy-Britannia",|UK| CBS DRAMA
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1936.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="|UK| CHANNEL 4 FHD" tvg-logo="https://i.imgur.com/QeSQfbX.png" group-title="Nagy-Britannia",|UK| CHANNEL 4 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2106.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="|UK| CHANNEL 5 FHD" tvg-logo="https://i.imgur.com/Xi75qab.png" group-title="Nagy-Britannia",|UK| CHANNEL 5 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2107.m3u8
+#EXTINF:-1 tvg-id="RTE1.ie" tvg-name="|UK| RTÉ ONE FHD" tvg-logo="https://i.imgur.com/Yq7HLX3.png" group-title="Nagy-Britannia",|UK| RTÉ ONE FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1931.m3u8
+#EXTINF:-1 tvg-id="RTÉTwo.uk" tvg-name="|UK| RTÉ TWO FHD" tvg-logo="https://i.imgur.com/5pFO6UB.png" group-title="Nagy-Britannia",|UK| RTÉ TWO FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1932.m3u8
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="|UK| 4 SEVEN HD" tvg-logo="https://i.imgur.com/YISVXe3.png" group-title="Nagy-Britannia",|UK| 4 SEVEN HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/67998.m3u8
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="|UK| 5 USA HD" tvg-logo="https://i.imgur.com/o8MYT1Z.png" group-title="Nagy-Britannia",|UK| 5 USA HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/11451.m3u8
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="|UK| 5 STAR HD" tvg-logo="https://i.imgur.com/Jm6EmVo.png" group-title="Nagy-Britannia",|UK| 5 STAR HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/19541.m3u8
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="|UK| 5 SELECT HD" tvg-logo="https://i.imgur.com/onlZyns.png" group-title="Nagy-Britannia",|UK| 5 SELECT HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/19500.m3u8
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="|UK| 5 ACTION HD" tvg-logo="https://i.imgur.com/CmG7B9n.png" group-title="Nagy-Britannia",|UK| 5 ACTION HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/11448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY NEWS FHD" tvg-logo="https://i.imgur.com/VUKJv9N.png" group-title="Nagy-Britannia",|UK| SKY NEWS FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1274.m3u8
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="|UK| EDEN HD" tvg-logo="https://i.imgur.com/xmAffam.png" group-title="Nagy-Britannia",|UK| EDEN HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/6051.m3u8
+#EXTINF:-1 tvg-id="SCIFI.uk" tvg-name="|UK| SYFY FHD" tvg-logo="https://i.imgur.com/3LroLPZ.png" group-title="Nagy-Britannia",|UK| SYFY FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1165.m3u8
+#EXTINF:-1 tvg-id="SonyTVAsia.uk" tvg-name="|UK| SONY TV FHD" tvg-logo="https://i.imgur.com/JZqFnct.png" group-title="Nagy-Britannia",|UK| SONY TV FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/100907.m3u8
+#EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-name="|UK| UTSAV PLUS HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/utsav-plus-hd-uk.png" group-title="Nagy-Britannia",|UK| UTSAV PLUS HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101040.m3u8
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="|UK| DAVE HD" tvg-logo="https://i.imgur.com/RfIa9jh.png" group-title="Nagy-Britannia",|UK| DAVE HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101016.m3u8
+#EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="|UK| DAVE JA VU HD" tvg-logo="https://i.imgur.com/fSfRCgS.png" group-title="Nagy-Britannia",|UK| DAVE JA VU HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101027.m3u8
+#EXTINF:-1 tvg-id="UtsavGold.uk" tvg-name="|UK| UTSAV GOLD HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/utsav-gold-hd-uk.png" group-title="Nagy-Britannia",|UK| UTSAV GOLD HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101026.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="|UK| COMEDY CENTRAL FHD" tvg-logo="http://i.imgur.com/YwFrAKY.png" group-title="Nagy-Britannia",|UK| COMEDY CENTRAL FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2214.m3u8
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="|UK| SKY ARTS FHD" tvg-logo="https://i.imgur.com/4C96smt.png" group-title="Nagy-Britannia",|UK| SKY ARTS FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2219.m3u8
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="|UK| E4 HD" tvg-logo="https://i.imgur.com/dkN9CoT.png" group-title="Nagy-Britannia",|UK| E4 HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/3950.m3u8
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="|UK| U&ALIBI HD" tvg-logo="https://i.imgur.com/6cDKtf8.png" group-title="Nagy-Britannia",|UK| U&ALIBI HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/12403.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="|UK| SKY CINEMA THRILLER FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA THRILLER FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2218.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="|UK| SKY CINEMA DRAMA FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA DRAMA FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1684.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaGreat.uk" tvg-name="|UK| SKY CINEMA GREATS FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA GREATS FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1682.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="|UK| SKY CINEMA COMEDY FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA COMEDY FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1660.m3u8
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="|UK| SKY KIDS FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-kids-uk.png" group-title="Nagy-Britannia",|UK| SKY KIDS FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1939.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="|UK| SKY CINEMA ACTION FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-action-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA ACTION FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1164.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="|UK| SKY CINEMA ATLANTIC FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-atlantic-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA ATLANTIC FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1209.m3u8
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="|UK| SKY CINEMA SCFI HORROR FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA SCFI HORROR FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1166.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="|UK| SKY CINEMA PREMIERE FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA PREMIERE FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SCI-FI FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-sci-fi-uk.png" group-title="Nagy-Britannia",|UK| SKY SCI-FI FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1940.m3u8
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="|UK| GOLD FHD" tvg-logo="https://i.imgur.com/x7lAvdo.png" group-title="Nagy-Britannia",|UK| GOLD FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2288.m3u8
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="|UK| SKY MAX FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-max-uk.png" group-title="Nagy-Britannia",|UK| SKY MAX FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2845.m3u8
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="|UK| NAT GEO HD" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="Nagy-Britannia",|UK| NAT GEO HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1175.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="|UK| NAT GEO WILD FHD" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="Nagy-Britannia",|UK| NAT GEO WILD FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1176.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="|UK| DISCOVERY TURBO HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/discovery-turbo-uk.png" group-title="Nagy-Britannia",|UK| DISCOVERY TURBO HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2226.m3u8
+#EXTINF:-1 tvg-id="TravelXP.uk" tvg-name="|UK| TRAVEL XP HD" tvg-logo="https://i.imgur.com/zna4SRf.png" group-title="Nagy-Britannia",|UK| TRAVEL XP HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2221.m3u8
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="|UK| TLC FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/tlc-hd-uk.png" group-title="Nagy-Britannia",|UK| TLC FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2928.m3u8
+#EXTINF:-1 tvg-id="Discovery.uk" tvg-name="|UK| DISCOVERY CHANNEL UK HD" tvg-logo="http://i.imgur.com/jvvbM2m.png" group-title="Nagy-Britannia",|UK| DISCOVERY CHANNEL UK HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1168.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="|UK| DISCOVERY SCIENCE UK HD" tvg-logo="http://i.imgur.com/4MrOd8l.png" group-title="Nagy-Britannia",|UK| DISCOVERY SCIENCE UK HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1174.m3u8
+#EXTINF:-1 tvg-id="Investigation.uk" tvg-name="|UK| INVESTIGATION DISCOVERY HD" tvg-logo="http://i.imgur.com/Xbwkt2A.png" group-title="Nagy-Britannia",|UK| INVESTIGATION DISCOVERY HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| DISCOVERY LIFE UK HD" tvg-logo="" group-title="Nagy-Britannia",|UK| DISCOVERY LIFE UK HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1926.m3u8
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="|UK| CRIME & INVESTIGATION FHD" tvg-logo="https://i.imgur.com/91I4t10.png" group-title="Nagy-Britannia",|UK| CRIME & INVESTIGATION FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2222.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="|UK| ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/xmLmDPB.png" group-title="Nagy-Britannia",|UK| ANIMAL PLANET HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1685.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="|UK| FOOD NETWOORK HD" tvg-logo="https://i.imgur.com/7oc8X6b.png" group-title="Nagy-Britannia",|UK| FOOD NETWOORK HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1946.m3u8
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="|UK| SKY WITNESS FHD" tvg-logo="https://i.imgur.com/wPNdUeT.png" group-title="Nagy-Britannia",|UK| SKY WITNESS FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2220.m3u8
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="|UK| SKY DOCUMENTARIES FHD" tvg-logo="https://i.imgur.com/vbVbso5.png" group-title="Nagy-Britannia",|UK| SKY DOCUMENTARIES FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1945.m3u8
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="|UK| SKY NATURE FHD" tvg-logo="https://i.imgur.com/G5PwmxL.png" group-title="Nagy-Britannia",|UK| SKY NATURE FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1941.m3u8
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="|UK| SKY CRIME FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-crime-uk.png" group-title="Nagy-Britannia",|UK| SKY CRIME FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/69103.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="|UK| SKY HISTORY FHD" tvg-logo="https://i.imgur.com/1vBFuXv.png" group-title="Nagy-Britannia",|UK| SKY HISTORY FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2854.m3u8
+#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="|UK| SKY HISTORY 2 FHD" tvg-logo="https://i.imgur.com/wT6uqDu.png" group-title="Nagy-Britannia",|UK| SKY HISTORY 2 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1925.m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.uk" tvg-name="|UK| NAUTICAL CHANNEL UK HD" tvg-logo="" group-title="Nagy-Britannia",|UK| NAUTICAL CHANNEL UK HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/111831.m3u8
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="|UK| TNT SPORTS 1 HD" tvg-logo="https://i.imgur.com/RddAF4K.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 1 HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/3037.m3u8
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="|UK| TNT SPORTS 1 FHD" tvg-logo="https://i.imgur.com/RddAF4K.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 1 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/663.m3u8
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="|UK| TNT SPORTS 2 HD" tvg-logo="https://i.imgur.com/azwiaU8.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 2 HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/12127.m3u8
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="|UK| TNT SPORTS 2 FHD" tvg-logo="https://i.imgur.com/azwiaU8.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 2 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/664.m3u8
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="|UK| TNT SPORTS 3 HD" tvg-logo="https://i.imgur.com/8JLQ4Va.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 3 HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/12186.m3u8
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="|UK| TNT SPORTS 3 FHD" tvg-logo="https://i.imgur.com/8JLQ4Va.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 3 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/665.m3u8
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="|UK| TNT SPORTS 4 HD" tvg-logo="https://i.imgur.com/ZVS3CgG.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 4 HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/20735.m3u8
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="|UK| TNT SPORTS 4 FHD" tvg-logo="https://i.imgur.com/ZVS3CgG.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 4 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1689.m3u8
+#EXTINF:-1 tvg-id="TNTSportsUltimate.uk" tvg-name="|UK| TNT SPORTS ULITMATE HDR 4K" tvg-logo="https://i.imgur.com/8FLAtcl.png" group-title="Nagy-Britannia",|UK| TNT SPORTS ULITMATE HDR 4K
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/111893.m3u8
+#EXTINF:-1 tvg-id="SkySpNews.uk" tvg-name="|UK| SKY SPORTS NEWS FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS NEWS FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1163.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT HD" tvg-logo="https://i.imgur.com/MlBbdS6.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MAIN EVENT HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/10163.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="|UK| SKY SPORTS MAIN EVENTS FHD" tvg-logo="https://i.imgur.com/MlBbdS6.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MAIN EVENTS FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/17774.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT 4K UHD" tvg-logo="https://i.imgur.com/wtvzsPl.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MAIN EVENT 4K UHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2215.m3u8
+#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL HD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS FOOTBALL HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2375.m3u8
+#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS FOOTBALL FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS 1 4K UHD" tvg-logo="" group-title="Nagy-Britannia",|UK| SKY SPORTS 1 4K UHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/40845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS 2 4K UHD" tvg-logo="" group-title="Nagy-Britannia",|UK| SKY SPORTS 2 4K UHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/148.m3u8
+#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="|UK| SKY SPORTS F1 HD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS F1 HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/41315.m3u8
+#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="|UK| SKY SPORTS F1 FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS F1 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/666.m3u8
+#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="|UK| SKY SPORTS F1 4K UHD" tvg-logo="" group-title="Nagy-Britannia",|UK| SKY SPORTS F1 4K UHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/111871.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="|UK| SKY SPORTS CRICKET HD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS CRICKET HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/61496.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="|UK| SKY SPORTS CRICKET FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS CRICKET FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/667.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="|UK| SKY SPORTS GOLF HD" tvg-logo="https://i.imgur.com/izsc1bJ.png" group-title="Nagy-Britannia",|UK| SKY SPORTS GOLF HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2377.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="|UK| SKY SPORTS GOLF FHD" tvg-logo="https://i.imgur.com/izsc1bJ.png" group-title="Nagy-Britannia",|UK| SKY SPORTS GOLF FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2393.m3u8
+#EXTINF:-1 tvg-id="SkySpArena.uk" tvg-name="|UK| SKY SPORTS+ FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS+ FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/668.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="|UK| SKY SPORTS ACTION FHD" tvg-logo="https://i.imgur.com/RI1Urun.png" group-title="Nagy-Britannia",|UK| SKY SPORTS ACTION FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/69102.m3u8
+#EXTINF:-1 tvg-id="SkySpMix.uk" tvg-name="|UK| SKY SPORTS MIX FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MIX FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/669.m3u8
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="|UK| PREMIER SPORTS 1 FHD" tvg-logo="https://i.imgur.com/IdJoLJO.png" group-title="Nagy-Britannia",|UK| PREMIER SPORTS 1 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1428.m3u8
+#EXTINF:-1 tvg-id="Premier2.ie" tvg-name="|UK| PREMIER SPORTS 2 FHD" tvg-logo="https://i.imgur.com/kEaTv1b.png" group-title="Nagy-Britannia",|UK| PREMIER SPORTS 2 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1273.m3u8
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="|UK| SKY SPORT PL HD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORT PL HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/61561.m3u8
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="|UK| SKY SPORT PL FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORT PL FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1466.m3u8
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="|UK| SKY SPORTS TENNIS FHD" tvg-logo="https://i.imgur.com/l0d1o0j.png" group-title="Nagy-Britannia",|UK| SKY SPORTS TENNIS FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1938.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="|UK| EUROSPORT 1 FHD" tvg-logo="http://i.imgur.com/MNX6Be8.png" group-title="Nagy-Britannia",|UK| EUROSPORT 1 FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1741.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="|UK| EUROSPORT 2 HD" tvg-logo="http://i.imgur.com/tENUR8u.png" group-title="Nagy-Britannia",|UK| EUROSPORT 2 HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| LALIGA TV FHD" tvg-logo="" group-title="Nagy-Britannia",|UK| LALIGA TV FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2213.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="|UK| MUTV HD" tvg-logo="" group-title="Nagy-Britannia",|UK| MUTV HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/671.m3u8
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="|UK| LFC TV UK HD" tvg-logo="https://i.imgur.com/MzFxByf.png" group-title="Nagy-Britannia",|UK| LFC TV UK HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1933.m3u8
+#EXTINF:-1 tvg-id="Racing UK HD UK" tvg-name="|UK| SKY SPORT RACING FHD" tvg-logo="https://i.imgur.com/brPWjSt.png" group-title="Nagy-Britannia",|UK| SKY SPORT RACING FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1691.m3u8
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="|UK| BOOMERANG FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/boomerang-uk.png" group-title="Nagy-Britannia",|UK| BOOMERANG FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/5398.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="|UK| CARTOON NETWORK FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/cartoon-network-uk.png" group-title="Nagy-Britannia",|UK| CARTOON NETWORK FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/19673.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="|UK| CARTOONITO FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/cartoonito-uk.png" group-title="Nagy-Britannia",|UK| CARTOONITO FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/19644.m3u8
+#EXTINF:-1 tvg-id="SkyAnimation.uk" tvg-name="|UK| SKY ANIMATION FHD" tvg-logo="https://i.imgur.com/c9WFrTe.png" group-title="Nagy-Britannia",|UK| SKY ANIMATION FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1683.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="|UK| NICKELODEON FHD" tvg-logo="http://i.imgur.com/CZTnf46.png" group-title="Nagy-Britannia",|UK| NICKELODEON FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1208.m3u8
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="|UK| NICKELODEON JR FHD" tvg-logo="http://i.imgur.com/CZTnf46.png" group-title="Nagy-Britannia",|UK| NICKELODEON JR FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2291.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="|UK| DISNEY JUNIOR HD" tvg-logo="http://i.imgur.com/YKSujcL.png" group-title="Nagy-Britannia",|UK| DISNEY JUNIOR HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1703.m3u8
+#EXTINF:-1 tvg-id="RTÉ Jr UK" tvg-name="|UK| RTÉ JR HD" tvg-logo="https://i.imgur.com/6uouogN.png" group-title="Nagy-Britannia",|UK| RTÉ JR HD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1929.m3u8
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="|UK| MTV FHD" tvg-logo="http://i.imgur.com/yKodmlz.png" group-title="Nagy-Britannia",|UK| MTV FHD
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1271.m3u8
+#EXTINF:-1 tvg-id="VH1UK.uk" tvg-name="|UK| VH1" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/vh1-uk.png" group-title="Nagy-Britannia",|UK| VH1
+http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1276.m3u8
