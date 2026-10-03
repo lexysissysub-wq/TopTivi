@@ -12835,3 +12835,420 @@ http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1929.m3u8
 http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1271.m3u8
 #EXTINF:-1 tvg-id="VH1UK.uk" tvg-name="|UK| VH1" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/vh1-uk.png" group-title="Nagy-Britannia",|UK| VH1
 http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1276.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Venezia HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/175064
+#EXTINF:-1 group-title="Olaszország",Sky Sport Business 2 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172174
+#EXTINF:-1 group-title="Olaszország",Sky Sport Business 1 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172173
+#EXTINF:-1 group-title="Olaszország",Sky Sport 4K IT [events only]
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172172
+#EXTINF:-1 group-title="Olaszország",Sky Sport Mix HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172171
+#EXTINF:-1 group-title="Olaszország",Sky Sport Legend HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172170
+#EXTINF:-1 group-title="Olaszország",Sky Sport F1 4K IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172169
+#EXTINF:-1 group-title="Olaszország",Sky Sport Uno 4K IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172168
+#EXTINF:-1 group-title="Olaszország",Sky Cinema Stories HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172167
+#EXTINF:-1 group-title="Olaszország",Sky Collection HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172166
+#EXTINF:-1 group-title="Olaszország",Sky Adventure HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172165
+#EXTINF:-1 group-title="Olaszország",Sky Uno + HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/172164
+#EXTINF:-1 group-title="Olaszország",Champions Amazon Prime HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/165521
+#EXTINF:-1 group-title="Olaszország",▬ Italy [IT] ▬
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/16527
+#EXTINF:-1 group-title="Olaszország",Italia 1 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/5234
+#EXTINF:-1 group-title="Olaszország",Italia 1 FHD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23939
+#EXTINF:-1 group-title="Olaszország",Italia 2 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14193
+#EXTINF:-1 group-title="Olaszország",Canale 5 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14209
+#EXTINF:-1 group-title="Olaszország",Canale 5 FHD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1666
+#EXTINF:-1 group-title="Olaszország",LA 5 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14189
+#EXTINF:-1 group-title="Olaszország",Rai 4K IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/24698
+#EXTINF:-1 group-title="Olaszország",Rai 1 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14207
+#EXTINF:-1 group-title="Olaszország",Rai 1 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1662
+#EXTINF:-1 group-title="Olaszország",Rai 2 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14206
+#EXTINF:-1 group-title="Olaszország",Rai 2 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1663
+#EXTINF:-1 group-title="Olaszország",Rai 3 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14205
+#EXTINF:-1 group-title="Olaszország",Rai 3 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1664
+#EXTINF:-1 group-title="Olaszország",Rai 4 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14204
+#EXTINF:-1 group-title="Olaszország",Rai 5 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14203
+#EXTINF:-1 group-title="Olaszország",Rai Movie HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14100
+#EXTINF:-1 group-title="Olaszország",Rai Movie IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/4108
+#EXTINF:-1 group-title="Olaszország",Rai News 24 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8996
+#EXTINF:-1 group-title="Olaszország",Rai Premium HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14098
+#EXTINF:-1 group-title="Olaszország",Rai Scuola HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8998
+#EXTINF:-1 group-title="Olaszország",Rai Sport HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14202
+#EXTINF:-1 group-title="Olaszország",Euronews IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/34753
+#EXTINF:-1 group-title="Olaszország",Cielo IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1671
+#EXTINF:-1 group-title="Olaszország",NOVE HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14174
+#EXTINF:-1 group-title="Olaszország",Discovery Channel HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14171
+#EXTINF:-1 group-title="Olaszország",DMAX HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/5231
+#EXTINF:-1 group-title="Olaszország",Discovery HGTV IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/101238
+#EXTINF:-1 group-title="Olaszország",Food Network HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/51401
+#EXTINF:-1 group-title="Olaszország",Gambero Rosso IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8982
+#EXTINF:-1 group-title="Olaszország",Sky Nature HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/87964
+#EXTINF:-1 group-title="Olaszország",Caccia HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8984
+#EXTINF:-1 group-title="Olaszország",Pesca HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23377
+#EXTINF:-1 group-title="Olaszország",Italian Fishing TV IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23391
+#EXTINF:-1 group-title="Olaszország",History HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23397
+#EXTINF:-1 group-title="Olaszország",Sky Documentaries HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/87963
+#EXTINF:-1 group-title="Olaszország",Sky Crime HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23392
+#EXTINF:-1 group-title="Olaszország",Sky Investigation HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/87965
+#EXTINF:-1 group-title="Olaszország",Top Crime IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8241
+#EXTINF:-1 group-title="Olaszország",Focus IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8981
+#EXTINF:-1 group-title="Olaszország",Giallo FHD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/9006
+#EXTINF:-1 group-title="Olaszország",Real Time HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14199
+#EXTINF:-1 group-title="Olaszország",Iris HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14157
+#EXTINF:-1 group-title="Olaszország",TV2000 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/9002
+#EXTINF:-1 group-title="Olaszország",Mediaset Extra IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14194
+#EXTINF:-1 group-title="Olaszország",TGCom 24 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8238
+#EXTINF:-1 group-title="Olaszország",Rete Quattro IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14200
+#EXTINF:-1 group-title="Olaszország",Sky TG 24 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/125010
+#EXTINF:-1 group-title="Olaszország",Rai Yoyo HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8994
+#EXTINF:-1 group-title="Olaszország",Baby TV IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/17330
+#EXTINF:-1 group-title="Olaszország",Cartoon Network IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14176
+#EXTINF:-1 group-title="Olaszország",Cartoonito IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/7030
+#EXTINF:-1 group-title="Olaszország",Boing IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14182
+#EXTINF:-1 group-title="Olaszország",Disney+ Film HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/4377
+#EXTINF:-1 group-title="Olaszország",Disney+ Animation IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/20119
+#EXTINF:-1 group-title="Olaszország",Super! HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14066
+#EXTINF:-1 group-title="Olaszország",Frisbee IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/7031
+#EXTINF:-1 group-title="Olaszország",K2 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14155
+#EXTINF:-1 group-title="Olaszország",Boomerang  IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23403
+#EXTINF:-1 group-title="Olaszország",DeA Kids IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14076
+#EXTINF:-1 group-title="Olaszország",Nick Jr. IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/7032
+#EXTINF:-1 group-title="Olaszország",Nick IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/20120
+#EXTINF:-1 group-title="Olaszország",Sky Uno HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1681
+#EXTINF:-1 group-title="Olaszország",Sky Serie FHD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/87962
+#EXTINF:-1 group-title="Olaszország",Sky Atlantic HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1682
+#EXTINF:-1 group-title="Olaszország",Sky Cinema Uno HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/4077
+#EXTINF:-1 group-title="Olaszország",Sky Cinema Drama HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14083
+#EXTINF:-1 group-title="Olaszország",Sky Cinema Comedy HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/2011
+#EXTINF:-1 group-title="Olaszország",Sky Cinema Family HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/2010
+#EXTINF:-1 group-title="Olaszország",Sky Cinema Collection HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26903
+#EXTINF:-1 group-title="Olaszország",Sky Cinema Romance HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26902
+#EXTINF:-1 group-title="Olaszország",Sky Cinema Action HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26901
+#EXTINF:-1 group-title="Olaszország",Sky Cinema Suspense HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26900
+#EXTINF:-1 group-title="Olaszország",Eurosport 1 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14188
+#EXTINF:-1 group-title="Olaszország",Eurosport 2 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14156
+#EXTINF:-1 group-title="Olaszország",SportItalia IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14120
+#EXTINF:-1 group-title="Olaszország",Super Tennis HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/4084
+#EXTINF:-1 group-title="Olaszország",Sky Sport Basket HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14069
+#EXTINF:-1 group-title="Olaszország",Sky Sport Uno HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14073
+#EXTINF:-1 group-title="Olaszország",Sky Sport 24 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1686
+#EXTINF:-1 group-title="Olaszország",Sky Sport Arena HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1689
+#EXTINF:-1 group-title="Olaszország",Sky Sport F1 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1691
+#EXTINF:-1 group-title="Olaszország",Sky Sport MotoGP HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/3639
+#EXTINF:-1 group-title="Olaszország",Sky Sport Max HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/17371
+#EXTINF:-1 group-title="Olaszország",Sky Sport Golf FHD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/89196
+#EXTINF:-1 group-title="Olaszország",Sky Sport Tennis HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/93831
+#EXTINF:-1 group-title="Olaszország",Top Calcio 24 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/28203
+#EXTINF:-1 group-title="Olaszország",Sky Sport Calcio HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1692
+#EXTINF:-1 group-title="Olaszország",Sky Sport 251 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1693
+#EXTINF:-1 group-title="Olaszország",Sky Sport 252 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1694
+#EXTINF:-1 group-title="Olaszország",Sky Sport 253 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8967
+#EXTINF:-1 group-title="Olaszország",Sky Sport 254 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8968
+#EXTINF:-1 group-title="Olaszország",Sky Sport 255 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/8969
+#EXTINF:-1 group-title="Olaszország",Sky Sport 256 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128574
+#EXTINF:-1 group-title="Olaszország",Sky Sport 257 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128575
+#EXTINF:-1 group-title="Olaszország",Sky Sport 258 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128576
+#EXTINF:-1 group-title="Olaszország",Sky Sport 259 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128577
+#EXTINF:-1 group-title="Olaszország",Sky Sport Serie A 1 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/93029
+#EXTINF:-1 group-title="Olaszország",Sky Sport Serie A 2 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/93030
+#EXTINF:-1 group-title="Olaszország",Sky Sport Serie A 3 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/93031
+#EXTINF:-1 group-title="Olaszország",Sky Sport Serie A 4 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/93032
+#EXTINF:-1 group-title="Olaszország",Zona Dazn HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23266
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Atalanta HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23357
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Bologna HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23358
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Cremonese IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/164044
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Como IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/164043
+#EXTINF:-1 group-title="Olaszország",DAZN Serie B Empoli HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23359
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Fiorentina HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23360
+#EXTINF:-1 group-title="Olaszország",DAZN Serie B Verona HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23361
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Inter HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23362
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Juventus HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23363
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Lazio HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23364
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Milan HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/93033
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Lecce HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/92237
+#EXTINF:-1 group-title="Olaszország",DAZN Serie B Monza IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128404
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Napoli IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128405
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Roma IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128406
+#EXTINF:-1 group-title="Olaszország",DAZN Serie B Salernitana IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128407
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Sassuolo IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128408
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Torino IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128409
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Udinese IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128410
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Cagliari IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128411
+#EXTINF:-1 group-title="Olaszország",DAZN Serie B Frosinone IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128412
+#EXTINF:-1 group-title="Olaszország",DAZN Serie A Genoa IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128413
+#EXTINF:-1 group-title="Olaszország",Dazn Zona Gol Serie B HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/128403
+#EXTINF:-1 group-title="Olaszország",DAZN 9 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23365
+#EXTINF:-1 group-title="Olaszország",DAZN 10 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23366
+#EXTINF:-1 group-title="Olaszország",COMO TV 1 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/139839
+#EXTINF:-1 group-title="Olaszország",COMO TV 2 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/139840
+#EXTINF:-1 group-title="Olaszország",COMO TV 3 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/139841
+#EXTINF:-1 group-title="Olaszország",COMO TV 4 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/139842
+#EXTINF:-1 group-title="Olaszország",COMO TV 5 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/139843
+#EXTINF:-1 group-title="Olaszország",COMO TV 6 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/139844
+#EXTINF:-1 group-title="Olaszország",COMO TV 7 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/139845
+#EXTINF:-1 group-title="Olaszország",COMO TV 8 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/139846
+#EXTINF:-1 group-title="Olaszország",COMO TV 9 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/139847
+#EXTINF:-1 group-title="Olaszország",COMO TV 10 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/139848
+#EXTINF:-1 group-title="Olaszország",Motor Trend FHD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23275
+#EXTINF:-1 group-title="Olaszország",Milan TV IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/17244
+#EXTINF:-1 group-title="Olaszország",Inter Channel IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14192
+#EXTINF:-1 group-title="Olaszország",Serie A Roma HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/21529
+#EXTINF:-1 group-title="Olaszország",Juventus TV IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14190
+#EXTINF:-1 group-title="Olaszország",Sportitalia SoloCalcio HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14131
+#EXTINF:-1 group-title="Olaszország",La 7 d IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/16568
+#EXTINF:-1 group-title="Olaszország",La 7 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/16567
+#EXTINF:-1 group-title="Olaszország",Sky Arte HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/21544
+#EXTINF:-1 group-title="Olaszország",Rai Storia HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23367
+#EXTINF:-1 group-title="Olaszország",Rete Quattro HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23368
+#EXTINF:-1 group-title="Olaszország",20 Mediaset FHD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23371
+#EXTINF:-1 group-title="Olaszország",Rai Premium IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23933
+#EXTINF:-1 group-title="Olaszország",Rai Gulp HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23932
+#EXTINF:-1 group-title="Olaszország",Cine 34 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/70826
+#EXTINF:-1 group-title="Olaszország",TV 8 HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14179
+#EXTINF:-1 group-title="Olaszország",27 Twentyseven HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/101236
+#EXTINF:-1 group-title="Olaszország",Comedy Central HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23395
+#EXTINF:-1 group-title="Olaszország",Sky Primafila 1 HD Live IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1998
+#EXTINF:-1 group-title="Olaszország",Sky Primafila 2 HD Live IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/1999
+#EXTINF:-1 group-title="Olaszország",Sky Primafila 3 HD Live IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/2000
+#EXTINF:-1 group-title="Olaszország",Sky Primafila 4 HD Live IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/2001
+#EXTINF:-1 group-title="Olaszország",Sky Primafila 5 HD Live IT
+http://tv.raabjoern.xdns.pro:80/d1xe9Pksun918/MzbSZm623/2002
+#EXTINF:-1 group-title="Olaszország",Sky Primafila 6 HD Live IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/2003
+#EXTINF:-1 group-title="Olaszország",Sky Primafila 7 HD Live IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/2004
+#EXTINF:-1 group-title="Olaszország",Sky Primafila 8 HD Live IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/2005
+#EXTINF:-1 group-title="Olaszország",Sky Primafila 9 HD Live IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/2006
+#EXTINF:-1 group-title="Olaszország",Sky Primafila 10 HD Live IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/2007
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Drammatico HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/27227
+#EXTINF:-1 group-title="Olaszország",Pluto TV Cinema Italiano HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26905
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Western HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26890
+#EXTINF:-1 group-title="Olaszország",Pluto TV Film Classici HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26889
+#EXTINF:-1 group-title="Olaszország",Pluto TV Documentari IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26888
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Kids HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26887
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Sorriso FHD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26886
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Saghe HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23390
+#EXTINF:-1 group-title="Olaszország",Pluto TV Film Romantici HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23389
+#EXTINF:-1 group-title="Olaszország",Pluto TV Anime IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23388
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Horror HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23387
+#EXTINF:-1 group-title="Olaszország",Eagle Cinepanettone HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23386
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Famiglia HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23385
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Biografico HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23384
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Fantastico HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23383
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Thriller HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23382
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Mitologia HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23381
+#EXTINF:-1 group-title="Olaszország",Eagle Cinema Due IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/26893
+#EXTINF:-1 group-title="Olaszország",Senato TV IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/73264
+#EXTINF:-1 group-title="Olaszország",VH1 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/96639
+#EXTINF:-1 group-title="Olaszország",MTV IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/9000
+#EXTINF:-1 group-title="Olaszország",Grande Fratello Vip Regia 1 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/34797
+#EXTINF:-1 group-title="Olaszország",Grande Fratello Vip Regia 2 IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/34798
+#EXTINF:-1 group-title="Olaszország",Grande Fratello Vip Party IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/88720
+#EXTINF:-1 group-title="Olaszország",Grande Fratello Vip Un'ora fa IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/88719
+#EXTINF:-1 group-title="Olaszország",Radio Italia HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/18102
+#EXTINF:-1 group-title="Olaszország",Radio Italia Trend HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/28335
+#EXTINF:-1 group-title="Olaszország",Radio Freccia HD IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/17326
+#EXTINF:-1 group-title="Olaszország",Radionorba TV IT
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/17327
