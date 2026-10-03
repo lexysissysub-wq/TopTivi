@@ -648,11 +648,10 @@ http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Magyarország",Mozi
 http://88.212.15.19/live/mozi/index.m3u8
 
+#EXTINF:-1 group-title="Magyarország",MoziRetro
+https://vd239.okcdn.ru/expires/1791097231331/srcIp/92.245.76.44/pr/10/srcAg/GECKO/ch/-536166974/ms/95.163.35.69/type/5/sig/20vRXvJLu8s/ct/8/urls/185.226.55.109/clientType/0/zs/43/id/3992611916385/video/
 
 #EXTM3U
-
-
-
 #EXTINF:-1 group-title="Németország",DE - DAS ERSTE FHD 
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33572.m3u8
 #EXTINF:-1 group-title="Németország",DE - DAS ERSTE HD
