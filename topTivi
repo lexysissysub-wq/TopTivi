@@ -13576,8 +13576,6 @@ http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/222153
 
 
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="BE: LA UNE" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/la-une-be.png" group-title="Belgium",BE: LA UNE
-http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184964
 #EXTINF:-1 tvg-ID="launefr.be" tvg-name="BE: LA UNE HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/la-une-be.png" group-title="Belgium",BE: LA UNE HD
 http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34511
 #EXTINF:-1 tvg-ID="launefr.be" tvg-name="BE: LA UNE FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/la-une-be.png" group-title="Belgium",BE: LA UNE FHD
