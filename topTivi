@@ -3574,7 +3574,47 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33544.m3u8
 #EXTINF:-1 group-title="Ausztria",AT - ORF 1 8K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1138944.m3u8
 
- 
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 2" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 2
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/181952
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 1" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 1
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/181951
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DYN Sport 3" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: DYN Sport 3
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184714
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DYN Sport 4" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: DYN Sport 4
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184715
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DYN Sport 5" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: DYN Sport 5
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184716
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DYN Sport 6" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: DYN Sport 6
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184717
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DYN Sport 7" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: DYN Sport 7
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184718
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DYN Sport 8" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: DYN Sport 8
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184719
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DYN Sport 9" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: DYN Sport 9
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184720
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DYN Sport 10" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: DYN Sport 10
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184721
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 11" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 11
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190741
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 12" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 12
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190740
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 13" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 13
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190739
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 14" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 14
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190738
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 15" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 15
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190737
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 16" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 16
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190736
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 17" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 17
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190735
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 18" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 18
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190734
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 19" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 19
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190733
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Dyn Sport 20" tvg-logo="https://www.dyn.sport/static/dyn_logo_788%C3%97499.png" group-title="Németország",DE: Dyn Sport 20
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190732
+
 
 
 
