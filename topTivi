@@ -13573,3 +13573,430 @@ http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164777
 http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164776
 #EXTINF:-1 tvg-ID="" tvg-name="AU: Stan Sport Event 21" tvg-logo="" group-title="Ausztrália",AU: Stan Sport Event 21
 http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/222153
+
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BE: LA UNE" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/la-une-be.png" group-title="Belgium",BE: LA UNE
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184964
+#EXTINF:-1 tvg-ID="launefr.be" tvg-name="BE: LA UNE HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/la-une-be.png" group-title="Belgium",BE: LA UNE HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34511
+#EXTINF:-1 tvg-ID="launefr.be" tvg-name="BE: LA UNE FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/la-une-be.png" group-title="Belgium",BE: LA UNE FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/218525
+#EXTINF:-1 tvg-ID="" tvg-name="BE: LA TROIS HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/la-trois-be.png" group-title="Belgium",BE: LA TROIS HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184963
+#EXTINF:-1 tvg-ID="latroisfr.be" tvg-name="BE: La Trois FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/la-trois-be.png" group-title="Belgium",BE: La Trois FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34509
+#EXTINF:-1 tvg-ID="" tvg-name="BE: TIPIK" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/tipik-be.png" group-title="Belgium",BE: TIPIK
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184973
+#EXTINF:-1 tvg-ID="tipiktv.be" tvg-name="BE: Tipik HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/tipik-be.png" group-title="Belgium",BE: Tipik HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34510
+#EXTINF:-1 tvg-ID="tipikvision.be" tvg-name="BE: TIPIK VISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png" group-title="Belgium",BE: TIPIK VISION HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/81580
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VRT" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vrt-1-be.png" group-title="Belgium",BE: VRT
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184957
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VRT HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vrt-1-be.png" group-title="Belgium",BE: VRT HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184958
+#EXTINF:-1 tvg-ID="een.be" tvg-name="BE: VRT FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vrt-1-be.png" group-title="Belgium",BE: VRT FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34492
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm-be.png" group-title="Belgium",BE: VTM
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227637
+#EXTINF:-1 tvg-ID="vtm.be" tvg-name="BE: VTM HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm-be.png" group-title="Belgium",BE: VTM HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34487
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm-be.png" group-title="Belgium",BE: VTM FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227638
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM 2" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm2-be.png" group-title="Belgium",BE: VTM 2
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227639
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM 2 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm2-be.png" group-title="Belgium",BE: VTM 2 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227640
+#EXTINF:-1 tvg-ID="vtm2.be" tvg-name="BE: VTM 2 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm2-be.png" group-title="Belgium",BE: VTM 2 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34485
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM 3" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm3-be.png" group-title="Belgium",BE: VTM 3
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227641
+#EXTINF:-1 tvg-ID="vtm3.be" tvg-name="BE: VTM 3 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm3-be.png" group-title="Belgium",BE: VTM 3 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227642
+#EXTINF:-1 tvg-ID="vtm3.be" tvg-name="BE: VTM 3 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm3-be.png" group-title="Belgium",BE: VTM 3 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34486
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM 4" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm4-be.png" group-title="Belgium",BE: VTM 4
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227643
+#EXTINF:-1 tvg-ID="vtm4.be" tvg-name="BE: VTM 4 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm4-be.png" group-title="Belgium",BE: VTM 4 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227644
+#EXTINF:-1 tvg-ID="vtm4.be" tvg-name="BE: VTM 4 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm4-be.png" group-title="Belgium",BE: VTM 4 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/66317
+#EXTINF:-1 tvg-ID="vtmgold.be" tvg-name="BE: VTM Gold" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm-gold-be.png" group-title="Belgium",BE: VTM Gold
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/48130
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM GOLD FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm-gold-be.png" group-title="Belgium",BE: VTM GOLD FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227645
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM GOLD HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vtm-gold-be.png" group-title="Belgium",BE: VTM GOLD HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227646
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VTM Series" tvg-logo="" group-title="Belgium",BE: VTM Series
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227675
+#EXTINF:-1 tvg-ID="beseries.be" tvg-name="BE: VTM Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bc/Be_S%C3%A9ries_logo.png/300px-Be_S%C3%A9ries_logo.png" group-title="Belgium",BE: VTM Series HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/259777
+#EXTINF:-1 tvg-ID="" tvg-name="BE: AB1 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/ab1-fr.png" group-title="Belgium",BE: AB1 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/213600
+#EXTINF:-1 tvg-ID="" tvg-name="BE: AB1 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/ab1-fr.png" group-title="Belgium",BE: AB1 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/213601
+#EXTINF:-1 tvg-ID="ab3.be" tvg-name="BE: AB3 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/ab3-be.png" group-title="Belgium",BE: AB3 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34505
+#EXTINF:-1 tvg-ID="ab3.be" tvg-name="BE: AB3 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/ab3-be.png" group-title="Belgium",BE: AB3 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/348910
+#EXTINF:-1 tvg-ID="abxplorefr.be" tvg-name="BE: AB Xplore FR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ABXplore_logo.svg/375px-ABXplore_logo.svg.png" group-title="Belgium",BE: AB Xplore FR FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/81564
+#EXTINF:-1 tvg-ID="antennecentre.be" tvg-name="BE: ACTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ACTV.png" group-title="Belgium",BE: ACTV FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/259781
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Animal Planet" tvg-logo="" group-title="Belgium",BE: Animal Planet
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227678
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Animal Planet FHD" tvg-logo="" group-title="Belgium",BE: Animal Planet FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227679
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Animal Planet HD" tvg-logo="" group-title="Belgium",BE: Animal Planet HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227680
+#EXTINF:-1 tvg-ID="atv.be" tvg-name="BE: ATV Antwerpen HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/atv-be.png" group-title="Belgium",BE: ATV Antwerpen HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/48143
+#EXTINF:-1 tvg-ID="" tvg-name="BE: BBC BE" tvg-logo="" group-title="Belgium",BE: BBC BE
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184952
+#EXTINF:-1 tvg-ID="" tvg-name="BE: BBC BE HD" tvg-logo="" group-title="Belgium",BE: BBC BE HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184953
+#EXTINF:-1 tvg-ID="" tvg-name="BE: BE1 1H FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Be_1_logo_2004.png/150px-Be_1_logo_2004.png" group-title="Belgium",BE: BE1 1H FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/259776
+#EXTINF:-1 tvg-ID="be1.be" tvg-name="BE: BE 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Be_1_logo_2004.png/150px-Be_1_logo_2004.png" group-title="Belgium",BE: BE 1 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/259775
+#EXTINF:-1 tvg-ID="becine.be" tvg-name="BE: BE CINE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Be_Cin%C3%A9_logo.png/300px-Be_Cin%C3%A9_logo.png" group-title="Belgium",BE: BE CINE FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/259778
+#EXTINF:-1 tvg-ID="beseries.be" tvg-name="BE: BE SERIES FHD" tvg-logo="" group-title="Belgium",BE: BE SERIES FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/348938
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Bouké FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_Bouk%C3%A8.svg/langfr-225px-Logo_Bouk%C3%A8.svg.png" group-title="Belgium",BE: Bouké FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/259780
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Bruzz HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BRUZZ_logo.svg/330px-BRUZZ_logo.svg.png" group-title="Belgium",BE: Bruzz HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/259783
+#EXTINF:-1 tvg-ID="bx1.be" tvg-name="BE: BX1" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/bx1-be.png" group-title="Belgium",BE: BX1
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34504
+#EXTINF:-1 tvg-ID="bx1.be" tvg-name="BE: BX1 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/bx1-be.png" group-title="Belgium",BE: BX1 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34499
+#EXTINF:-1 tvg-ID="canalz.be" tvg-name="BE: Trends Z HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zoom_tv_in.png" group-title="Belgium",BE: Trends Z HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/48129
+#EXTINF:-1 tvg-ID="canalzoom.be" tvg-name="BE: CANAL ZOOM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_Zoom_logo.png/330px-Canal_Zoom_logo.png" group-title="Belgium",BE: CANAL ZOOM FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/260975
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VRT Canvas" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vrt-canvas-be.png" group-title="Belgium",BE: VRT Canvas
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184954
+#EXTINF:-1 tvg-ID="canvas.be" tvg-name="BE: VRT Canvas FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vrt-canvas-be.png" group-title="Belgium",BE: VRT Canvas FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184955
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VRT Canvas HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/vrt-canvas-be.png" group-title="Belgium",BE: VRT Canvas HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184956
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Baby" tvg-logo="" group-title="Belgium",BE: Baby
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/319815
+#EXTINF:-1 tvg-ID="" tvg-name="BE: BBC BE FHD" tvg-logo="" group-title="Belgium",BE: BBC BE FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/348904
+#EXTINF:-1 tvg-ID="Canvas.be" tvg-name="BE: CANVAS/JUNIOR FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/canvas-be.png" group-title="Belgium",BE: CANVAS/JUNIOR FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34490
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Cartoon Network VL FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Cartoon%20Network.png" group-title="Belgium",BE: Cartoon Network VL FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227685
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Cartoonito HD" tvg-logo="" group-title="Belgium",BE: Cartoonito HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227686
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Comedy Central" tvg-logo="" group-title="Belgium",BE: Comedy Central
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227691
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Comedy Central HD" tvg-logo="" group-title="Belgium",BE: Comedy Central HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227692
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Comedy Central FHD" tvg-logo="" group-title="Belgium",BE: Comedy Central FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/348903
+#EXTINF:-1 tvg-ID="crimeandinvestigation.be" tvg-name="BE: Crime + Investigation" tvg-logo="" group-title="Belgium",BE: Crime + Investigation
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227694
+#EXTINF:-1 tvg-ID="crimeandinvestigation.be" tvg-name="BE: Crime+Investigation HD" tvg-logo="" group-title="Belgium",BE: Crime+Investigation HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/319812
+#EXTINF:-1 tvg-ID="crimeandinvestigation.be" tvg-name="BE: Crime+Investigation FHD" tvg-logo="" group-title="Belgium",BE: Crime+Investigation FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/348898
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Discovery ID" tvg-logo="" group-title="Belgium",BE: Discovery ID
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227695
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Disc Science" tvg-logo="" group-title="Belgium",BE: Disc Science
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227696
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Discovery FHD" tvg-logo="" group-title="Belgium",BE: Discovery FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227698
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Discovery ID FHD" tvg-logo="" group-title="Belgium",BE: Discovery ID FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227697
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Discovery Science FHD" tvg-logo="" group-title="Belgium",BE: Discovery Science FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227699
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Disney Junior" tvg-logo="" group-title="Belgium",BE: Disney Junior
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227700
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Disney VL" tvg-logo="" group-title="Belgium",BE: Disney VL
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227701
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Disney VL FHD" tvg-logo="" group-title="Belgium",BE: Disney VL FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/348901
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Disney VL HD" tvg-logo="" group-title="Belgium",BE: Disney VL HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227703
+#EXTINF:-1 tvg-ID="" tvg-name="BE: DOBBIT TV" tvg-logo="" group-title="Belgium",BE: DOBBIT TV
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227704
+#EXTINF:-1 tvg-ID="" tvg-name="BE: DOBBIT TV FHD" tvg-logo="" group-title="Belgium",BE: DOBBIT TV FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227705
+#EXTINF:-1 tvg-ID="" tvg-name="BE: DOBBIT TV HD" tvg-logo="" group-title="Belgium",BE: DOBBIT TV HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227706
+#EXTINF:-1 tvg-ID="" tvg-name="BE: ducktv" tvg-logo="" group-title="Belgium",BE: ducktv
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/319814
+#EXTINF:-1 tvg-ID="" tvg-name="BE: ducktv HD" tvg-logo="" group-title="Belgium",BE: ducktv HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/348906
+#EXTINF:-1 tvg-ID="" tvg-name="BE: E! Ent" tvg-logo="" group-title="Belgium",BE: E! Ent
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227707
+#EXTINF:-1 tvg-ID="" tvg-name="BE: E! Ent FHD" tvg-logo="" group-title="Belgium",BE: E! Ent FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227708
+#EXTINF:-1 tvg-ID="" tvg-name="BE: E! Ent HD" tvg-logo="" group-title="Belgium",BE: E! Ent HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227709
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eclips TV FHD" tvg-logo="" group-title="Belgium",BE: Eclips TV FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227647
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eclips TV HD" tvg-logo="" group-title="Belgium",BE: Eclips TV HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227648
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eurosport" tvg-logo="" group-title="Belgium",BE: Eurosport
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227631
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eurosport 2" tvg-logo="" group-title="Belgium",BE: Eurosport 2
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227632
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eurosport 2 FHD" tvg-logo="" group-title="Belgium",BE: Eurosport 2 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227633
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eurosport 2 HD" tvg-logo="" group-title="Belgium",BE: Eurosport 2 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227634
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eurosport FHD" tvg-logo="" group-title="Belgium",BE: Eurosport FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227635
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Eurosport HD" tvg-logo="" group-title="Belgium",BE: Eurosport HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227636
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Festival HD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-festival-4k-vector-logo.png" group-title="Belgium",BE: Festival HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/81577
+#EXTINF:-1 tvg-ID="" tvg-name="BE: HGTV" tvg-logo="" group-title="Belgium",BE: HGTV
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227710
+#EXTINF:-1 tvg-ID="" tvg-name="BE: HGTV FHD" tvg-logo="" group-title="Belgium",BE: HGTV FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227711
+#EXTINF:-1 tvg-ID="" tvg-name="BE: HGTV HD" tvg-logo="" group-title="Belgium",BE: HGTV HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227712
+#EXTINF:-1 tvg-ID="" tvg-name="BE: History" tvg-logo="" group-title="Belgium",BE: History
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227713
+#EXTINF:-1 tvg-ID="" tvg-name="BE: History FHD" tvg-logo="" group-title="Belgium",BE: History FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/348905
+#EXTINF:-1 tvg-ID="" tvg-name="BE: History HD" tvg-logo="" group-title="Belgium",BE: History HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/319813
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Horse & Country" tvg-logo="" group-title="Belgium",BE: Horse & Country
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227714
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Horse & Country FHD" tvg-logo="" group-title="Belgium",BE: Horse & Country FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227715
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Horse & Country HD" tvg-logo="" group-title="Belgium",BE: Horse & Country HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227716
+#EXTINF:-1 tvg-ID="kanaalz.be" tvg-name="BE: Trends Z" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/kanaal-z-be.png" group-title="Belgium",BE: Trends Z
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227717
+#EXTINF:-1 tvg-ID="kanaalz.be" tvg-name="BE: Trends Z FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/kanaal-z-be.png" group-title="Belgium",BE: Trends Z FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227718
+#EXTINF:-1 tvg-ID="kanaalz.be" tvg-name="BE: Trends Z HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/kanaal-z-be.png" group-title="Belgium",BE: Trends Z HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/81576
+#EXTINF:-1 tvg-ID="" tvg-name="BE: KetNet" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/ketnet-be.png" group-title="Belgium",BE: KetNet
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184961
+#EXTINF:-1 tvg-ID="ketnetop12.be" tvg-name="BE: KetNet FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/ketnet-be.png" group-title="Belgium",BE: KetNet FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184962
+#EXTINF:-1 tvg-ID="ketnetop12.be" tvg-name="BE: KetNet HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/ketnet-be.png" group-title="Belgium",BE: KetNet HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/48133
+#EXTINF:-1 tvg-ID="ln24.be" tvg-name="BE: LN24 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/ln24-be.png" group-title="Belgium",BE: LN24 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/167504
+#EXTINF:-1 tvg-ID="ln24.be" tvg-name="BE: LN24 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/ln24-be.png" group-title="Belgium",BE: LN24 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/259773
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Love Nature" tvg-logo="" group-title="Belgium",BE: Love Nature
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184965
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Love Nature HD" tvg-logo="" group-title="Belgium",BE: Love Nature HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184966
+#EXTINF:-1 tvg-ID="matele.be" tvg-name="BE: MATELE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_de_MATELE.png/225px-Logo_de_MATELE.png" group-title="Belgium",BE: MATELE FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/259782
+#EXTINF:-1 tvg-ID="" tvg-name="BE: MENT 55" tvg-logo="" group-title="Belgium",BE: MENT 55
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184967
+#EXTINF:-1 tvg-ID="" tvg-name="BE: MENT55 FHD" tvg-logo="" group-title="Belgium",BE: MENT55 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227720
+#EXTINF:-1 tvg-ID="" tvg-name="BE: MENT55 HD" tvg-logo="" group-title="Belgium",BE: MENT55 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227721
+#EXTINF:-1 tvg-ID="" tvg-name="BE: MENTpop" tvg-logo="" group-title="Belgium",BE: MENTpop
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227722
+#EXTINF:-1 tvg-ID="" tvg-name="BE: MENTpop FHD" tvg-logo="" group-title="Belgium",BE: MENTpop FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227723
+#EXTINF:-1 tvg-ID="" tvg-name="BE: MENTpop HD" tvg-logo="" group-title="Belgium",BE: MENTpop HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227724
+#EXTINF:-1 tvg-ID="" tvg-name="BE: MTV VL" tvg-logo="" group-title="Belgium",BE: MTV VL
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227730
+#EXTINF:-1 tvg-ID="" tvg-name="BE: MTV VL FHD" tvg-logo="" group-title="Belgium",BE: MTV VL FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/348900
+#EXTINF:-1 tvg-ID="" tvg-name="BE: MTV VL HD" tvg-logo="" group-title="Belgium",BE: MTV VL HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227731
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Nat Geo" tvg-logo="" group-title="Belgium",BE: Nat Geo
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227733
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Nat Geo FHD" tvg-logo="" group-title="Belgium",BE: Nat Geo FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227734
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Nat Geo HD" tvg-logo="" group-title="Belgium",BE: Nat Geo HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227735
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Nat Geo Wild FHD" tvg-logo="" group-title="Belgium",BE: Nat Geo Wild FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227736
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Nat Geo Wild" tvg-logo="" group-title="Belgium",BE: Nat Geo Wild
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184968
+#EXTINF:-1 tvg-ID="" tvg-name="BE:Nat Geo Wild HD" tvg-logo="" group-title="Belgium",BE:Nat Geo Wild HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184969
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Nick Jr." tvg-logo="" group-title="Belgium",BE: Nick Jr.
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227737
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Nickelodeon" tvg-logo="" group-title="Belgium",BE: Nickelodeon
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227739
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Nickelodeon FHD" tvg-logo="" group-title="Belgium",BE: Nickelodeon FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227740
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Nickelodeon HD" tvg-logo="" group-title="Belgium",BE: Nickelodeon HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227741
+#EXTINF:-1 tvg-ID="" tvg-name="BE: NickToons" tvg-logo="" group-title="Belgium",BE: NickToons
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227742
+#EXTINF:-1 tvg-ID="" tvg-name="BE: njam!" tvg-logo="" group-title="Belgium",BE: njam!
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227649
+#EXTINF:-1 tvg-ID="" tvg-name="BE: njam! FHD" tvg-logo="" group-title="Belgium",BE: njam! FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227650
+#EXTINF:-1 tvg-ID="" tvg-name="BE: NRJ HITS HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/nrj-hits-fr.png" group-title="Belgium",BE: NRJ HITS HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34500
+#EXTINF:-1 tvg-ID="" tvg-name="BE: PlattelandsTv" tvg-logo="" group-title="Belgium",BE: PlattelandsTv
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227743
+#EXTINF:-1 tvg-ID="" tvg-name="BE: PlattelandsTv FHD" tvg-logo="" group-title="Belgium",BE: PlattelandsTv FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227744
+#EXTINF:-1 tvg-ID="" tvg-name="BE: PlattelandsTv HD" tvg-logo="" group-title="Belgium",BE: PlattelandsTv HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227745
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play" tvg-logo="" group-title="Belgium",BE: Play
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184970
+#EXTINF:-1 tvg-ID="play6.be" tvg-name="BE: PLAY Actie" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/play-6-be.png" group-title="Belgium",BE: PLAY Actie
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/48140
+#EXTINF:-1 tvg-ID="play6.be" tvg-name="BE: Play Actie FHD" tvg-logo="" group-title="Belgium",BE: Play Actie FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227667
+#EXTINF:-1 tvg-ID="play6.be" tvg-name="BE: Play Actie HD" tvg-logo="" group-title="Belgium",BE: Play Actie HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227666
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Crime" tvg-logo="" group-title="Belgium",BE: Play Crime
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227651
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Crime FHD" tvg-logo="" group-title="Belgium",BE: Play Crime FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227652
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Crime HD" tvg-logo="" group-title="Belgium",BE: Play Crime HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227653
+#EXTINF:-1 tvg-ID="play4.be" tvg-name="BE: Play FHD" tvg-logo="" group-title="Belgium",BE: Play FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227663
+#EXTINF:-1 tvg-ID="play5.be" tvg-name="BE: Play Fictie" tvg-logo="" group-title="Belgium",BE: Play Fictie
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227664
+#EXTINF:-1 tvg-ID="play5.be" tvg-name="BE: Play Fictie FHD" tvg-logo="" group-title="Belgium",BE: Play Fictie FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227665
+#EXTINF:-1 tvg-ID="play5.be" tvg-name="BE: PLAY Fictie HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/play-5-be.png" group-title="Belgium",BE: PLAY Fictie HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34488
+#EXTINF:-1 tvg-ID="play4.be" tvg-name="BE: PLAY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/play-4-be.png" group-title="Belgium",BE: PLAY HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34489
+#EXTINF:-1 tvg-ID="playmoreblack.be" tvg-name="BE: Play More Black FHD NL" tvg-logo="" group-title="Belgium",BE: Play More Black FHD NL
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227655
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play More Black HD" tvg-logo="" group-title="Belgium",BE: Play More Black HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227656
+#EXTINF:-1 tvg-ID="playmorecinema.be" tvg-name="BE: Play More Cinema FHD NL" tvg-logo="" group-title="Belgium",BE: Play More Cinema FHD NL
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227654
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play More Kicks" tvg-logo="" group-title="Belgium",BE: Play More Kicks
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227660
+#EXTINF:-1 tvg-ID="playmorekicks.be" tvg-name="BE: Play More Kicks FHD NL" tvg-logo="" group-title="Belgium",BE: Play More Kicks FHD NL
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227661
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play More Kicks HD" tvg-logo="" group-title="Belgium",BE: Play More Kicks HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227662
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Reality" tvg-logo="" group-title="Belgium",BE: Play Reality
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184971
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Reality FHD" tvg-logo="" group-title="Belgium",BE: Play Reality FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227668
+#EXTINF:-1 tvg-ID="play7.be" tvg-name="BE: Play Reality HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/play-7-be.png" group-title="Belgium",BE: Play Reality HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/81578
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Q-music" tvg-logo="" group-title="Belgium",BE: Q-music
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227746
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Q-music FHD" tvg-logo="" group-title="Belgium",BE: Q-music FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227747
+#EXTINF:-1 tvg-ID="" tvg-name="BE: RTL BEL HD" tvg-logo="" group-title="Belgium",BE: RTL BEL HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/213604
+#EXTINF:-1 tvg-ID="rtlclub.be" tvg-name="BE: RTL Club FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/rtl-club-be.png" group-title="Belgium",BE: RTL Club FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227750
+#EXTINF:-1 tvg-ID="clubrtlfr.be" tvg-name="BE: RTL CLUB HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/rtl-club-be.png" group-title="Belgium",BE: RTL CLUB HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34506
+#EXTINF:-1 tvg-ID="" tvg-name="BE: RTL District FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/RTL_District_Logo_2024.svg/330px-RTL_District_Logo_2024.svg.png" group-title="Belgium",BE: RTL District FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/259785
+#EXTINF:-1 tvg-ID="" tvg-name="BE: RTL Lounge HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/rtl-lounge-nl.png" group-title="Belgium",BE: RTL Lounge HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/48145
+#EXTINF:-1 tvg-ID="tvlux.be" tvg-name="BE: Tv Lux FHD" tvg-logo="" group-title="Belgium",BE: Tv Lux FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/167505
+#EXTINF:-1 tvg-ID="rtlplug.be" tvg-name="BE: RTL Plug FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/rtl-plug-be.png" group-title="Belgium",BE: RTL Plug FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227752
+#EXTINF:-1 tvg-ID="rtlplug.be" tvg-name="BE: RTL PLUG HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/rtl-plug-be.png" group-title="Belgium",BE: RTL PLUG HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34507
+#EXTINF:-1 tvg-ID="" tvg-name="BE: RTL Tvi" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/rtl-tvi-be.png" group-title="Belgium",BE: RTL Tvi
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227753
+#EXTINF:-1 tvg-ID="" tvg-name="BE: RTL Tvi FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/rtl-tvi-be.png" group-title="Belgium",BE: RTL Tvi FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227754
+#EXTINF:-1 tvg-ID="rtltvifr.be" tvg-name="BE: RTL TVI HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/rtl-tvi-be.png" group-title="Belgium",BE: RTL TVI HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34508
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Sport 10" tvg-logo="" group-title="Belgium",BE: Sport 10
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184972
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Sport 10 HD" tvg-logo="" group-title="Belgium",BE: Sport 10 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227630
+#EXTINF:-1 tvg-ID="" tvg-name="BE: STAR" tvg-logo="" group-title="Belgium",BE: STAR
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227607
+#EXTINF:-1 tvg-ID="" tvg-name="BE: STAR FHD" tvg-logo="" group-title="Belgium",BE: STAR FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/348897
+#EXTINF:-1 tvg-ID="" tvg-name="BE: STAR HD" tvg-logo="" group-title="Belgium",BE: STAR HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/184960
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Studio 100 TV" tvg-logo="" group-title="Belgium",BE: Studio 100 TV
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227755
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Studio 100 TV FHD" tvg-logo="" group-title="Belgium",BE: Studio 100 TV FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227756
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Studio 100 TV HD" tvg-logo="" group-title="Belgium",BE: Studio 100 TV HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227757
+#EXTINF:-1 tvg-ID="tipiktv.be" tvg-name="BE: Tipik FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/tipik-be.png" group-title="Belgium",BE: Tipik FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/225190
+#EXTINF:-1 tvg-ID="" tvg-name="BE: TLC FHD" tvg-logo="" group-title="Belgium",BE: TLC FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227670
+#EXTINF:-1 tvg-ID="" tvg-name="BE: TLC HD" tvg-logo="" group-title="Belgium",BE: TLC HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227671
+#EXTINF:-1 tvg-ID="" tvg-name="BE: TV OOST" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/rtv-oost-nl.png" group-title="Belgium",BE: TV OOST
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/48155
+#EXTINF:-1 tvg-ID="telemb.be" tvg-name="BE: TÉLÉ MB HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/tele-mb-be.png" group-title="Belgium",BE: TÉLÉ MB HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/66322
+#EXTINF:-1 tvg-ID="" tvg-name="BE: VIER HD" tvg-logo="http://epg.ottoprime.net/LOGO/BELGIUM-BE/VIERHDBE.png" group-title="Belgium",BE: VIER HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/213605
+#EXTINF:-1 tvg-ID="" tvg-name="BE: W Sport" tvg-logo="" group-title="Belgium",BE: W Sport
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227628
+#EXTINF:-1 tvg-ID="" tvg-name="BE: W Sport FHD" tvg-logo="" group-title="Belgium",BE: W Sport FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227629
+#EXTINF:-1 tvg-ID="Xite.nl" tvg-name="BE: XITE" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/xite-nl.png" group-title="Belgium",BE: XITE
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/34501
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Jupiler Pro Event 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_bi%C3%A8re_Jupiler.jpg" group-title="Belgium",BE: Jupiler Pro Event 3
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/350881
+#EXTINF:-1 tvg-ID="elevensports2nl.be" tvg-name="BE: DAZN Sports 2 HD NL" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/dazn-2-nl-be.png" group-title="Belgium",BE: DAZN Sports 2 HD NL
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/81697
+#EXTINF:-1 tvg-ID="playsports1.be" tvg-name="BE: PLAY SPORTS 1 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/play-sports-1-be.png" group-title="Belgium",BE: PLAY SPORTS 1 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190523
+#EXTINF:-1 tvg-ID="playsports1.be" tvg-name="BE: PLAY SPORTS 1 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/play-sports-1-be.png" group-title="Belgium",BE: PLAY SPORTS 1 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/84337
+#EXTINF:-1 tvg-ID="playsports2.be" tvg-name="BE: PLAY SPORTS 2 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/play-sports-2-be.png" group-title="Belgium",BE: PLAY SPORTS 2 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190525
+#EXTINF:-1 tvg-ID="playsports2.be" tvg-name="BE: PLAY SPORTS 2 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/play-sports-2-be.png" group-title="Belgium",BE: PLAY SPORTS 2 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/84338
+#EXTINF:-1 tvg-ID="playsports3.be" tvg-name="BE: PLAY SPORTS 3 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/play-sports-3-be.png" group-title="Belgium",BE: PLAY SPORTS 3 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/190527
+#EXTINF:-1 tvg-ID="playsports3.be" tvg-name="BE: PLAY SPORTS 3 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/play-sports-3-be.png" group-title="Belgium",BE: PLAY SPORTS 3 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/84339
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sports 4 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/play-sports-4-be.png" group-title="Belgium",BE: Play Sports 4 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227611
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sports 4 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/play-sports-4-be.png" group-title="Belgium",BE: Play Sports 4 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227612
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sports Golf" tvg-logo="" group-title="Belgium",BE: Play Sports Golf
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227608
+#EXTINF:-1 tvg-ID="playsportsgolf.be" tvg-name="BE: PLAY SPORTS GOLF HD" tvg-logo="https://tvepg.eu/img/belgium/logo/play_sports_golf.png" group-title="Belgium",BE: PLAY SPORTS GOLF HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/84343
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sports Open" tvg-logo="" group-title="Belgium",BE: Play Sports Open
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227615
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sports Open FHD" tvg-logo="" group-title="Belgium",BE: Play Sports Open FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227616
+#EXTINF:-1 tvg-ID="playsportsopen.be" tvg-name="BE: PLAY SPORTS OPEN HD" tvg-logo="" group-title="Belgium",BE: PLAY SPORTS OPEN HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/84342
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sports Premier League" tvg-logo="" group-title="Belgium",BE: Play Sports Premier League
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227613
+#EXTINF:-1 tvg-ID="" tvg-name="BE: PLAY SPORTS PREMIER LEAGUE HD" tvg-logo="https://tvepg.eu/img/belgium/logo/play_sports_premier_league.png" group-title="Belgium",BE: PLAY SPORTS PREMIER LEAGUE HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/84341
+#EXTINF:-1 tvg-ID="voosportworld1.be" tvg-name="BE: VOO SPORT WORLD 1" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/voo-sport-world-1-be.png" group-title="Belgium",BE: VOO SPORT WORLD 1
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/260962
+#EXTINF:-1 tvg-ID="voosportworld1.be" tvg-name="BE: VOO SPORT WORLD 1 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/voo-sport-world-1-be.png" group-title="Belgium",BE: VOO SPORT WORLD 1 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/81542
+#EXTINF:-1 tvg-ID="voosportworld1.be" tvg-name="BE: VOO SPORT WORLD 1 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/voo-sport-world-1-be.png" group-title="Belgium",BE: VOO SPORT WORLD 1 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/260961
+#EXTINF:-1 tvg-ID="voosportworld2.be" tvg-name="BE: VOO SPORT WORLD 2" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/voo-sport-world-2-be.png" group-title="Belgium",BE: VOO SPORT WORLD 2
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/260964
+#EXTINF:-1 tvg-ID="voosportworld2.be" tvg-name="BE: VOO SPORT WORLD 2 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/voo-sport-world-2-be.png" group-title="Belgium",BE: VOO SPORT WORLD 2 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/81543
+#EXTINF:-1 tvg-ID="voosportworld2.be" tvg-name="BE: VOO SPORT WORLD 2 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/voo-sport-world-2-be.png" group-title="Belgium",BE: VOO SPORT WORLD 2 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/260963
+#EXTINF:-1 tvg-ID="voosportworld3.be" tvg-name="BE: VOO SPORT WORLD 3 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/belgium/voo-sport-world-3-be.png" group-title="Belgium",BE: VOO SPORT WORLD 3 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/81544
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sports Premier League FHD" tvg-logo="" group-title="Belgium",BE: Play Sports Premier League FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227614
