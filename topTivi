@@ -12843,3 +12843,77 @@ http://vip2.sharkhost.xyz:80/4228501499/1759181759/747141
 http://vip2.sharkhost.xyz:80/4228501499/1759181759/747227
 #EXTINF:-1 tvg-id="" tvg-name="BE| XITE HD" tvg-logo="" group-title="Belgium",BE| XITE HD
 http://vip2.sharkhost.xyz:80/4228501499/1759181759/747207
+
+
+#EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AmericaTV.ar" tvg-name="ARG |  America TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",ARG |  America TV HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13631
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Canal26.ar" tvg-name="ARG |  Canal 26 Noticias HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA",ARG |  Canal 26 Noticias HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13695
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24/7CanaldeNoticias.ar" tvg-name="ARG |  Canal 9 Multivision HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZv2yxTVHWpalZm5IIslZ2_yaB0C0mJXK1EU4CeiqsUptp9TFb4tB7_AbnYlwky6rjO_joTvXtRA2LkvQHIfmCA2uIApprY5p8cTRqcp1VmGUWtqD8y_vFtgoCUaDC7Pb3AajnOMMCm1WJw2JJfzyKD_ZOxT5g8_Jz--qfS6--6vHkRAVWFRa0MVJd/s1600/canal9-multivision.png" group-title="ARGENTINA",ARG |  Canal 9 Multivision HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13641
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CiudadMagazine.ar" tvg-name="ARG |  Ciudad Magazine HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="ARGENTINA",ARG |  Ciudad Magazine HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13688
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG |  Claro INTI HD" tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="ARGENTINA",ARG |  Claro INTI HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13676
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ElGarageTv.ar" tvg-name="ARG | El Garage TV HD" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="ARGENTINA",ARG | El Garage TV HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13698
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ELNueve.ar" tvg-name="ARG |  El Nueve HD" tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/elnuevelogo.jpg" group-title="ARGENTINA",ARG |  El Nueve HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13639
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ELTrece.ar" tvg-name="ARG |  El Trece HD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="ARGENTINA",ARG |  El Trece HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13648
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Encuentro.ar" tvg-name="ARG |  Encuentro" tvg-logo="https://archive.org/download/LatGoABCDE/35-Encuentro.png" group-title="ARGENTINA",ARG |  Encuentro
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13690
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Canal21.ar" tvg-name="ARG |  Orbe 21 HD" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="ARGENTINA",ARG |  Orbe 21 HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13685
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TVPublica.ar" tvg-name="ARG |  Television Publica HD" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" group-title="ARGENTINA",ARG |  Television Publica HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13635
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TN.ar" tvg-name="ARG |  Todo Noticias TN HD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="ARGENTINA",ARG |  Todo Noticias TN HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13658
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="A24.ar" tvg-name="ARG | A24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="ARGENTINA",ARG | A24 HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13628
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ArgentinisimaSatelital.ar" tvg-name="ARG | Argentisima HD" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="ARGENTINA",ARG | Argentisima HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13691
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="C5N.ar" tvg-name="ARG | C5N HD" tvg-logo="https://www.c5n.com/css-custom/326/images/mtg_logo-326.png" group-title="ARGENTINA",ARG | C5N HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13624
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Canal26.ar" tvg-name="ARG | Canal 26  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="ARGENTINA",ARG | Canal 26  HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13623
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | CANAL 4 Extra HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfLaR0dzNS42JflfhXwYGQqzOxfvlCRmZyF-LfFH3v8sy9Z8JN2SHrhXRCsv44ZqkqjbVs&usqp=CAU" group-title="ARGENTINA",ARG | CANAL 4 Extra HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/249552
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | Canal 7 Santiago del Estero" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="ARGENTINA",ARG | Canal 7 Santiago del Estero
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/249550
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24/7CanaldeNoticias.ar" tvg-name="ARG | Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="ARGENTINA",ARG | Canal Claro
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13679
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | Canal de la Musica 26 HD" tvg-logo="https://i.imgur.com/gwpETyS.png" group-title="ARGENTINA",ARG | Canal de la Musica 26 HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/249548
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DIRECTVSportsFight.ar" tvg-name="ARG | Canal E HD" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="ARGENTINA",ARG | Canal E HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13663
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | Canal Rural" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="ARGENTINA",ARG | Canal Rural
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/249546
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | Chacra TV HD" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="ARGENTINA",ARG | Chacra TV HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/249547
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | CineAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="ARGENTINA",ARG | CineAR
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13711
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CronicaTV.ar" tvg-name="ARG | Cronica TV HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Cronica-TV-en-vivo-Online.png" group-title="ARGENTINA",ARG | Cronica TV HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13655
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | Diputados TV HD" tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/elnuevelogo.jpg" group-title="ARGENTINA",ARG | Diputados TV HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13638
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | El Sembrador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF1Caaymb5gw8axEJ2rzEx3_0ZRbWlPaYQRmIhyNaitAzQIYDtEiC6Ce-wKaiVcXwUfeI&usqp=CAU" group-title="ARGENTINA",ARG | El Sembrador
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/249544
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ELTrece.ar" tvg-name="ARG | El Trece Internacional HD" tvg-logo="https://i.imgur.com/Vo6prbh.png" group-title="ARGENTINA",ARG | El Trece Internacional HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/26481
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="lanacionplus.ar" tvg-name="ARG | La Nacion+ HD" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="ARGENTINA",ARG | La Nacion+ HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13662
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | NET TV" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="ARGENTINA",ARG | NET TV
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/249551
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | T5 Satelital HD" tvg-logo="https://i.imgur.com/ZcD0rUP.png" group-title="ARGENTINA",ARG | T5 Satelital HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/249549
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Telefe.ar" tvg-name="ARG | Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",ARG | Telefe HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13642
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | Telefe INT. HD" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="ARGENTINA",ARG | Telefe INT. HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/249543
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARG | UCL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" group-title="ARGENTINA",ARG | UCL
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/13633
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Volver.ar" tvg-name="ARG | Volver HD" tvg-logo="https://i.imgur.com/PYvSZMb.png" group-title="ARGENTINA",ARG | Volver HD
+https://pinkponyclub.online:443/Jay.Lopez.MCP/8602094456/249542
+
