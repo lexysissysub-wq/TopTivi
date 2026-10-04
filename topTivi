@@ -14038,3 +14038,430 @@ http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/260963
 http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/81544
 #EXTINF:-1 tvg-ID="" tvg-name="BE: Play Sports Premier League FHD" tvg-logo="" group-title="Belgium",BE: Play Sports Premier League FHD
 http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/227614
+
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="6eren.dk" tvg-name="DK: 6 Eren FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/6eren-dk.png" group-title="Dánia",DK: 6 Eren FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51436
+#EXTINF:-1 tvg-ID="animalplanet.dk" tvg-name="DK: Animal Planet FHD  [Multi-Sub]" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Animal%20Planet%20HD.png" group-title="Dánia",DK: Animal Planet FHD  [Multi-Sub]
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51445
+#EXTINF:-1 tvg-ID="bbcbrit.dk" tvg-name="DK: BBC Brit FHD  [Multi-Sub]" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/bbc-brit-dk.png" group-title="Dánia",DK: BBC Brit FHD  [Multi-Sub]
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51450
+#EXTINF:-1 tvg-ID="bbcworld.dk" tvg-name="DK: BBC World News FHD" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/bbc-world-news-logo.png" group-title="Dánia",DK: BBC World News FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186618
+#EXTINF:-1 tvg-ID="canal9.dk" tvg-name="DK: Canal 9 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Canal%209.png" group-title="Dánia",DK: Canal 9 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51437
+#EXTINF:-1 tvg-ID="cmorefirst.dk" tvg-name="DK: C More First FHD  [Multi-Sub]" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/c-more-first-dk.png" group-title="Dánia",DK: C More First FHD  [Multi-Sub]
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51481
+#EXTINF:-1 tvg-ID="cmorehits.dk" tvg-name="DK: TV4 Hits FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/c-more-hits-dk.png" group-title="Dánia",DK: TV4 Hits FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51482
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV4 Stars FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/c-more-stars-dk.png" group-title="Dánia",DK: TV4 Stars FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51484
+#EXTINF:-1 tvg-ID="" tvg-name="DK: CNBC FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNBC.png" group-title="Dánia",DK: CNBC FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186623
+#EXTINF:-1 tvg-ID="" tvg-name="DK: CNN FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNN.png" group-title="Dánia",DK: CNN FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186625
+#EXTINF:-1 tvg-ID="discoverychannel.dk" tvg-name="DK: Discovery Channel FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Discovery%20Channel%20Norway.png" group-title="Dánia",DK: Discovery Channel FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51442
+#EXTINF:-1 tvg-ID="discoveryscience.dk" tvg-name="DK: Discovery Science FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Discovery%20Science.png" group-title="Dánia",DK: Discovery Science FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164443
+#EXTINF:-1 tvg-ID="DisneyChannelScandinavia.uk" tvg-name="DK: Disney Channel FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Disney%20Channel.png" group-title="Dánia",DK: Disney Channel FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/196796
+#EXTINF:-1 tvg-ID="dr1.dk" tvg-name="DK: DR 1 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/DR%201.png" group-title="Dánia",DK: DR 1 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51395
+#EXTINF:-1 tvg-ID="dr2.dk" tvg-name="DK: DR 2 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/DR%202.png" group-title="Dánia",DK: DR 2 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51397
+#EXTINF:-1 tvg-ID="" tvg-name="DK: DW English FHD" tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text-thumbnail.png" group-title="Dánia",DK: DW English FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164447
+#EXTINF:-1 tvg-ID="eurosport1.dk" tvg-name="DK: EuroSport 1 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Eurosport.png" group-title="Dánia",DK: EuroSport 1 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51440
+#EXTINF:-1 tvg-ID="eurosport2.dk" tvg-name="DK: EuroSport 2 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Eurosport%202%20HD.png" group-title="Dánia",DK: EuroSport 2 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51441
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Eventkanalen FHD" tvg-logo="" group-title="Dánia",DK: Eventkanalen FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164448
+#EXTINF:-1 tvg-ID="folketinget.dk" tvg-name="DK: FOLKETINGET FHD" tvg-logo="" group-title="Dánia",DK: FOLKETINGET FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164449
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Food Network FHD" tvg-logo="" group-title="Dánia",DK: Food Network FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164450
+#EXTINF:-1 tvg-ID="" tvg-name="DK: France 24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Dánia",DK: France 24 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186630
+#EXTINF:-1 tvg-ID="h2.se" tvg-name="DK: History 2 FHD  [Multi-Audio][Multi-Sub]" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/H2%20HD.jpg" group-title="Dánia",DK: History 2 FHD  [Multi-Audio][Multi-Sub]
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51448
+#EXTINF:-1 tvg-ID="history.dk" tvg-name="DK: History FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/History%20HD.png" group-title="Dánia",DK: History FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51449
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Infokanalen FHD" tvg-logo="" group-title="Dánia",DK: Infokanalen FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164451
+#EXTINF:-1 tvg-ID="investigationdiscovery.dk" tvg-name="DK: Investigation Discovery FHD" tvg-logo="" group-title="Dánia",DK: Investigation Discovery FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164452
+#EXTINF:-1 tvg-ID="Kanal4.dk" tvg-name="DK: Kanal 4 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Kanal%204.png" group-title="Dánia",DK: Kanal 4 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51433
+#EXTINF:-1 tvg-ID="kanal5.dk" tvg-name="DK: Kanal 5 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/KANAL%205%20HD.png" group-title="Dánia",DK: Kanal 5 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51435
+#EXTINF:-1 tvg-ID="" tvg-name="DK: MOTORVISION TV FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/motorvision-tv-dk.png" group-title="Dánia",DK: MOTORVISION TV FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186613
+#EXTINF:-1 tvg-ID="" tvg-name="DK: MTV FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/MTV.png" group-title="Dánia",DK: MTV FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51456
+#EXTINF:-1 tvg-ID="NationalGeographicWildDenmark.dk" tvg-name="DK: Nat Geo Wild FHD [Multi-Sub]" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/NATGeo%20Wild%20HD.png" group-title="Dánia",DK: Nat Geo Wild FHD [Multi-Sub]
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51453
+#EXTINF:-1 tvg-ID="nationalgeographic.dk" tvg-name="DK: National Geographic FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/National%20Geographic.png" group-title="Dánia",DK: National Geographic FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51452
+#EXTINF:-1 tvg-ID="nickelodeon.dk" tvg-name="DK: Nickelodeon FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Nickelodeon.png" group-title="Dánia",DK: Nickelodeon FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/196797
+#EXTINF:-1 tvg-ID="see.dk" tvg-name="DK: See FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/see-dk.png" group-title="Dánia",DK: See FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186639
+#EXTINF:-1 tvg-ID="sfkanalen.dk" tvg-name="DK: SF-Kanalen FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/SF%20Kanalen.png" group-title="Dánia",DK: SF-Kanalen FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/196798
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Sky Showtime 2 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/sky-showtime-2-dk.png" group-title="Dánia",DK: Sky Showtime 2 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51438
+#EXTINF:-1 tvg-ID="tlc.dk" tvg-name="DK: TLC FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TLC%20Norge.png" group-title="Dánia",DK: TLC FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164457
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Travel Channel FHD" tvg-logo="" group-title="Dánia",DK: Travel Channel FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164459
+#EXTINF:-1 tvg-ID="tv2charlie.dk" tvg-name="DK: TV 2 Charlie FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20Charlie.png" group-title="Dánia",DK: TV 2 Charlie FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164462
+#EXTINF:-1 tvg-ID="tv2.dk" tvg-name="DK: TV2 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202.png" group-title="Dánia",DK: TV2 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51400
+#EXTINF:-1 tvg-ID="tv2fri.dk" tvg-name="DK: TV 2 Fri FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202%20FRI.png" group-title="Dánia",DK: TV 2 Fri FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164463
+#EXTINF:-1 tvg-ID="tv2news.dk" tvg-name="DK: TV 2 News FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20NEWS.png" group-title="Dánia",DK: TV 2 News FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164464
+#EXTINF:-1 tvg-ID="tv2sport.dk" tvg-name="DK: TV2 Sport FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20Sport.png" group-title="Dánia",DK: TV2 Sport FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164465
+#EXTINF:-1 tvg-ID="tv2sportx.dk" tvg-name="DK: TV2 SPORT X FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv2-sport-x-dk.png" group-title="Dánia",DK: TV2 SPORT X FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186643
+#EXTINF:-1 tvg-ID="tv2zulu.dk" tvg-name="DK: TV2 Zulu FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV_2_Zulu.png" group-title="Dánia",DK: TV2 Zulu FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51402
+#EXTINF:-1 tvg-ID="tv3.dk" tvg-name="DK: TV3 FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-dk.png" group-title="Dánia",DK: TV3 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51419
+#EXTINF:-1 tvg-ID="tv3max.dk" tvg-name="DK: TV3 MAX FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-max-dk.png" group-title="Dánia",DK: TV3 MAX FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186644
+#EXTINF:-1 tvg-ID="tv3puls.dk" tvg-name="DK: TV3 Puls FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-puls-dk.png" group-title="Dánia",DK: TV3 Puls FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51423
+#EXTINF:-1 tvg-ID="tv3sport.dk" tvg-name="DK: TV3 Sport FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-sport-dk.png" group-title="Dánia",DK: TV3 Sport FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164627
+#EXTINF:-1 tvg-ID="tv3plus.dk" tvg-name="DK: TV3+ FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-plus-dk.png" group-title="Dánia",DK: TV3+ FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51420
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV 6 FHD" tvg-logo="" group-title="Dánia",DK: TV 6 FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/208076
+#EXTINF:-1 tvg-ID="viasataction.dk" tvg-name="DK: V Film Action FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-action-no.png" group-title="Dánia",DK: V Film Action FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186645
+#EXTINF:-1 tvg-ID="viasatfamily.dk" tvg-name="DK: V Film Family FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-family-no.png" group-title="Dánia",DK: V Film Family FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/196799
+#EXTINF:-1 tvg-ID="viasathits.dk" tvg-name="DK: V Film Hits FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-hits-no.png" group-title="Dánia",DK: V Film Hits FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186646
+#EXTINF:-1 tvg-ID="viasatfilmpremiere.dk" tvg-name="DK: V Film Premiere FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-premiere-no.png" group-title="Dánia",DK: V Film Premiere FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51489
+#EXTINF:-1 tvg-ID="viasatexplore.dk" tvg-name="DK: Viasat Explorer FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/viasat-explore-ro.png" group-title="Dánia",DK: Viasat Explorer FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51493
+#EXTINF:-1 tvg-ID="viasathistory.dk" tvg-name="DK: Viasat History FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Viasat%20History.png" group-title="Dánia",DK: Viasat History FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164467
+#EXTINF:-1 tvg-ID="viasatnature.dk" tvg-name="DK: Viasat Nature FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/viasat-nature-dk.png" group-title="Dánia",DK: Viasat Nature FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186648
+#EXTINF:-1 tvg-ID="viasatseries.dk" tvg-name="DK: V Series FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-series-no.png" group-title="Dánia",DK: V Series FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186647
+#EXTINF:-1 tvg-ID="viasatgolf.dk" tvg-name="DK: V Sport Golf FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-sport-golf-no.png" group-title="Dánia",DK: V Sport Golf FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186614
+#EXTINF:-1 tvg-ID="VSportVinter.se" tvg-name="DK: V Sport Vinter FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-sport-vinter-fi.png" group-title="Dánia",DK: V Sport Vinter FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51549
+#EXTINF:-1 tvg-ID="6eren.dk" tvg-name="DK: 6 Eren HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/6eren-dk.png" group-title="Dánia",DK: 6 Eren HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51512
+#EXTINF:-1 tvg-ID="animalplanet.dk" tvg-name="DK: Animal Planet HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Animal%20Planet%20HD.png" group-title="Dánia",DK: Animal Planet HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51821
+#EXTINF:-1 tvg-ID="bbcbrit.dk" tvg-name="DK: BBC BRIT HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/bbc-brit-dk.png" group-title="Dánia",DK: BBC BRIT HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186616
+#EXTINF:-1 tvg-ID="bbcearth.dk" tvg-name="DK: BBC Earth HD  [Multi-Sub]" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/bbc-earth-au.png" group-title="Dánia",DK: BBC Earth HD  [Multi-Sub]
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51451
+#EXTINF:-1 tvg-ID="bbcworld.dk" tvg-name="DK: BBC World News HD" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/bbc-world-news-logo.png" group-title="Dánia",DK: BBC World News HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164440
+#EXTINF:-1 tvg-ID="canal9.dk" tvg-name="DK: Canal 9 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Canal%209.png" group-title="Dánia",DK: Canal 9 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51513
+#EXTINF:-1 tvg-ID="cartoonnetwork.dk" tvg-name="DK: Cartoon Network HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Cartoon%20Network.png" group-title="Dánia",DK: Cartoon Network HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51469
+#EXTINF:-1 tvg-ID="boomerang.dk" tvg-name="DK: Cartoonnito HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/240px-Boomerang_2014_logo.svg.png" group-title="Dánia",DK: Cartoonnito HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51466
+#EXTINF:-1 tvg-ID="cmorehits.dk" tvg-name="DK: TV4 Hits HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/c-more-hits-dk.png" group-title="Dánia",DK: TV4 Hits HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/196630
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV4 Stars HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/c-more-stars-dk.png" group-title="Dánia",DK: TV4 Stars HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/196633
+#EXTINF:-1 tvg-ID="" tvg-name="DK: CNBC HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNBC.png" group-title="Dánia",DK: CNBC HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164441
+#EXTINF:-1 tvg-ID="" tvg-name="DK: CNN HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNN.png" group-title="Dánia",DK: CNN HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164442
+#EXTINF:-1 tvg-ID="discoverychannel.dk" tvg-name="DK: Discovery Channel HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Discovery%20Channel%20Norway.png" group-title="Dánia",DK: Discovery Channel HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51822
+#EXTINF:-1 tvg-ID="discoveryscience.dk" tvg-name="DK: Discovery Science HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Discovery%20Science.png" group-title="Dánia",DK: Discovery Science HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51443
+#EXTINF:-1 tvg-ID="DisneyChannelScandinavia.uk" tvg-name="DK: Disney Channel HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Disney%20Channel.png" group-title="Dánia",DK: Disney Channel HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86553
+#EXTINF:-1 tvg-ID="dk4.dk" tvg-name="DK: DK4 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/DK%204.png" group-title="Dánia",DK: DK4 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51431
+#EXTINF:-1 tvg-ID="dr1.dk" tvg-name="DK: DR 1 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/DR%201.png" group-title="Dánia",DK: DR 1 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51394
+#EXTINF:-1 tvg-ID="" tvg-name="DK: DR1 Synstolkning HD" tvg-logo="" group-title="Dánia",DK: DR1 Synstolkning HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164444
+#EXTINF:-1 tvg-ID="dr2.dk" tvg-name="DK: DR 2 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/DR%202.png" group-title="Dánia",DK: DR 2 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51396
+#EXTINF:-1 tvg-ID="" tvg-name="DK: DR2 Synstolkning HD" tvg-logo="" group-title="Dánia",DK: DR2 Synstolkning HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164446
+#EXTINF:-1 tvg-ID="drramasjang.dk" tvg-name="DK: DR Ramasjang HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/DR%20Ramasjang.png" group-title="Dánia",DK: DR Ramasjang HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51399
+#EXTINF:-1 tvg-ID="" tvg-name="DK: DW English HD" tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text-thumbnail.png" group-title="Dánia",DK: DW English HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186628
+#EXTINF:-1 tvg-ID="EEurope.us" tvg-name="DK: E! Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/63px-E%21_Logo_2012.svg.png" group-title="Dánia",DK: E! Entertainment HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51446
+#EXTINF:-1 tvg-ID="eurosport1.dk" tvg-name="DK: Eurosport 1 HD" tvg-logo="" group-title="Dánia",DK: Eurosport 1 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164710
+#EXTINF:-1 tvg-ID="eurosport2.dk" tvg-name="DK: EuroSport 2 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Eurosport%202%20HD.png" group-title="Dánia",DK: EuroSport 2 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51823
+#EXTINF:-1 tvg-ID="" tvg-name="DK: France 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Dánia",DK: France 24 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186631
+#EXTINF:-1 tvg-ID="" tvg-name="DK: HISTORY 2 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/H2%20HD.jpg" group-title="Dánia",DK: HISTORY 2 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186635
+#EXTINF:-1 tvg-ID="history.dk" tvg-name="DK: HISTORY HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/History%20HD.png" group-title="Dánia",DK: HISTORY HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186633
+#EXTINF:-1 tvg-ID="investigationdiscovery.dk" tvg-name="DK: ID Investigation Discovery HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/ID%20Investigation%20Discovery.png" group-title="Dánia",DK: ID Investigation Discovery HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186636
+#EXTINF:-1 tvg-ID="kanal4.dk" tvg-name="DK: Kanal 4 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Kanal%204.png" group-title="Dánia",DK: Kanal 4 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51432
+#EXTINF:-1 tvg-ID="kanal5.dk" tvg-name="DK: Kanal 5 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/KANAL%205%20HD.png" group-title="Dánia",DK: Kanal 5 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51434
+#EXTINF:-1 tvg-ID="kanalhovedstaden.dk" tvg-name="DK: KANAL HOVEDSTADEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Danish_Region_hovedstaden_logo.svg/408px-Danish_Region_hovedstaden_logo.svg.png" group-title="Dánia",DK: KANAL HOVEDSTADEN HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/71232
+#EXTINF:-1 tvg-ID="" tvg-name="DK: KKR TV HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/KKR%20TV.png" group-title="Dánia",DK: KKR TV HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51548
+#EXTINF:-1 tvg-ID="Matkanalen.no" tvg-name="DK: Matkanalen HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Matkanalen.png" group-title="Dánia",DK: Matkanalen HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51545
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Motorvision HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/motorvision-tv-dk.png" group-title="Dánia",DK: Motorvision HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51462
+#EXTINF:-1 tvg-ID="MTV.dk" tvg-name="DK: MTV HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/MTV.png" group-title="Dánia",DK: MTV HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51455
+#EXTINF:-1 tvg-ID="natgeowild.dk" tvg-name="DK: Nat Geo Wild HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/NATGeo%20Wild%20HD.png" group-title="Dánia",DK: Nat Geo Wild HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51514
+#EXTINF:-1 tvg-ID="nationalgeographic.dk" tvg-name="DK: National Geographic HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/National%20Geographic.png" group-title="Dánia",DK: National Geographic HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51820
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Nickelodeon HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Nickelodeon.png" group-title="Dánia",DK: Nickelodeon HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51531
+#EXTINF:-1 tvg-ID="NickJrScandinavia.nl" tvg-name="DK: Nick Jr HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Nick%20Jr.png" group-title="Dánia",DK: Nick Jr HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86565
+#EXTINF:-1 tvg-ID="nicktoons.dk" tvg-name="DK: NickToons HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/nick-toons-de.png" group-title="Dánia",DK: NickToons HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164454
+#EXTINF:-1 tvg-ID="see.dk" tvg-name="DK: See HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/see-dk.png" group-title="Dánia",DK: See HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51464
+#EXTINF:-1 tvg-ID="sfkanalen.dk" tvg-name="DK: SF-Kanalen HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/SF%20Kanalen.png" group-title="Dánia",DK: SF-Kanalen HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/196635
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Sport Live HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/sport-live-dk.png" group-title="Dánia",DK: Sport Live HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186611
+#EXTINF:-1 tvg-ID="tv2bornholm.dk" tvg-name="DK: TV2 Bornholm HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20Bornholm.png" group-title="Dánia",DK: TV2 Bornholm HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51414
+#EXTINF:-1 tvg-ID="tlc.dk" tvg-name="DK: TLC HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TLC%20Norge.png" group-title="Dánia",DK: TLC HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186640
+#EXTINF:-1 tvg-ID="tv2charlie.dk" tvg-name="DK: TV 2 Charlie HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20Charlie.png" group-title="Dánia",DK: TV 2 Charlie HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51404
+#EXTINF:-1 tvg-ID="tv2fri.dk" tvg-name="DK: TV 2 Fri HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202%20FRI.png" group-title="Dánia",DK: TV 2 Fri HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51410
+#EXTINF:-1 tvg-ID="tv2fyn.dk" tvg-name="DK: TV2 Fyn HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202%20Fyn.png" group-title="Dánia",DK: TV2 Fyn HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51413
+#EXTINF:-1 tvg-ID="tv2.dk" tvg-name="DK: TV2 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202.png" group-title="Dánia",DK: TV2 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51401
+#EXTINF:-1 tvg-ID="tv2lorry.dk" tvg-name="DK: TV2 Lorry HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20Lorry.png" group-title="Dánia",DK: TV2 Lorry HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51412
+#EXTINF:-1 tvg-ID="tv2midtvest.dk" tvg-name="DK: TV2 Midt-Vest FHD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202%20Midt-Vest.png" group-title="Dánia",DK: TV2 Midt-Vest FHD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164460
+#EXTINF:-1 tvg-ID="tv2news.dk" tvg-name="DK: TV 2 News HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20NEWS.png" group-title="Dánia",DK: TV 2 News HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51406
+#EXTINF:-1 tvg-ID="tv2nordsalto.dk" tvg-name="DK: TV2 Nord HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202%20Nord.png" group-title="Dánia",DK: TV2 Nord HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51411
+#EXTINF:-1 tvg-ID="tv2sport.dk" tvg-name="DK: TV2 Sport HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20Sport.png" group-title="Dánia",DK: TV2 Sport HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51408
+#EXTINF:-1 tvg-ID="tv2sportx.dk" tvg-name="DK: TV2 Sport X HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv2-sport-x-dk.png" group-title="Dánia",DK: TV2 Sport X HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51409
+#EXTINF:-1 tvg-ID="tv2sydplus.dk" tvg-name="DK: TV2 Syd HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV_Syd.png" group-title="Dánia",DK: TV2 Syd HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51677
+#EXTINF:-1 tvg-ID="tv2zulu.dk" tvg-name="DK: TV2 Zulu HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV_2_Zulu.png" group-title="Dánia",DK: TV2 Zulu HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51824
+#EXTINF:-1 tvg-ID="tvost.dk" tvg-name="DK: TV2 Øst HD" tvg-logo="" group-title="Dánia",DK: TV2 Øst HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164461
+#EXTINF:-1 tvg-ID="tv2ostjylland.dk" tvg-name="DK: TV2 Østjylland HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-2-ostjylland-dk.png" group-title="Dánia",DK: TV2 Østjylland HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51416
+#EXTINF:-1 tvg-ID="tv3.dk" tvg-name="DK: TV3 HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-dk.png" group-title="Dánia",DK: TV3 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51418
+#EXTINF:-1 tvg-ID="tv3max.dk" tvg-name="DK: TV3 Max HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-max-dk.png" group-title="Dánia",DK: TV3 Max HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51427
+#EXTINF:-1 tvg-ID="tv3puls.dk" tvg-name="DK: TV3 Puls HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-puls-dk.png" group-title="Dánia",DK: TV3 Puls HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51511
+#EXTINF:-1 tvg-ID="tv3sport.dk" tvg-name="DK: TV3 Sport HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-sport-dk.png" group-title="Dánia",DK: TV3 Sport HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51425
+#EXTINF:-1 tvg-ID="tv3plus.dk" tvg-name="DK: TV3+ HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-plus-dk.png" group-title="Dánia",DK: TV3+ HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51421
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV 6 HD" tvg-logo="" group-title="Dánia",DK: TV 6 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/208077
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV Aarhus HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TVaarhus.png" group-title="Dánia",DK: TV Aarhus HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51429
+#EXTINF:-1 tvg-ID="tv2midtvest.dk" tvg-name="DK: TV2 Midt- Vest HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202%20Midt-Vest.png" group-title="Dánia",DK: TV2 Midt- Vest HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51417
+#EXTINF:-1 tvg-ID="viasataction.dk" tvg-name="DK: V Film Action HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-action-no.png" group-title="Dánia",DK: V Film Action HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51485
+#EXTINF:-1 tvg-ID="viasatfamily.dk" tvg-name="DK: V Film Family HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-family-no.png" group-title="Dánia",DK: V Film Family HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51486
+#EXTINF:-1 tvg-ID="viasathits.dk" tvg-name="DK: V Film Hits HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-hits-no.png" group-title="Dánia",DK: V Film Hits HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51487
+#EXTINF:-1 tvg-ID="viasatfilmpremiere.dk" tvg-name="DK: V Film Premiere HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-premiere-no.png" group-title="Dánia",DK: V Film Premiere HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51488
+#EXTINF:-1 tvg-ID="viasatexplore.dk" tvg-name="DK: Viasat Explore HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/viasat-explore-ro.png" group-title="Dánia",DK: Viasat Explore HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51492
+#EXTINF:-1 tvg-ID="viasathistory.dk" tvg-name="DK: Viasat History HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Viasat%20History.png" group-title="Dánia",DK: Viasat History HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51491
+#EXTINF:-1 tvg-ID="viasatnature.dk" tvg-name="DK: Viasat Nature HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/viasat-nature-dk.png" group-title="Dánia",DK: Viasat Nature HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51494
+#EXTINF:-1 tvg-ID="viasatseries.dk" tvg-name="DK: V Series HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-series-no.png" group-title="Dánia",DK: V Series HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51490
+#EXTINF:-1 tvg-ID="viasatgolf.dk" tvg-name="DK: V Sport Golf HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-sport-golf-no.png" group-title="Dánia",DK: V Sport Golf HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51515
+#EXTINF:-1 tvg-ID="viasatsportpremium.se" tvg-name="DK: V Sport Premium HD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-sport-premium-fi.png" group-title="Dánia",DK: V Sport Premium HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51550
+#EXTINF:-1 tvg-ID="VSportUltraHD.se" tvg-name="DK: V SPORT ULTRAHD 4K" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-sport-ultrahd-dk.png" group-title="Dánia",DK: V SPORT ULTRAHD 4K
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/83791
+#EXTINF:-1 tvg-ID="6eren.dk" tvg-name="DK: 6 Eren" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/6eren-dk.png" group-title="Dánia",DK: 6 Eren
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86133
+#EXTINF:-1 tvg-ID="animalplanet.dk" tvg-name="DK: Animal Planet" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Animal%20Planet%20HD.png" group-title="Dánia",DK: Animal Planet
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186615
+#EXTINF:-1 tvg-ID="bbcbrit.dk" tvg-name="DK: BBC BRIT" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/bbc-brit-dk.png" group-title="Dánia",DK: BBC BRIT
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186617
+#EXTINF:-1 tvg-ID="bbcworld.dk" tvg-name="DK: BBC World News" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/bbc-world-news-logo.png" group-title="Dánia",DK: BBC World News
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186619
+#EXTINF:-1 tvg-ID="canal9.dk" tvg-name="DK: Canal 9" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Canal%209.png" group-title="Dánia",DK: Canal 9
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86134
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/240px-Boomerang_2014_logo.svg.png" group-title="Dánia",DK: Cartoonito
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186620
+#EXTINF:-1 tvg-ID="cartoonnetwork.dk" tvg-name="DK: Cartoon Network" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Cartoon%20Network.png" group-title="Dánia",DK: Cartoon Network
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186621
+#EXTINF:-1 tvg-ID="cmorehits.dk" tvg-name="DK: TV4 Hits" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/c-more-hits-dk.png" group-title="Dánia",DK: TV4 Hits
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/196632
+#EXTINF:-1 tvg-ID="CMoreStars.se" tvg-name="DK: TV4 Stars" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/c-more-stars-dk.png" group-title="Dánia",DK: TV4 Stars
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/196634
+#EXTINF:-1 tvg-ID="" tvg-name="DK: CNBC" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/CNBC.png" group-title="Dánia",DK: CNBC
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186622
+#EXTINF:-1 tvg-ID="comedycentral.dk" tvg-name="DK: Comedy Central" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Comedy%20Central%20Nordic.png" group-title="Dánia",DK: Comedy Central
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51532
+#EXTINF:-1 tvg-ID="discoveryscience.dk" tvg-name="DK: Discovery Science" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Discovery%20Science.png" group-title="Dánia",DK: Discovery Science
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186626
+#EXTINF:-1 tvg-ID="DisneyChannelScandinavia.uk" tvg-name="DK: Disney Channel" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Disney%20Channel.png" group-title="Dánia",DK: Disney Channel
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51467
+#EXTINF:-1 tvg-ID="disneyjunior.dk" tvg-name="DK: Disney Junior  [Multi-Audio]" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Disney%20Jr.png" group-title="Dánia",DK: Disney Junior  [Multi-Audio]
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51468
+#EXTINF:-1 tvg-ID="" tvg-name="DK: DisneyXD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Dánia",DK: DisneyXD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51544
+#EXTINF:-1 tvg-ID="dk4.dk" tvg-name="DK: DK4" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/DK%204.png" group-title="Dánia",DK: DK4
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51430
+#EXTINF:-1 tvg-ID="dr1.dk" tvg-name="DK: DR 1" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/DR%201.png" group-title="Dánia",DK: DR 1
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51393
+#EXTINF:-1 tvg-ID="dr2.dk" tvg-name="DK: DR 2" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/DR%202.png" group-title="Dánia",DK: DR 2
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86148
+#EXTINF:-1 tvg-ID="drramasjang.dk" tvg-name="DK: DR Ramasjang" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/DR%20Ramasjang.png" group-title="Dánia",DK: DR Ramasjang
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51398
+#EXTINF:-1 tvg-ID="" tvg-name="DK: DW English" tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text-thumbnail.png" group-title="Dánia",DK: DW English
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186627
+#EXTINF:-1 tvg-ID="EEurope.us" tvg-name="DK: E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/63px-E%21_Logo_2012.svg.png" group-title="Dánia",DK: E! Entertainment
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86558
+#EXTINF:-1 tvg-ID="eurosport1.dk" tvg-name="DK: EuroSport 1" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Eurosport.png" group-title="Dánia",DK: EuroSport 1
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164345
+#EXTINF:-1 tvg-ID="Eurosport2Danmark.dk" tvg-name="DK: EuroSport 2" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Eurosport%202%20HD.png" group-title="Dánia",DK: EuroSport 2
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86557
+#EXTINF:-1 tvg-ID="" tvg-name="DK: France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Dánia",DK: France 24
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186629
+#EXTINF:-1 tvg-ID="history.dk" tvg-name="DK: HISTORY" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/History%20HD.png" group-title="Dánia",DK: HISTORY
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186632
+#EXTINF:-1 tvg-ID="" tvg-name="DK: HISTORY 2" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/H2%20HD.jpg" group-title="Dánia",DK: HISTORY 2
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186634
+#EXTINF:-1 tvg-ID="investigationdiscovery.dk" tvg-name="DK: Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/300px-InvestigationDiscoveryLogo2020.svg.png" group-title="Dánia",DK: Investigation Discovery
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51444
+#EXTINF:-1 tvg-ID="kanal4.dk" tvg-name="DK: Kanal 4" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Kanal%204.png" group-title="Dánia",DK: Kanal 4
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86152
+#EXTINF:-1 tvg-ID="kanal5.dk" tvg-name="DK: Kanal 5" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/KANAL%205%20HD.png" group-title="Dánia",DK: Kanal 5
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86561
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Kanal Nord/Tegnsprog" tvg-logo="" group-title="Dánia",DK: Kanal Nord/Tegnsprog
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164453
+#EXTINF:-1 tvg-ID="" tvg-name="DK: MOTORVISION TV" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/motorvision-tv-dk.png" group-title="Dánia",DK: MOTORVISION TV
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186612
+#EXTINF:-1 tvg-ID="MTVHitsEurope.uk" tvg-name="DK: MTV" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/MTV.png" group-title="Dánia",DK: MTV
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51458
+#EXTINF:-1 tvg-ID="nationalgeographic.dk" tvg-name="DK: National Geographic" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/National%20Geographic.png" group-title="Dánia",DK: National Geographic
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164344
+#EXTINF:-1 tvg-ID="nickelodeon.dk" tvg-name="DK: Nickelodeon" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Nickelodeon.png" group-title="Dánia",DK: Nickelodeon
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86564
+#EXTINF:-1 tvg-ID="nickjr.dk" tvg-name="DK: Nick Jr" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Nick%20Jr.png" group-title="Dánia",DK: Nick Jr
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51470
+#EXTINF:-1 tvg-ID="nicktoons.dk" tvg-name="DK: NickToons" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/nick-toons-de.png" group-title="Dánia",DK: NickToons
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51471
+#EXTINF:-1 tvg-ID="see.dk" tvg-name="DK: See SD" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/see-dk.png" group-title="Dánia",DK: See SD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86605
+#EXTINF:-1 tvg-ID="sfkanalen.dk" tvg-name="DK: SF-Kanalen" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/SF%20Kanalen.png" group-title="Dánia",DK: SF-Kanalen
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51472
+#EXTINF:-1 tvg-ID="" tvg-name="DK: SkyShowtime 1 HD" tvg-logo="" group-title="Dánia",DK: SkyShowtime 1 HD
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164455
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Sport Live" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/sport-live-dk.png" group-title="Dánia",DK: Sport Live
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51439
+#EXTINF:-1 tvg-ID="tlc.dk" tvg-name="DK: TLC" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TLC%20Norge.png" group-title="Dánia",DK: TLC
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51463
+#EXTINF:-1 tvg-ID="" tvg-name="DK: Trailerkanalen" tvg-logo="" group-title="Dánia",DK: Trailerkanalen
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164458
+#EXTINF:-1 tvg-ID="tv2.dk" tvg-name="DK: TV2" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202.png" group-title="Dánia",DK: TV2
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86569
+#EXTINF:-1 tvg-ID="tv2bornholm.dk" tvg-name="DK: TV2 Bornholm" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20Bornholm.png" group-title="Dánia",DK: TV2 Bornholm
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164346
+#EXTINF:-1 tvg-ID="tv2charlie.dk" tvg-name="DK: TV 2 Charlie" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20Charlie.png" group-title="Dánia",DK: TV 2 Charlie
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51403
+#EXTINF:-1 tvg-ID="tv2fri.dk" tvg-name="DK: TV 2 Fri" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202%20FRI.png" group-title="Dánia",DK: TV 2 Fri
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164342
+#EXTINF:-1 tvg-ID="tv2fyn.dk" tvg-name="DK: TV2 Fyn" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202%20Fyn.png" group-title="Dánia",DK: TV2 Fyn
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186641
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV2 Midt-Vest" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202%20Midt-Vest.png" group-title="Dánia",DK: TV2 Midt-Vest
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164628
+#EXTINF:-1 tvg-ID="tv2news.dk" tvg-name="DK: TV 2 News" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20NEWS.png" group-title="Dánia",DK: TV 2 News
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51405
+#EXTINF:-1 tvg-ID="tv2nordsalto.dk" tvg-name="DK: TV2 Nord" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV%202%20Nord.png" group-title="Dánia",DK: TV2 Nord
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86570
+#EXTINF:-1 tvg-ID="tv2sport.dk" tvg-name="DK: TV2 Sport" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV2%20Sport.png" group-title="Dánia",DK: TV2 Sport
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51407
+#EXTINF:-1 tvg-ID="tv2sportx.dk" tvg-name="DK: TV2 Sport X" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv2-sport-x-dk.png" group-title="Dánia",DK: TV2 Sport X
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/164466
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV2 Syd" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV_Syd.png" group-title="Dánia",DK: TV2 Syd
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51547
+#EXTINF:-1 tvg-ID="tv2zulu.dk" tvg-name="DK: TV2 Zulu" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/TV_2_Zulu.png" group-title="Dánia",DK: TV2 Zulu
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86571
+#EXTINF:-1 tvg-ID="tvost.dk" tvg-name="DK: TV2 Øst" tvg-logo="" group-title="Dánia",DK: TV2 Øst
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/186642
+#EXTINF:-1 tvg-ID="tv2ostjylland.dk" tvg-name="DK: TV2 Østjylland" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-2-ostjylland-dk.png" group-title="Dánia",DK: TV2 Østjylland
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51415
+#EXTINF:-1 tvg-ID="tv3.dk" tvg-name="DK: TV3" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-dk.png" group-title="Dánia",DK: TV3
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86572
+#EXTINF:-1 tvg-ID="tv3max.dk" tvg-name="DK: TV3 Max" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-max-dk.png" group-title="Dánia",DK: TV3 Max
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51426
+#EXTINF:-1 tvg-ID="tv3puls.dk" tvg-name="DK: TV3 Puls" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-puls-dk.png" group-title="Dánia",DK: TV3 Puls
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51422
+#EXTINF:-1 tvg-ID="tv3sport.dk" tvg-name="DK: TV3 Sport" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-sport-dk.png" group-title="Dánia",DK: TV3 Sport
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51424
+#EXTINF:-1 tvg-ID="tv3plus.dk" tvg-name="DK: TV3+" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/tv3-plus-dk.png" group-title="Dánia",DK: TV3+
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86613
+#EXTINF:-1 tvg-ID="" tvg-name="DK: TV 6" tvg-logo="" group-title="Dánia",DK: TV 6
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/208078
+#EXTINF:-1 tvg-ID="viasataction.dk" tvg-name="DK: V Film Action" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-action-no.png" group-title="Dánia",DK: V Film Action
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86618
+#EXTINF:-1 tvg-ID="viasatfamily.dk" tvg-name="DK: V Film Family" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-family-no.png" group-title="Dánia",DK: V Film Family
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86583
+#EXTINF:-1 tvg-ID="viasathits.dk" tvg-name="DK: V Film Hits" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-hits-no.png" group-title="Dánia",DK: V Film Hits
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86621
+#EXTINF:-1 tvg-ID="" tvg-name="DK: VGTV" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/vg-tv-no.png" group-title="Dánia",DK: VGTV
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/51461
+#EXTINF:-1 tvg-ID="viasatfilmpremiere.dk" tvg-name="DK: V Film Premiere" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-film-premiere-no.png" group-title="Dánia",DK: V Film Premiere
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86623
+#EXTINF:-1 tvg-ID="viasatexplore.dk" tvg-name="DK: Viasat Explorer" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/viasat-explore-ro.png" group-title="Dánia",DK: Viasat Explorer
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86581
+#EXTINF:-1 tvg-ID="viasathistory.dk" tvg-name="DK: Viasat History" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/Viasat%20History.png" group-title="Dánia",DK: Viasat History
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86587
+#EXTINF:-1 tvg-ID="viasatnature.dk" tvg-name="DK: Viasat Nature" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/viasat-nature-dk.png" group-title="Dánia",DK: Viasat Nature
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86589
+#EXTINF:-1 tvg-ID="viasatseries.dk" tvg-name="DK: V Series" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-series-no.png" group-title="Dánia",DK: V Series
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86632
+#EXTINF:-1 tvg-ID="viasatgolf.dk" tvg-name="DK: V Sport Golf" tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/Scandinav-Ilhan/55/v-sport-golf-no.png" group-title="Dánia",DK: V Sport Golf
+http://1sn.ns1.name:18800/cfxG5KEn/sK7Ck6W/86594
