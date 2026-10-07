@@ -13102,5 +13102,18 @@ https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fuel
 #EXTINF:-1 tvg-id="" tvg-name="Project Runway (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Ausztrália",Project Runway (1080p)
 https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ATV (1080p)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="BE/ BELGIUM",ATV (1080p)
+http://msedxim.shop:8080/hmd1114/cn.0705/569824
+#EXTINF:-1 tvg-id="" tvg-name="Bel RTL (1080p)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="BE/ BELGIUM",Bel RTL (1080p)
+http://msedxim.shop:8080/hmd1114/cn.0705/569825
+#EXTINF:-1 tvg-id="" tvg-name="Japanim TV (1080p)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="BE/ BELGIUM",Japanim TV (1080p)
+http://msedxim.shop:8080/hmd1114/cn.0705/569830
+#EXTINF:-1 tvg-id="" tvg-name="La Une (1080p)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="BE/ BELGIUM",La Une (1080p)
+http://msedxim.shop:8080/hmd1114/cn.0705/569833
+#EXTINF:-1 tvg-id="" tvg-name="Notele (576p)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="BE/ BELGIUM",Notele (576p)
+http://msedxim.shop:8080/hmd1114/cn.0705/569838
+#EXTINF:-1 tvg-id="" tvg-name="Trends Z (1080p)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="BE/ BELGIUM",Trends Z (1080p)
+http://msedxim.shop:8080/hmd1114/cn.0705/569849
 
 
