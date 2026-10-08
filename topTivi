@@ -707,8 +707,14 @@ http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kecskemeti TV (416p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Kecskemeti TV (416p)
 https://eurobioinvest.hu:444/live/ktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M2 (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",M2 (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="M2 (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="",M2 (1080p)
 http://88.212.15.19/live/m2_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="hirtv.hu" tvg-name="HU| HIR TV HD" tvg-logo="https://lo1.in/bulg/hir0.png" group-title="Magyarország ", HIR TV HD
+http://mjxbtzkf.ngtdt.com:80/live/XENON31707U/7649755691/29965.m3u8
+
+
+
 
 
 
