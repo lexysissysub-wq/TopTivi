@@ -10065,251 +10065,7 @@ http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/51385
 #EXTINF:-1 tvg-id="" tvg-name="SWE: DISCOVERY" tvg-logo="" group-title="Svédország",SWE: DISCOVERY
 http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/57366
 
-#EXTM3U
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="|UK| ITV 1 UK" tvg-logo="https://i.imgur.com/anwabuB.png" group-title="Nagy-Britannia",|UK| ITV 1 UK
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1678.m3u8
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="|UK| ITV 1 FHD UK" tvg-logo="https://i.imgur.com/anwabuB.png" group-title="Nagy-Britannia",|UK| ITV 1 FHD UK
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/88286.m3u8
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="|UK| ITV 2 HD" tvg-logo="https://i.imgur.com/3ROEY9n.png" group-title="Nagy-Britannia",|UK| ITV 2 HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1679.m3u8
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="|UK| ITV 3 HD" tvg-logo="https://i.imgur.com/1z4bKqE.png" group-title="Nagy-Britannia",|UK| ITV 3 HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1680.m3u8
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="|UK| ITV 4 HD" tvg-logo="https://i.imgur.com/bDzDj3C.png" group-title="Nagy-Britannia",|UK| ITV 4 HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1681.m3u8
-#EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="|UK| TALKTV HD" tvg-logo="https://i.imgur.com/tBrtWiJ.png" group-title="Nagy-Britannia",|UK| TALKTV HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2246.m3u8
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="|UK| ITV BE FHD" tvg-logo="https://i.imgur.com/hI8Z6p3.png" group-title="Nagy-Britannia",|UK| ITV BE FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/4374.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="|UK| GB NEWS HD" tvg-logo="https://i.imgur.com/L2PSsBz.png" group-title="Nagy-Britannia",|UK| GB NEWS HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101007.m3u8
-#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-name="|UK| VIRGIN Media One UK" tvg-logo="https://i.imgur.com/vHEeWSN.png" group-title="Nagy-Britannia",|UK| VIRGIN Media One UK
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/672.m3u8
-#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-name="|UK| VIRGIN Media Two UK FHD" tvg-logo="https://i.imgur.com/QJzaYAQ.png" group-title="Nagy-Britannia",|UK| VIRGIN Media Two UK FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1928.m3u8
-#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-name="|UK| RTÉ NEWS NOW HD" tvg-logo="https://i.imgur.com/qV2gdab.png" group-title="Nagy-Britannia",|UK| RTÉ NEWS NOW HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1930.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="|UK| BBC NEWS FHD" tvg-logo="https://i.imgur.com/IStsN2U.png" group-title="Nagy-Britannia",|UK| BBC NEWS FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1927.m3u8
-#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="|UK| BBC ONE UK" tvg-logo="https://i.imgur.com/f2dyov3.png" group-title="Nagy-Britannia",|UK| BBC ONE UK
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1171.m3u8
-#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="|UK| BBC ONE UK HD" tvg-logo="https://i.imgur.com/f2dyov3.png" group-title="Nagy-Britannia",|UK| BBC ONE UK HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/88287.m3u8
-#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="|UK| CBBC HD" tvg-logo="https://i.imgur.com/wZ8lKZY.png" group-title="Nagy-Britannia",|UK| CBBC HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2290.m3u8
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="|UK| BBC TWO HD UK" tvg-logo="https://i.imgur.com/f2dyov3.png" group-title="Nagy-Britannia",|UK| BBC TWO HD UK
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1172.m3u8
-#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="|UK| BBC FOUR HD UK" tvg-logo="https://i.imgur.com/f2dyov3.png" group-title="Nagy-Britannia",|UK| BBC FOUR HD UK
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1173.m3u8
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="|UK| BBC PARLIAMENT HD" tvg-logo="https://i.imgur.com/QHzXyLA.png" group-title="Nagy-Britannia",|UK| BBC PARLIAMENT HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/5448.m3u8
-#EXTINF:-1 tvg-id="STVCentral.uk" tvg-name="|UK| STV FHD" tvg-logo="https://i.imgur.com/O7tlOI1.png" group-title="Nagy-Britannia",|UK| STV FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/100909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| CNN FHD" tvg-logo="" group-title="Nagy-Britannia",|UK| CNN FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101009.m3u8
-#EXTINF:-1 tvg-id="CBSJustice.uk" tvg-name="|UK| CBS JUSTICE HD" tvg-logo="https://i.imgur.com/IXhxjDD.png" group-title="Nagy-Britannia",|UK| CBS JUSTICE HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1935.m3u8
-#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="|UK| CBS DRAMA" tvg-logo="https://i.imgur.com/zKCralT.png" group-title="Nagy-Britannia",|UK| CBS DRAMA
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1936.m3u8
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="|UK| CHANNEL 4 FHD" tvg-logo="https://i.imgur.com/QeSQfbX.png" group-title="Nagy-Britannia",|UK| CHANNEL 4 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2106.m3u8
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="|UK| CHANNEL 5 FHD" tvg-logo="https://i.imgur.com/Xi75qab.png" group-title="Nagy-Britannia",|UK| CHANNEL 5 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2107.m3u8
-#EXTINF:-1 tvg-id="RTE1.ie" tvg-name="|UK| RTÉ ONE FHD" tvg-logo="https://i.imgur.com/Yq7HLX3.png" group-title="Nagy-Britannia",|UK| RTÉ ONE FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1931.m3u8
-#EXTINF:-1 tvg-id="RTÉTwo.uk" tvg-name="|UK| RTÉ TWO FHD" tvg-logo="https://i.imgur.com/5pFO6UB.png" group-title="Nagy-Britannia",|UK| RTÉ TWO FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1932.m3u8
-#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="|UK| 4 SEVEN HD" tvg-logo="https://i.imgur.com/YISVXe3.png" group-title="Nagy-Britannia",|UK| 4 SEVEN HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/67998.m3u8
-#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="|UK| 5 USA HD" tvg-logo="https://i.imgur.com/o8MYT1Z.png" group-title="Nagy-Britannia",|UK| 5 USA HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/11451.m3u8
-#EXTINF:-1 tvg-id="5star.uk" tvg-name="|UK| 5 STAR HD" tvg-logo="https://i.imgur.com/Jm6EmVo.png" group-title="Nagy-Britannia",|UK| 5 STAR HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/19541.m3u8
-#EXTINF:-1 tvg-id="5Select.uk" tvg-name="|UK| 5 SELECT HD" tvg-logo="https://i.imgur.com/onlZyns.png" group-title="Nagy-Britannia",|UK| 5 SELECT HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/19500.m3u8
-#EXTINF:-1 tvg-id="5Action.uk" tvg-name="|UK| 5 ACTION HD" tvg-logo="https://i.imgur.com/CmG7B9n.png" group-title="Nagy-Britannia",|UK| 5 ACTION HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/11448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY NEWS FHD" tvg-logo="https://i.imgur.com/VUKJv9N.png" group-title="Nagy-Britannia",|UK| SKY NEWS FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1274.m3u8
-#EXTINF:-1 tvg-id="Eden.uk" tvg-name="|UK| EDEN HD" tvg-logo="https://i.imgur.com/xmAffam.png" group-title="Nagy-Britannia",|UK| EDEN HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/6051.m3u8
-#EXTINF:-1 tvg-id="SCIFI.uk" tvg-name="|UK| SYFY FHD" tvg-logo="https://i.imgur.com/3LroLPZ.png" group-title="Nagy-Britannia",|UK| SYFY FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1165.m3u8
-#EXTINF:-1 tvg-id="SonyTVAsia.uk" tvg-name="|UK| SONY TV FHD" tvg-logo="https://i.imgur.com/JZqFnct.png" group-title="Nagy-Britannia",|UK| SONY TV FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/100907.m3u8
-#EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-name="|UK| UTSAV PLUS HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/utsav-plus-hd-uk.png" group-title="Nagy-Britannia",|UK| UTSAV PLUS HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101040.m3u8
-#EXTINF:-1 tvg-id="Dave.uk" tvg-name="|UK| DAVE HD" tvg-logo="https://i.imgur.com/RfIa9jh.png" group-title="Nagy-Britannia",|UK| DAVE HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101016.m3u8
-#EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="|UK| DAVE JA VU HD" tvg-logo="https://i.imgur.com/fSfRCgS.png" group-title="Nagy-Britannia",|UK| DAVE JA VU HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101027.m3u8
-#EXTINF:-1 tvg-id="UtsavGold.uk" tvg-name="|UK| UTSAV GOLD HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/utsav-gold-hd-uk.png" group-title="Nagy-Britannia",|UK| UTSAV GOLD HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/101026.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="|UK| COMEDY CENTRAL FHD" tvg-logo="http://i.imgur.com/YwFrAKY.png" group-title="Nagy-Britannia",|UK| COMEDY CENTRAL FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2214.m3u8
-#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="|UK| SKY ARTS FHD" tvg-logo="https://i.imgur.com/4C96smt.png" group-title="Nagy-Britannia",|UK| SKY ARTS FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2219.m3u8
-#EXTINF:-1 tvg-id="E4.uk" tvg-name="|UK| E4 HD" tvg-logo="https://i.imgur.com/dkN9CoT.png" group-title="Nagy-Britannia",|UK| E4 HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/3950.m3u8
-#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="|UK| U&ALIBI HD" tvg-logo="https://i.imgur.com/6cDKtf8.png" group-title="Nagy-Britannia",|UK| U&ALIBI HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/12403.m3u8
-#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="|UK| SKY CINEMA THRILLER FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA THRILLER FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2218.m3u8
-#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="|UK| SKY CINEMA DRAMA FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA DRAMA FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1684.m3u8
-#EXTINF:-1 tvg-id="SkyCinemaGreat.uk" tvg-name="|UK| SKY CINEMA GREATS FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA GREATS FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1682.m3u8
-#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="|UK| SKY CINEMA COMEDY FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA COMEDY FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1660.m3u8
-#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="|UK| SKY KIDS FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-kids-uk.png" group-title="Nagy-Britannia",|UK| SKY KIDS FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1939.m3u8
-#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="|UK| SKY CINEMA ACTION FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-action-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA ACTION FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1164.m3u8
-#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="|UK| SKY CINEMA ATLANTIC FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-atlantic-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA ATLANTIC FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1209.m3u8
-#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="|UK| SKY CINEMA SCFI HORROR FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA SCFI HORROR FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1166.m3u8
-#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="|UK| SKY CINEMA PREMIERE FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA PREMIERE FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1694.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SCI-FI FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-sci-fi-uk.png" group-title="Nagy-Britannia",|UK| SKY SCI-FI FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1940.m3u8
-#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="|UK| GOLD FHD" tvg-logo="https://i.imgur.com/x7lAvdo.png" group-title="Nagy-Britannia",|UK| GOLD FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2288.m3u8
-#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="|UK| SKY MAX FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-max-uk.png" group-title="Nagy-Britannia",|UK| SKY MAX FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2845.m3u8
-#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="|UK| NAT GEO HD" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="Nagy-Britannia",|UK| NAT GEO HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1175.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="|UK| NAT GEO WILD FHD" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="Nagy-Britannia",|UK| NAT GEO WILD FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1176.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="|UK| DISCOVERY TURBO HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/discovery-turbo-uk.png" group-title="Nagy-Britannia",|UK| DISCOVERY TURBO HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2226.m3u8
-#EXTINF:-1 tvg-id="TravelXP.uk" tvg-name="|UK| TRAVEL XP HD" tvg-logo="https://i.imgur.com/zna4SRf.png" group-title="Nagy-Britannia",|UK| TRAVEL XP HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2221.m3u8
-#EXTINF:-1 tvg-id="TLC.uk" tvg-name="|UK| TLC FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/tlc-hd-uk.png" group-title="Nagy-Britannia",|UK| TLC FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2928.m3u8
-#EXTINF:-1 tvg-id="Discovery.uk" tvg-name="|UK| DISCOVERY CHANNEL UK HD" tvg-logo="http://i.imgur.com/jvvbM2m.png" group-title="Nagy-Britannia",|UK| DISCOVERY CHANNEL UK HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1168.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="|UK| DISCOVERY SCIENCE UK HD" tvg-logo="http://i.imgur.com/4MrOd8l.png" group-title="Nagy-Britannia",|UK| DISCOVERY SCIENCE UK HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1174.m3u8
-#EXTINF:-1 tvg-id="Investigation.uk" tvg-name="|UK| INVESTIGATION DISCOVERY HD" tvg-logo="http://i.imgur.com/Xbwkt2A.png" group-title="Nagy-Britannia",|UK| INVESTIGATION DISCOVERY HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| DISCOVERY LIFE UK HD" tvg-logo="" group-title="Nagy-Britannia",|UK| DISCOVERY LIFE UK HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1926.m3u8
-#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="|UK| CRIME & INVESTIGATION FHD" tvg-logo="https://i.imgur.com/91I4t10.png" group-title="Nagy-Britannia",|UK| CRIME & INVESTIGATION FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2222.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="|UK| ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/xmLmDPB.png" group-title="Nagy-Britannia",|UK| ANIMAL PLANET HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1685.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="|UK| FOOD NETWOORK HD" tvg-logo="https://i.imgur.com/7oc8X6b.png" group-title="Nagy-Britannia",|UK| FOOD NETWOORK HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1946.m3u8
-#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="|UK| SKY WITNESS FHD" tvg-logo="https://i.imgur.com/wPNdUeT.png" group-title="Nagy-Britannia",|UK| SKY WITNESS FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2220.m3u8
-#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="|UK| SKY DOCUMENTARIES FHD" tvg-logo="https://i.imgur.com/vbVbso5.png" group-title="Nagy-Britannia",|UK| SKY DOCUMENTARIES FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1945.m3u8
-#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="|UK| SKY NATURE FHD" tvg-logo="https://i.imgur.com/G5PwmxL.png" group-title="Nagy-Britannia",|UK| SKY NATURE FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1941.m3u8
-#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="|UK| SKY CRIME FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/sky-crime-uk.png" group-title="Nagy-Britannia",|UK| SKY CRIME FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/69103.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="|UK| SKY HISTORY FHD" tvg-logo="https://i.imgur.com/1vBFuXv.png" group-title="Nagy-Britannia",|UK| SKY HISTORY FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2854.m3u8
-#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="|UK| SKY HISTORY 2 FHD" tvg-logo="https://i.imgur.com/wT6uqDu.png" group-title="Nagy-Britannia",|UK| SKY HISTORY 2 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1925.m3u8
-#EXTINF:-1 tvg-id="NauticalChannel.uk" tvg-name="|UK| NAUTICAL CHANNEL UK HD" tvg-logo="" group-title="Nagy-Britannia",|UK| NAUTICAL CHANNEL UK HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/111831.m3u8
-#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="|UK| TNT SPORTS 1 HD" tvg-logo="https://i.imgur.com/RddAF4K.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 1 HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/3037.m3u8
-#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="|UK| TNT SPORTS 1 FHD" tvg-logo="https://i.imgur.com/RddAF4K.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 1 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/663.m3u8
-#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="|UK| TNT SPORTS 2 HD" tvg-logo="https://i.imgur.com/azwiaU8.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 2 HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/12127.m3u8
-#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="|UK| TNT SPORTS 2 FHD" tvg-logo="https://i.imgur.com/azwiaU8.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 2 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/664.m3u8
-#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="|UK| TNT SPORTS 3 HD" tvg-logo="https://i.imgur.com/8JLQ4Va.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 3 HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/12186.m3u8
-#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="|UK| TNT SPORTS 3 FHD" tvg-logo="https://i.imgur.com/8JLQ4Va.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 3 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/665.m3u8
-#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="|UK| TNT SPORTS 4 HD" tvg-logo="https://i.imgur.com/ZVS3CgG.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 4 HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/20735.m3u8
-#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="|UK| TNT SPORTS 4 FHD" tvg-logo="https://i.imgur.com/ZVS3CgG.png" group-title="Nagy-Britannia",|UK| TNT SPORTS 4 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1689.m3u8
-#EXTINF:-1 tvg-id="TNTSportsUltimate.uk" tvg-name="|UK| TNT SPORTS ULITMATE HDR 4K" tvg-logo="https://i.imgur.com/8FLAtcl.png" group-title="Nagy-Britannia",|UK| TNT SPORTS ULITMATE HDR 4K
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/111893.m3u8
-#EXTINF:-1 tvg-id="SkySpNews.uk" tvg-name="|UK| SKY SPORTS NEWS FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS NEWS FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1163.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT HD" tvg-logo="https://i.imgur.com/MlBbdS6.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MAIN EVENT HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/10163.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="|UK| SKY SPORTS MAIN EVENTS FHD" tvg-logo="https://i.imgur.com/MlBbdS6.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MAIN EVENTS FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/17774.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT 4K UHD" tvg-logo="https://i.imgur.com/wtvzsPl.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MAIN EVENT 4K UHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2215.m3u8
-#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL HD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS FOOTBALL HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2375.m3u8
-#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS FOOTBALL FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS 1 4K UHD" tvg-logo="" group-title="Nagy-Britannia",|UK| SKY SPORTS 1 4K UHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/40845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS 2 4K UHD" tvg-logo="" group-title="Nagy-Britannia",|UK| SKY SPORTS 2 4K UHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/148.m3u8
-#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="|UK| SKY SPORTS F1 HD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS F1 HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/41315.m3u8
-#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="|UK| SKY SPORTS F1 FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS F1 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/666.m3u8
-#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="|UK| SKY SPORTS F1 4K UHD" tvg-logo="" group-title="Nagy-Britannia",|UK| SKY SPORTS F1 4K UHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/111871.m3u8
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="|UK| SKY SPORTS CRICKET HD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS CRICKET HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/61496.m3u8
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="|UK| SKY SPORTS CRICKET FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS CRICKET FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/667.m3u8
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="|UK| SKY SPORTS GOLF HD" tvg-logo="https://i.imgur.com/izsc1bJ.png" group-title="Nagy-Britannia",|UK| SKY SPORTS GOLF HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2377.m3u8
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="|UK| SKY SPORTS GOLF FHD" tvg-logo="https://i.imgur.com/izsc1bJ.png" group-title="Nagy-Britannia",|UK| SKY SPORTS GOLF FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2393.m3u8
-#EXTINF:-1 tvg-id="SkySpArena.uk" tvg-name="|UK| SKY SPORTS+ FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS+ FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/668.m3u8
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="|UK| SKY SPORTS ACTION FHD" tvg-logo="https://i.imgur.com/RI1Urun.png" group-title="Nagy-Britannia",|UK| SKY SPORTS ACTION FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/69102.m3u8
-#EXTINF:-1 tvg-id="SkySpMix.uk" tvg-name="|UK| SKY SPORTS MIX FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MIX FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/669.m3u8
-#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="|UK| PREMIER SPORTS 1 FHD" tvg-logo="https://i.imgur.com/IdJoLJO.png" group-title="Nagy-Britannia",|UK| PREMIER SPORTS 1 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1428.m3u8
-#EXTINF:-1 tvg-id="Premier2.ie" tvg-name="|UK| PREMIER SPORTS 2 FHD" tvg-logo="https://i.imgur.com/kEaTv1b.png" group-title="Nagy-Britannia",|UK| PREMIER SPORTS 2 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1273.m3u8
-#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="|UK| SKY SPORT PL HD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORT PL HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/61561.m3u8
-#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="|UK| SKY SPORT PL FHD" tvg-logo="https://i.imgur.com/jQKryyD.png" group-title="Nagy-Britannia",|UK| SKY SPORT PL FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1466.m3u8
-#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="|UK| SKY SPORTS TENNIS FHD" tvg-logo="https://i.imgur.com/l0d1o0j.png" group-title="Nagy-Britannia",|UK| SKY SPORTS TENNIS FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1938.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="|UK| EUROSPORT 1 FHD" tvg-logo="http://i.imgur.com/MNX6Be8.png" group-title="Nagy-Britannia",|UK| EUROSPORT 1 FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1741.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="|UK| EUROSPORT 2 HD" tvg-logo="http://i.imgur.com/tENUR8u.png" group-title="Nagy-Britannia",|UK| EUROSPORT 2 HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| LALIGA TV FHD" tvg-logo="" group-title="Nagy-Britannia",|UK| LALIGA TV FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2213.m3u8
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="|UK| MUTV HD" tvg-logo="" group-title="Nagy-Britannia",|UK| MUTV HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/671.m3u8
-#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="|UK| LFC TV UK HD" tvg-logo="https://i.imgur.com/MzFxByf.png" group-title="Nagy-Britannia",|UK| LFC TV UK HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1933.m3u8
-#EXTINF:-1 tvg-id="Racing UK HD UK" tvg-name="|UK| SKY SPORT RACING FHD" tvg-logo="https://i.imgur.com/brPWjSt.png" group-title="Nagy-Britannia",|UK| SKY SPORT RACING FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1691.m3u8
-#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="|UK| BOOMERANG FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/boomerang-uk.png" group-title="Nagy-Britannia",|UK| BOOMERANG FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/5398.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="|UK| CARTOON NETWORK FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/cartoon-network-uk.png" group-title="Nagy-Britannia",|UK| CARTOON NETWORK FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/19673.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="|UK| CARTOONITO FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/cartoonito-uk.png" group-title="Nagy-Britannia",|UK| CARTOONITO FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/19644.m3u8
-#EXTINF:-1 tvg-id="SkyAnimation.uk" tvg-name="|UK| SKY ANIMATION FHD" tvg-logo="https://i.imgur.com/c9WFrTe.png" group-title="Nagy-Britannia",|UK| SKY ANIMATION FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1683.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="|UK| NICKELODEON FHD" tvg-logo="http://i.imgur.com/CZTnf46.png" group-title="Nagy-Britannia",|UK| NICKELODEON FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1208.m3u8
-#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="|UK| NICKELODEON JR FHD" tvg-logo="http://i.imgur.com/CZTnf46.png" group-title="Nagy-Britannia",|UK| NICKELODEON JR FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/2291.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="|UK| DISNEY JUNIOR HD" tvg-logo="http://i.imgur.com/YKSujcL.png" group-title="Nagy-Britannia",|UK| DISNEY JUNIOR HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1703.m3u8
-#EXTINF:-1 tvg-id="RTÉ Jr UK" tvg-name="|UK| RTÉ JR HD" tvg-logo="https://i.imgur.com/6uouogN.png" group-title="Nagy-Britannia",|UK| RTÉ JR HD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1929.m3u8
-#EXTINF:-1 tvg-id="MTV.uk" tvg-name="|UK| MTV FHD" tvg-logo="http://i.imgur.com/yKodmlz.png" group-title="Nagy-Britannia",|UK| MTV FHD
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1271.m3u8
-#EXTINF:-1 tvg-id="VH1UK.uk" tvg-name="|UK| VH1" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-kingdom/vh1-uk.png" group-title="Nagy-Britannia",|UK| VH1
-http://elvis.tvott.net:80/live/stevemeller/ihJN59sd/1276.m3u8
+
 
 
 #EXTM3U
@@ -12923,105 +12679,1419 @@ http://live.uspeh.my/8842/video.m3u8?token=e15j81PmA1p4DWnD
 http://live.uspeh.my/8832/video.m3u8?token=e15j81PmA1p4DWnD
 #EXTINF:-1 tvg-id="TRT ÇOCUK TR" group-title="Törökország"  tvg-logo="[img]https://icon.uspeh.my/icon/TRT%20Cocuk%20HD%20TR.png[/img]" catchup-days="0", TRT ÇOCUK TR
 http://live.uspeh.my/8803/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 group-title="Törökország", Приятного просмотра
-https://alensat.at.ua/alensat.com.mp4
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Израиль 9 IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Channel%209%20HD%20IL.png[/img]" catchup="default" catchup-days="14" catchup-source="http://live.uspeh.my/8107/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="14", Израиль 9 IL
-http://live.uspeh.my/8107/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Израиль 9 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Channel%209%20HD%20IL.png[/img]" catchup-days="0", Израиль 9 HD IL
-http://live.uspeh.my/8524/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Израиль 11 IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Kan%2011%20IL.png[/img]" catchup="default" catchup-days="7" catchup-source="http://live.uspeh.my/8309/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="7", Израиль 11 IL
-http://live.uspeh.my/8309/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Израиль 11 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Kan%2011%20IL.png[/img]" catchup-days="0", Израиль 11 HD IL
-http://live.uspeh.my/8348/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Израиль 12 IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/CHANNEL%2012%20HD%20IL.png[/img]" catchup="default" catchup-days="7" catchup-source="http://live.uspeh.my/8160/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="7", Израиль 12 IL
-http://live.uspeh.my/8160/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Израиль 12 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/CHANNEL%2012%20HD%20IL.png[/img]" catchup-days="0", Израиль 12 HD IL
-http://live.uspeh.my/8400/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Израиль 13 IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/CHANNEL%2013%20HD%20IL.png[/img]" catchup="default" catchup-days="14" catchup-source="http://live.uspeh.my/8143/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="14", Израиль 13 IL
-http://live.uspeh.my/8143/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Израиль 13 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/CHANNEL%2013%20HD%20IL.png[/img]" catchup-days="0", Израиль 13 HD IL
-http://live.uspeh.my/8352/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Израиль 14 IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Channel%2014%20HD%20IL.png[/img]" catchup="default" catchup-days="14" catchup-source="http://live.uspeh.my/8112/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="14", Израиль 14 IL
-http://live.uspeh.my/8112/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Израиль 14 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Channel%2014%20IL.png[/img]" catchup-days="0", Израиль 14 HD IL
-http://live.uspeh.my/8349/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="i24 News HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/i24%20IL.png[/img]" catchup="default" catchup-days="2" catchup-source="http://live.uspeh.my/9482/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="2", i24 News HD IL
-http://live.uspeh.my/9482/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Channel 24 IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/24.png[/img]" catchup-days="0", Channel 24 IL
-http://live.uspeh.my/8371/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Good Life HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Good%20Life%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8717/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Good Life HD IL
-http://live.uspeh.my/8717/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Home Plus IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Home%20Plus%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8703/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Home Plus IL
-http://live.uspeh.my/8703/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Ego Total HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Ego%20Total%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8726/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Ego Total HD IL
-http://live.uspeh.my/8726/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Viva Telenovelas HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/VIVA%20HD%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8526/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Viva Telenovelas HD IL
-http://live.uspeh.my/8526/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Viva Istanbul HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Viva+%20IL.png[/img]" catchup="default" catchup-days="7" catchup-source="http://live.uspeh.my/8372/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="7", Viva Istanbul HD IL
-http://live.uspeh.my/8372/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Yam Tihoni HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Yamtihoni%20IL.png[/img]" catchup-days="0", Yam Tihoni HD IL
-http://live.uspeh.my/8123/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Kan 23 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Kan%20Elady.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8730/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Kan 23 HD IL
-http://live.uspeh.my/8730/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Knesset IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/KNESET%20CHANNE%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8723/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Knesset IL
-http://live.uspeh.my/8723/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Hidabroot IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/HIDABRUT%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8530/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Hidabroot IL
-http://live.uspeh.my/8530/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Discovery Channel HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Canal%20Discovery%20HD%20PL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8718/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Discovery Channel HD IL
-http://live.uspeh.my/8718/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Health Channel HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/HEALTH%20CHANNEL%20HD%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8728/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Health Channel HD IL
-http://live.uspeh.my/8728/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Food Channel HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Food%20Network%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8727/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Food Channel HD IL
-http://live.uspeh.my/8727/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Travel Channel IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/TRAVEL%20CHANNEL%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8721/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Travel Channel IL
-http://live.uspeh.my/8721/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Turkish Dramas Plus IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Turkish%20Drama%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8722/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Turkish Dramas Plus IL
-http://live.uspeh.my/8722/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Turkish Dramas Plus HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Turkish%20Drama%20IL.png[/img]" catchup-days="0", Turkish Dramas Plus HD IL
-http://live.uspeh.my/8346/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Sport 1 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/SPORT%201%20HD%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8339/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Sport 1 HD IL
-http://live.uspeh.my/8339/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Sport 2 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/SPORT%202%20HD%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8341/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Sport 2 HD IL
-http://live.uspeh.my/8341/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Sport 3 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Sport%203%20HD%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8340/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Sport 3 HD IL
-http://live.uspeh.my/8340/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Sport 4 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/SPORT%204%20HD%20IL.png[/img]" catchup-days="0", Sport 4 HD IL
-http://live.uspeh.my/8513/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Sport 5 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Sport%205%20HD%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8420/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Sport 5 HD IL
-http://live.uspeh.my/8420/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Sport 5 Plus HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Sport%205%20plus%20HD.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8141/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Sport 5 Plus HD IL
-http://live.uspeh.my/8141/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Sport 5 Livе HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/SPORT%205%20LIVE%20HD%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8239/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Sport 5 Livе HD IL
-http://live.uspeh.my/8239/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Sport 5 Stars HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Sport%205%20Stars%20HD%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8186/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Sport 5 Stars HD IL
-http://live.uspeh.my/8186/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Sport 5 Gold HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/SPORT%205%20GOLD%20IL.png[/img]" catchup-days="0", Sport 5 Gold HD IL
-http://live.uspeh.my/8974/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Sport 5 Max HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/5max.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/9484/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", Sport 5 Max HD IL
-http://live.uspeh.my/9484/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="ONE HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/ONE%20HD%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8704/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", ONE HD IL
-http://live.uspeh.my/8704/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="ONE 2 HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/ONE%202%20HD%20IL.png[/img]" catchup="default" catchup-days="3" catchup-source="http://live.uspeh.my/8724/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="3", ONE 2 HD IL
-http://live.uspeh.my/8724/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Hop IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/hop%20IL.png[/img]" catchup="default" catchup-days="14" catchup-source="http://live.uspeh.my/8232/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="14", Hop IL
-http://live.uspeh.my/8232/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Baby IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Baby%20IL.png[/img]" catchup="default" catchup-days="14" catchup-source="http://live.uspeh.my/8305/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="14", Baby IL
-http://live.uspeh.my/8305/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Luli IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Hot%20Luli.png[/img]" catchup-days="0", Luli IL
-http://live.uspeh.my/8517/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="TeenNick IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/TeenNick%20IL.png[/img]" catchup="default" catchup-days="14" catchup-source="http://live.uspeh.my/8233/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="14", TeenNick IL
-http://live.uspeh.my/8233/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Disney Channel HD IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/DISNEY%20CHANNEL%20HD%20IL.png[/img]" catchup="default" catchup-days="14" catchup-source="http://live.uspeh.my/8149/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="14", Disney Channel HD IL
-http://live.uspeh.my/8149/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Disney Jr. IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Disney%20Jr%20IL.png[/img]" catchup="default" catchup-days="14" catchup-source="http://live.uspeh.my/8373/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="14", Disney Jr. IL
-http://live.uspeh.my/8373/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 tvg-id="Nick Jr. IL" group-title="Izrael"  tvg-logo="[img]https://icon.uspeh.my/icon/Nick%20Jr%20IL.png[/img]" catchup="default" catchup-days="14" catchup-source="http://live.uspeh.my/8231/video-${start}-${duration}.m3u8?token=e15j81PmA1p4DWnD" timeshift="14", Nick Jr. IL
-http://live.uspeh.my/8231/video.m3u8?token=e15j81PmA1p4DWnD
-#EXTINF:-1 group-title="Izrael", Приятного просмотра
-https://alensat.at.ua/alensat.com.mp4
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports Haber" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/bein-haber.png" group-title="Törökország",|TR| beIN Sports Haber
+http://spedtvhd.shop:8080/mst6630/mst00/652024
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 (TTNET ÖZEL)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Törökország",|TR| beIN Sports 1 (TTNET ÖZEL)
+http://spedtvhd.shop:8080/mst6630/mst00/334642
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 SD [480p]" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Törökország",|TR| beIN Sports 1 SD [480p]
+http://spedtvhd.shop:8080/mst6630/mst00/35762
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 720p" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Törökország",|TR| beIN Sports 1 720p
+http://spedtvhd.shop:8080/mst6630/mst00/351541
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 HD [LOCAL]" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Törökország",|TR| beIN Sports 1 HD [LOCAL]
+http://spedtvhd.shop:8080/mst6630/mst00/98925
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Törökország",|TR| beIN Sports 1 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/126272
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 VIP H265" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Törökország",|TR| beIN Sports 1 VIP H265
+http://spedtvhd.shop:8080/mst6630/mst00/190072
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 4K [Feed]" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Törökország",|TR| beIN Sports 1 4K [Feed]
+http://spedtvhd.shop:8080/mst6630/mst00/35650
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 8K [Feed]" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Törökország",|TR| beIN Sports 1 8K [Feed]
+http://spedtvhd.shop:8080/mst6630/mst00/191152
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="|TR| beIN Sports 1 HD (Kutu Yayin)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Törökország",|TR| beIN Sports 1 HD (Kutu Yayin)
+http://spedtvhd.shop:8080/mst6630/mst00/456568
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (BoX)" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Törökország",|TR| beIN Sports 1 HD (BoX)
+http://spedtvhd.shop:8080/mst6630/mst00/456567
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 SD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Törökország",|TR| beIN Sports 2 SD
+http://spedtvhd.shop:8080/mst6630/mst00/196216
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Törökország",|TR| beIN Sports 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/35730
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 UHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Törökország",|TR| beIN Sports 2 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/195811
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 3 SD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Törökország",|TR| beIN Sports 3 SD
+http://spedtvhd.shop:8080/mst6630/mst00/196217
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Törökország",|TR| beIN Sports 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6097
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 3 UHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Törökország",|TR| beIN Sports 3 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/195812
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 4 SD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Törökország",|TR| beIN Sports 4 SD
+http://spedtvhd.shop:8080/mst6630/mst00/196218
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Törökország",|TR| beIN Sports 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6098
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 4 UHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Törökország",|TR| beIN Sports 4 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/195813
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 5 SD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png" group-title="Törökország",|TR| beIN Sports 5 SD
+http://spedtvhd.shop:8080/mst6630/mst00/655347
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png" group-title="Törökország",|TR| beIN Sports 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/125936
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 5 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png" group-title="Törökország",|TR| beIN Sports 5 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/655346
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports Max 1" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png" group-title="Törökország",|TR| beIN Sports Max 1
+http://spedtvhd.shop:8080/mst6630/mst00/6099
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports Max 2" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_2.png" group-title="Törökország",|TR| beIN Sports Max 2
+http://spedtvhd.shop:8080/mst6630/mst00/6100
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Spor Smart 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/spor_smart.png" group-title="Törökország",|TR| Spor Smart 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/121246
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Spor Smart 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/spor_smart.png" group-title="Törökország",|TR| Spor Smart 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/113272
+#EXTINF:-1 tvg-id="" tvg-name="|TR| D-Smart EuroSport 1" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/eurosport1.png" group-title="Törökország",|TR| D-Smart EuroSport 1
+http://spedtvhd.shop:8080/mst6630/mst00/6106
+#EXTINF:-1 tvg-id="" tvg-name="|TR| D-Smart EuroSport 2" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/eurosport2.png" group-title="Törökország",|TR| D-Smart EuroSport 2
+http://spedtvhd.shop:8080/mst6630/mst00/6107
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S Sport 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/s_sport.png" group-title="Törökország",|TR| S Sport 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/115598
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S Sport 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/s_spor_2.png" group-title="Törökország",|TR| S Sport 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6105
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S Sport+1" tvg-logo="https://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" group-title="Törökország",|TR| S Sport+1
+http://spedtvhd.shop:8080/mst6630/mst00/137713
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S Sport+2" tvg-logo="https://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" group-title="Törökország",|TR| S Sport+2
+http://spedtvhd.shop:8080/mst6630/mst00/137714
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S Sport+3" tvg-logo="https://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" group-title="Törökország",|TR| S Sport+3
+http://spedtvhd.shop:8080/mst6630/mst00/137715
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S Sport+4" tvg-logo="https://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" group-title="Törökország",|TR| S Sport+4
+http://spedtvhd.shop:8080/mst6630/mst00/137716
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S Sport+5" tvg-logo="https://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png" group-title="Törökország",|TR| S Sport+5
+http://spedtvhd.shop:8080/mst6630/mst00/137717
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor SD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor SD
+http://spedtvhd.shop:8080/mst6630/mst00/574320
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor HD
+http://spedtvhd.shop:8080/mst6630/mst00/574321
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 1 720P" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 1 720P
+http://spedtvhd.shop:8080/mst6630/mst00/574322
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 1 UHD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 1 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/574323
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 1 4K" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 1 4K
+http://spedtvhd.shop:8080/mst6630/mst00/574324
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 2 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/574325
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 2 UHD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 2 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/574326
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 3 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/574327
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 3 UHD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 3 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/574328
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 4 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/574329
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 4 UHD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 4 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/574330
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 5 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/574331
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 5 UHD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 5 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/574332
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 6 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 6 HD
+http://spedtvhd.shop:8080/mst6630/mst00/574333
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Tabii Spor 6 UHD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="Törökország",TR/ Tabii Spor 6 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/574334
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N SPOR 1 SD" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N SPOR 1 SD
+http://spedtvhd.shop:8080/mst6630/mst00/574335
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 1" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 1
+http://spedtvhd.shop:8080/mst6630/mst00/574336
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 1 720p" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 1 720p
+http://spedtvhd.shop:8080/mst6630/mst00/574337
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 1 HD" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/574338
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 1 UHD" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 1 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/574339
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 1 FEED" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 1 FEED
+http://spedtvhd.shop:8080/mst6630/mst00/574340
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 2 HD" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/574341
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 2 UHD" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 2 UHD
+http://spedtvhd.shop:8080/mst6630/mst00/574342
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 3" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 3
+http://spedtvhd.shop:8080/mst6630/mst00/574343
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 4" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 4
+http://spedtvhd.shop:8080/mst6630/mst00/574344
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 5" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 5
+http://spedtvhd.shop:8080/mst6630/mst00/574345
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 6" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 6
+http://spedtvhd.shop:8080/mst6630/mst00/574346
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 7" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 7
+http://spedtvhd.shop:8080/mst6630/mst00/574347
+#EXTINF:-1 tvg-id="" tvg-name="TR? EXX*N TV SPOR 8" tvg-logo="https://i.hizliresim.com/tkop7sq.jpg" group-title="Törökország",TR? EXX*N TV SPOR 8
+http://spedtvhd.shop:8080/mst6630/mst00/574348
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tivibu Spor FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" group-title="Törökország",|TR| Tivibu Spor FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6101
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tivibu Spor 1 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_2.png" group-title="Törökország",|TR| Tivibu Spor 1 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6102
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tivibu Spor 2 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_3.png" group-title="Törökország",|TR| Tivibu Spor 2 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6103
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tivibu Spor 3 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_4.png" group-title="Törökország",|TR| Tivibu Spor 3 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/113254
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tivibu Spor 4 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" group-title="Törökország",|TR| Tivibu Spor 4 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/115600
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tivibu Spor 5 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" group-title="Törökország",|TR| Tivibu Spor 5 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/574319
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fil Spor [Maç Saati Aktif] 2 HD" tvg-logo="https://i.hizliresim.com/t8diqat.png" group-title="Törökország",TR: Fil Spor [Maç Saati Aktif] 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/372624
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fil Spor [Maç Saati Aktif] 3 HD" tvg-logo="https://i.hizliresim.com/t8diqat.png" group-title="Törökország",TR: Fil Spor [Maç Saati Aktif] 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/372625
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fil Spor [Maç Saati Aktif] 4 HD" tvg-logo="https://i.hizliresim.com/t8diqat.png" group-title="Törökország",TR: Fil Spor [Maç Saati Aktif] 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/372626
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fil Spor [Maç Saati Aktif] 5 HD" tvg-logo="https://i.hizliresim.com/t8diqat.png" group-title="Törökország",TR: Fil Spor [Maç Saati Aktif] 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/372627
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaximTV Terapi TV 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png" group-title="Törökország",TR: MaximTV Terapi TV 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/192716
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaximTV Terapi TV 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png" group-title="Törökország",TR: MaximTV Terapi TV 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/192717
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaximTV Terapi TV 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png" group-title="Törökország",TR: MaximTV Terapi TV 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/192718
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaximTV Terapi TV 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png" group-title="Törökország",TR: MaximTV Terapi TV 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/192719
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaximTV Terapi TV 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png" group-title="Törökország",TR: MaximTV Terapi TV 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/192720
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaximTV Terapi TV 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png" group-title="Törökország",TR: MaximTV Terapi TV 6 HD
+http://spedtvhd.shop:8080/mst6630/mst00/192721
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaximTV Terapi TV 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png" group-title="Törökország",TR: MaximTV Terapi TV 7 HD
+http://spedtvhd.shop:8080/mst6630/mst00/192722
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaximTV Terapi TV 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png" group-title="Törökország",TR: MaximTV Terapi TV 8 HD
+http://spedtvhd.shop:8080/mst6630/mst00/192723
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaximTV Terapi TV 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png" group-title="Törökország",TR: MaximTV Terapi TV 9 HD
+http://spedtvhd.shop:8080/mst6630/mst00/192724
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaximTV Terapi TV 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png" group-title="Törökország",TR: MaximTV Terapi TV 10 HD
+http://spedtvhd.shop:8080/mst6630/mst00/192725
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="|TR| TRT Haber" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_haber.png" group-title="Törökország",|TR| TRT Haber
+http://spedtvhd.shop:8080/mst6630/mst00/6208
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="|TR| A Haber HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_haber.png" group-title="Törökország",|TR| A Haber HD
+http://spedtvhd.shop:8080/mst6630/mst00/20768
+#EXTINF:-1 tvg-id="CNNTÜRK.tr" tvg-name="|TR| Cnn Türk HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/cnn_turk.png" group-title="Törökország",|TR| Cnn Türk HD
+http://spedtvhd.shop:8080/mst6630/mst00/6210
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="|TR| Haber Türk" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haberturk.png" group-title="Törökország",|TR| Haber Türk
+http://spedtvhd.shop:8080/mst6630/mst00/6212
+#EXTINF:-1 tvg-id="HABERGLOBAL.tr" tvg-name="|TR| Haber Global HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haber_global.png" group-title="Törökország",|TR| Haber Global HD
+http://spedtvhd.shop:8080/mst6630/mst00/6219
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="|TR| Ntv Haber HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/ntv_tr.png" group-title="Törökország",|TR| Ntv Haber HD
+http://spedtvhd.shop:8080/mst6630/mst00/101114
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sözcü TV HD" tvg-logo="https://apkx.xyz/sozcutv.png" group-title="Törökország",|TR| Sözcü TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/624445
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="|TR| Halk TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/halk_tv.png" group-title="Törökország",|TR| Halk TV
+http://spedtvhd.shop:8080/mst6630/mst00/20758
+#EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="|TR| Krt TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/krt_tr.png" group-title="Törökország",|TR| Krt TV
+http://spedtvhd.shop:8080/mst6630/mst00/101118
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="|TR| Tele 1" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/tele_1_tr.png" group-title="Törökország",|TR| Tele 1
+http://spedtvhd.shop:8080/mst6630/mst00/101115
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A Para" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_para.png" group-title="Törökország",|TR| A Para
+http://spedtvhd.shop:8080/mst6630/mst00/6206
+#EXTINF:-1 tvg-id="BengütürkTV.tr" tvg-name="|TR| Bengü Türk" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/benguturk.png" group-title="Törökország",|TR| Bengü Türk
+http://spedtvhd.shop:8080/mst6630/mst00/20811
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="|TR| National Geographic HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/national_geo.png" group-title="Törökország",|TR| National Geographic HD
+http://spedtvhd.shop:8080/mst6630/mst00/6286
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="|TR| National Geographic Wild HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/national_geo_wild.png" group-title="Törökország",|TR| National Geographic Wild HD
+http://spedtvhd.shop:8080/mst6630/mst00/6287
+#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-name="|TR| Discovery Channel HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/discovery_channel.png" group-title="Törökország",|TR| Discovery Channel HD
+http://spedtvhd.shop:8080/mst6630/mst00/6289
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Discovery IDX HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/discovery_idx.png" group-title="Törökország",|TR| Discovery IDX HD
+http://spedtvhd.shop:8080/mst6630/mst00/6290
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Nature Empire FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxim-natureempire.png" group-title="Törökország",|TR| Nature Empire FHD
+http://spedtvhd.shop:8080/mst6630/mst00/648085
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Define TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximdefinetv.png" group-title="Törökország",|TR| Maxim Define TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/624440
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="|TR| Dmax TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/dmax.png" group-title="Törökország",|TR| Dmax TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/535985
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Yaban TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/yaban_tv.png" group-title="Törökország",|TR| Yaban TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/552426
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Da Vinci HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/da_vici_learning.png" group-title="Törökország",|TR| Da Vinci HD
+http://spedtvhd.shop:8080/mst6630/mst00/6293
+#EXTINF:-1 tvg-id="BBCEARTH.tr" tvg-name="|TR| Bbc Earth HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bbc_earth.png" group-title="Törökország",|TR| Bbc Earth HD
+http://spedtvhd.shop:8080/mst6630/mst00/6294
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animaux HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/animaux.png" group-title="Törökország",|TR| Animaux HD
+http://spedtvhd.shop:8080/mst6630/mst00/6297
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="|TR| Bein IZ HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/beiniz.png" group-title="Törökország",|TR| Bein IZ HD
+http://spedtvhd.shop:8080/mst6630/mst00/105919
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="|TR| beIN Gurme HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_gurne.png" group-title="Törökország",|TR| beIN Gurme HD
+http://spedtvhd.shop:8080/mst6630/mst00/6302
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| 24 Kitchen TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/24kitchen.png" group-title="Törökország",|TR| 24 Kitchen TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/20508
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| History HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/history_channel.png" group-title="Törökország",|TR| History HD
+http://spedtvhd.shop:8080/mst6630/mst00/12822
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Viasat History HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/Viasat_History-2014.png" group-title="Törökország",|TR| Viasat History HD
+http://spedtvhd.shop:8080/mst6630/mst00/110174
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Viasat Explore HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/viasat_explore.png" group-title="Törökország",|TR| Viasat Explore HD
+http://spedtvhd.shop:8080/mst6630/mst00/113283
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Outdoor HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Outdoor.png" group-title="Törökország",|TR| Outdoor HD
+http://spedtvhd.shop:8080/mst6630/mst00/35997
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Docubox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Törökország",|TR| Docubox HD
+http://spedtvhd.shop:8080/mst6630/mst00/35998
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Love Nature HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/love_nature.png" group-title="Törökország",|TR| Love Nature HD
+http://spedtvhd.shop:8080/mst6630/mst00/22098
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TGRT Belgesel HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tgrt_belgesel.png" group-title="Törökország",|TR| TGRT Belgesel HD
+http://spedtvhd.shop:8080/mst6630/mst00/6284
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="|TR| TRT Belgesel HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_belgesel.png" group-title="Törökország",|TR| TRT Belgesel HD
+http://spedtvhd.shop:8080/mst6630/mst00/13286
+#EXTINF:-1 tvg-id="TRTÇocuk.tr" tvg-name="|TR| TRT Çocuk HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_cocuk.png" group-title="Törökország",|TR| TRT Çocuk HD
+http://spedtvhd.shop:8080/mst6630/mst00/48856
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Doru TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxdorutv.png" group-title="Törökország",|TR| MaximTV Doru TV
+http://spedtvhd.shop:8080/mst6630/mst00/196539
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-name="|TR| Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cartoon_Network_2010_logo_variant.png/1200px-Cartoon_Network_2010_logo_variant.png" group-title="Törökország",|TR| Cartoon Network HD
+http://spedtvhd.shop:8080/mst6630/mst00/6234
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="|TR| TRT Muzik HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/trt_muzik.png" group-title="Törökország",|TR| TRT Muzik HD
+http://spedtvhd.shop:8080/mst6630/mst00/61298
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kral Pop HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/kral_tr_pop_tv.png" group-title="Törökország",|TR| Kral Pop HD
+http://spedtvhd.shop:8080/mst6630/mst00/101124
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="|TR| Dream Türk HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/dream_tv_tr.png" group-title="Törökország",|TR| Dream Türk HD
+http://spedtvhd.shop:8080/mst6630/mst00/101885
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Number One Türk HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/number1_tr_tv_turk.png" group-title="Törökország",|TR| Number One Türk HD
+http://spedtvhd.shop:8080/mst6630/mst00/101887
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Number One HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/number1_tr_tv.png" group-title="Törökország",|TR| Number One HD
+http://spedtvhd.shop:8080/mst6630/mst00/101888
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Müzik Tv 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="Törökország",|TR| MAX Müzik Tv 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/189593
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Müzik Tv 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="Törökország",|TR| MAX Müzik Tv 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/189588
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Müzik Tv 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="Törökország",|TR| MAX Müzik Tv 6 HD
+http://spedtvhd.shop:8080/mst6630/mst00/189589
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Halil Sezai Müzik TV" tvg-logo="https://www.bursadabuhafta.com/assets/images/etkinlikler/etkinlik-halil-sezai-konser-2023-455.png" group-title="Törökország",|TR| MAX Halil Sezai Müzik TV
+http://spedtvhd.shop:8080/mst6630/mst00/262817
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Ferdi Tayfur Müzik TV" tvg-logo="https://cdn-profiles.tunein.com/p1466925/images/logog.png" group-title="Törökország",|TR| MAX Ferdi Tayfur Müzik TV
+http://spedtvhd.shop:8080/mst6630/mst00/191099
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Müslüm Gürses Müzik TV" tvg-logo="https://cdn-profiles.tunein.com/p1466925/images/logog.png" group-title="Törökország",|TR| MAX Müslüm Gürses Müzik TV
+http://spedtvhd.shop:8080/mst6630/mst00/191100
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Box Office 1 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office.png" group-title="Törökország",|TR| beIN Box Office 1 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6195
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Box Office 2 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office_2.png" group-title="Törökország",|TR| beIN Box Office 2 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6196
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Box Office 3 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office_3.png" group-title="Törökország",|TR| beIN Box Office 3 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6197
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Action 1 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_action.png" group-title="Törökország",|TR| beIN Movies Action 1 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6198
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Action 2 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_action_2.png" group-title="Törökország",|TR| beIN Movies Action 2 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6199
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Premier 1 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_premiere_1.png" group-title="Törökország",|TR| beIN Movies Premier 1 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6200
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Premier 2 FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_premire_2.png" group-title="Törökország",|TR| beIN Movies Premier 2 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6201
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Turk FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_turk.png" group-title="Törökország",|TR| beIN Movies Turk FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6202
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Family FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_family.png" group-title="Törökország",|TR| beIN Movies Family FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6204
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series SCI FI FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_sc-fi.png" group-title="Törökország",|TR| beIN Series SCI FI FHD
+http://spedtvhd.shop:8080/mst6630/mst00/457101
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Vice FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_vice.png" group-title="Törökország",|TR| beIN Series Vice FHD
+http://spedtvhd.shop:8080/mst6630/mst00/125800
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Comedy FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_comedy.png" group-title="Törökország",|TR| beIN Series Comedy FHD
+http://spedtvhd.shop:8080/mst6630/mst00/6205
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Drama FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_drama.png" group-title="Törökország",|TR| beIN Series Drama FHD
+http://spedtvhd.shop:8080/mst6630/mst00/457102
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dizi Smart Premium HD+" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/dizi_smart_premium.png" group-title="Törökország",TR: Dizi Smart Premium HD+
+http://spedtvhd.shop:8080/mst6630/mst00/192219
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Premium" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_premium.png" group-title="Törökország",|TR| Moviesmart Premium
+http://spedtvhd.shop:8080/mst6630/mst00/6183
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Türk" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_turk.png" group-title="Törökország",|TR| Moviesmart Türk
+http://spedtvhd.shop:8080/mst6630/mst00/6182
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Platin HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_platin_2.png" group-title="Törökország",|TR| Moviesmart Platin HD
+http://spedtvhd.shop:8080/mst6630/mst00/6184
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Platin 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_platin_2.png" group-title="Törökország",|TR| Moviesmart Platin 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/582224
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Classic" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_classic.png" group-title="Törökország",|TR| Moviesmart Classic
+http://spedtvhd.shop:8080/mst6630/mst00/6188
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Action" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_action.png" group-title="Törökország",|TR| Moviesmart Action
+http://spedtvhd.shop:8080/mst6630/mst00/6190
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aksiyon 2" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaksiyon.png" group-title="Törökország",|TR| Sinema TV Aksiyon 2
+http://spedtvhd.shop:8080/mst6630/mst00/574353
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvhd.png" group-title="Törökország",|TR| Sinema TV 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/113291
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvhd.png" group-title="Törökország",|TR| Sinema TV 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/123920
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1001" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematv1001.png" group-title="Törökország",|TR| Sinema TV 1001
+http://spedtvhd.shop:8080/mst6630/mst00/123921
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1002" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinema-1002.png" group-title="Törökország",|TR| Sinema TV 1002
+http://spedtvhd.shop:8080/mst6630/mst00/123922
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aile 1" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaile.png" group-title="Törökország",|TR| Sinema TV Aile 1
+http://spedtvhd.shop:8080/mst6630/mst00/123923
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aile 2" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaile.png" group-title="Törökország",|TR| Sinema TV Aile 2
+http://spedtvhd.shop:8080/mst6630/mst00/574352
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Komedi" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvkomedi.png" group-title="Törökország",|TR| Sinema TV Komedi
+http://spedtvhd.shop:8080/mst6630/mst00/123924
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Yerli" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvyerli.png" group-title="Törökország",|TR| Sinema TV Yerli
+http://spedtvhd.shop:8080/mst6630/mst00/123925
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 1" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-animasyon.png" group-title="Törökország",|TR| Animasyon Sinema TV 1
+http://spedtvhd.shop:8080/mst6630/mst00/6364
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 2" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-animasyon.png" group-title="Törökország",|TR| Animasyon Sinema TV 2
+http://spedtvhd.shop:8080/mst6630/mst00/6365
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 3" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-animasyon.png" group-title="Törökország",|TR| Animasyon Sinema TV 3
+http://spedtvhd.shop:8080/mst6630/mst00/6366
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 4" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-animasyon.png" group-title="Törökország",|TR| Animasyon Sinema TV 4
+http://spedtvhd.shop:8080/mst6630/mst00/6367
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 5" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-animasyon.png" group-title="Törökország",|TR| Animasyon Sinema TV 5
+http://spedtvhd.shop:8080/mst6630/mst00/6368
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 6" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-animasyon.png" group-title="Törökország",|TR| Animasyon Sinema TV 6
+http://spedtvhd.shop:8080/mst6630/mst00/6369
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 7" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-animasyon.png" group-title="Törökország",|TR| Animasyon Sinema TV 7
+http://spedtvhd.shop:8080/mst6630/mst00/6370
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 8" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-animasyon.png" group-title="Törökország",|TR| Animasyon Sinema TV 8
+http://spedtvhd.shop:8080/mst6630/mst00/6371
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 9" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-animasyon.png" group-title="Törökország",|TR| Animasyon Sinema TV 9
+http://spedtvhd.shop:8080/mst6630/mst00/6372
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 10" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-animasyon.png" group-title="Törökország",|TR| Animasyon Sinema TV 10
+http://spedtvhd.shop:8080/mst6630/mst00/6373
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Dream Turk" tvg-logo="https://i.hizliresim.com/1rn9cxi.png" group-title="Törökország",[TR] Dream Turk
+http://spedtvhd.shop:8080/mst6630/mst00/446158
+#EXTINF:-1 tvg-id="24 TV" tvg-name="[TR] Kral Pop" tvg-logo="https://i.hizliresim.com/1rn9cxi.png" group-title="Törökország",[TR] Kral Pop
+http://spedtvhd.shop:8080/mst6630/mst00/446162
+#EXTINF:-1 tvg-id="EKOTÜRKTV.tr" tvg-name="|TR| Ekol TV HD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/thumbnail_EKOL_TV_LOGO_PNG.png" group-title="Törökország",|TR| Ekol TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/457710
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="|TR| TLC TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="Törökország",|TR| TLC TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/573632
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Depo Savaşları HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/maximlogo.png" group-title="Törökország",|TR| Depo Savaşları HD
+http://spedtvhd.shop:8080/mst6630/mst00/573637
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Diyanet TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_diyanet.png" group-title="Törökország",|TR| Diyanet TV
+http://spedtvhd.shop:8080/mst6630/mst00/581961
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Semerkand TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/semerkand.png" group-title="Törökország",|TR| Semerkand TV
+http://spedtvhd.shop:8080/mst6630/mst00/581963
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Dost TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/dost_tv.png" group-title="Törökország",|TR| Dost TV
+http://spedtvhd.shop:8080/mst6630/mst00/581968
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Çiftçi TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/ciftci_tv.png" group-title="Törökország",|TR| Çiftçi TV
+http://spedtvhd.shop:8080/mst6630/mst00/581970
+#EXTINF:-1 tvg-id="" tvg-name="TR: AL SUNNAH AL NABAWIYAH HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/AL.SUNNAH.png" group-title="Törökország",TR: AL SUNNAH AL NABAWIYAH HD
+http://spedtvhd.shop:8080/mst6630/mst00/590201
+#EXTINF:-1 tvg-id="" tvg-name="TR: AL ZAHRA TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/AL.ZAHRA.png" group-title="Törökország",TR: AL ZAHRA TV
+http://spedtvhd.shop:8080/mst6630/mst00/590202
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV İLAHİ 1 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/ILAHI.1.png" group-title="Törökország",TR: BlueTV İLAHİ 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/590203
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV İLAHİ 2 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/ILAHI.2.png" group-title="Törökország",TR: BlueTV İLAHİ 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/590204
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV İLAHİ 3 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/ILAHI.3.png" group-title="Törökország",TR: BlueTV İLAHİ 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/590205
+#EXTINF:-1 tvg-id="" tvg-name="TR: CAMIA TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/CAMIA.png" group-title="Törökország",TR: CAMIA TV
+http://spedtvhd.shop:8080/mst6630/mst00/590206
+#EXTINF:-1 tvg-id="" tvg-name="TR: DİNİ SOHBET ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/DINI.SOHBET.png" group-title="Törökország",TR: DİNİ SOHBET ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/590207
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIYANET TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/DIYANET.png" group-title="Törökország",TR: DIYANET TV
+http://spedtvhd.shop:8080/mst6630/mst00/590208
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOST TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/DOST.png" group-title="Törökország",TR: DOST TV
+http://spedtvhd.shop:8080/mst6630/mst00/590209
+#EXTINF:-1 tvg-id="" tvg-name="TR: FM TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/FM.png" group-title="Törökország",TR: FM TV
+http://spedtvhd.shop:8080/mst6630/mst00/590210
+#EXTINF:-1 tvg-id="" tvg-name="TR: HADI TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/HADI.TV.png" group-title="Törökország",TR: HADI TV
+http://spedtvhd.shop:8080/mst6630/mst00/590211
+#EXTINF:-1 tvg-id="" tvg-name="TR: IKRA TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/DIYAR.TV.png" group-title="Törökország",TR: IKRA TV
+http://spedtvhd.shop:8080/mst6630/mst00/590212
+#EXTINF:-1 tvg-id="" tvg-name="TR: KABE TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/KABE.png" group-title="Törökország",TR: KABE TV
+http://spedtvhd.shop:8080/mst6630/mst00/590213
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 12" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/KANAL.12.png" group-title="Törökország",TR: KANAL 12
+http://spedtvhd.shop:8080/mst6630/mst00/590214
+#EXTINF:-1 tvg-id="" tvg-name="TR: KUDUS TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/KUDUS.png" group-title="Törökország",TR: KUDUS TV
+http://spedtvhd.shop:8080/mst6630/mst00/590215
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURAN-ı KERİM ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/KURAN.png" group-title="Törökország",TR: KURAN-ı KERİM ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/590216
+#EXTINF:-1 tvg-id="" tvg-name="TR: LALEGUL TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/LALEGUL.png" group-title="Törökország",TR: LALEGUL TV
+http://spedtvhd.shop:8080/mst6630/mst00/590217
+#EXTINF:-1 tvg-id="" tvg-name="TR: REHBER TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/REHBER.png" group-title="Törökország",TR: REHBER TV
+http://spedtvhd.shop:8080/mst6630/mst00/590218
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/SEMERKAND.png" group-title="Törökország",TR: SEMERKAND TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/590219
+#EXTINF:-1 tvg-id="" tvg-name="TR: SUNNAH TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/SUNNA.TV.png" group-title="Törökország",TR: SUNNAH TV
+http://spedtvhd.shop:8080/mst6630/mst00/590220
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV5" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/TV5.png" group-title="Törökország",TR: TV5
+http://spedtvhd.shop:8080/mst6630/mst00/590221
+#EXTINF:-1 tvg-id="" tvg-name="TR: VAV TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/VAV.png" group-title="Törökország",TR: VAV TV
+http://spedtvhd.shop:8080/mst6630/mst00/590222
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZER DINI 4 TV" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Törökország",AZ: AZER DINI 4 TV
+http://spedtvhd.shop:8080/mst6630/mst00/590223
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZERI DINI 1 TV" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Törökország",AZ: AZERI DINI 1 TV
+http://spedtvhd.shop:8080/mst6630/mst00/590224
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZERI DINI 2 TV" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Törökország",AZ: AZERI DINI 2 TV
+http://spedtvhd.shop:8080/mst6630/mst00/590225
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZERI DINI 3 TV" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Törökország",AZ: AZERI DINI 3 TV
+http://spedtvhd.shop:8080/mst6630/mst00/590226
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZERI DINI 5 TV" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Törökország",AZ: AZERI DINI 5 TV
+http://spedtvhd.shop:8080/mst6630/mst00/590227
+#EXTINF:-1 tvg-id="" tvg-name="TR: AHMET KAYA HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/AHMET.KAYA.png" group-title="Törökország",TR: AHMET KAYA HD
+http://spedtvhd.shop:8080/mst6630/mst00/590313
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARABESK TÜRK HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/ARABESK.TURK.png" group-title="Törökország",TR: ARABESK TÜRK HD
+http://spedtvhd.shop:8080/mst6630/mst00/590314
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/DREAM.TURK.png" group-title="Törökország",TR: DREAM TURK HD
+http://spedtvhd.shop:8080/mst6630/mst00/590315
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/DREAMTV.png" group-title="Törökország",TR: DREAM TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/590316
+#EXTINF:-1 tvg-id="" tvg-name="TR: FASHION TV FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/FASHION.png" group-title="Törökország",TR: FASHION TV FHD
+http://spedtvhd.shop:8080/mst6630/mst00/590317
+#EXTINF:-1 tvg-id="" tvg-name="TR: FERDİ TAYFUR  HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/FERDI.TAYFUR.png" group-title="Törökország",TR: FERDİ TAYFUR  HD
+http://spedtvhd.shop:8080/mst6630/mst00/590318
+#EXTINF:-1 tvg-id="" tvg-name="TR: IBRAHİM TATLISES HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/IBRAHIM.TATLISES.png" group-title="Törökország",TR: IBRAHİM TATLISES HD
+http://spedtvhd.shop:8080/mst6630/mst00/590319
+#EXTINF:-1 tvg-id="" tvg-name="TR: KARADENİZ MÜZİK HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/KARADENIZ.png" group-title="Törökország",TR: KARADENİZ MÜZİK HD
+http://spedtvhd.shop:8080/mst6630/mst00/590320
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/KRAL.POP.png" group-title="Törökország",TR: KRAL POP HD
+http://spedtvhd.shop:8080/mst6630/mst00/590321
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/KRAL.TV.png" group-title="Törökország",TR: KRAL TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/590322
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEYHANE TV  HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/MEYHANE.png" group-title="Törökország",TR: MEYHANE TV  HD
+http://spedtvhd.shop:8080/mst6630/mst00/590323
+#EXTINF:-1 tvg-id="" tvg-name="TR: MILYON TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/MILYON.TV.png" group-title="Törökország",TR: MILYON TV
+http://spedtvhd.shop:8080/mst6630/mst00/590324
+#EXTINF:-1 tvg-id="" tvg-name="TR: Müslüm Gürses   HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/MUSLUM.GURSES.png" group-title="Törökország",TR: Müslüm Gürses   HD
+http://spedtvhd.shop:8080/mst6630/mst00/590325
+#EXTINF:-1 tvg-id="" tvg-name="TR: NEŞET ERTAŞ  HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NESET.ERTAS.png" group-title="Törökország",TR: NEŞET ERTAŞ  HD
+http://spedtvhd.shop:8080/mst6630/mst00/590326
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 AŞK HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR.ASK.png" group-title="Törökország",TR: NR1 AŞK HD
+http://spedtvhd.shop:8080/mst6630/mst00/590327
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 DAMAR HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR.DAMAR.png" group-title="Törökország",TR: NR1 DAMAR HD
+http://spedtvhd.shop:8080/mst6630/mst00/590328
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 DANCE HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR.DANCE.png" group-title="Törökország",TR: NR1 DANCE HD
+http://spedtvhd.shop:8080/mst6630/mst00/590329
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR1.png" group-title="Törökország",TR: NR1 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/590330
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR1.png" group-title="Törökország",TR: NR1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/590331
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 TURK HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/NR1.TURK.png" group-title="Törökország",TR: NR1 TURK HD
+http://spedtvhd.shop:8080/mst6630/mst00/590332
+#EXTINF:-1 tvg-id="" tvg-name="TR: ORHAN GENCEBAY  HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/ORHAN.GENCEBAY.png" group-title="Törökország",TR: ORHAN GENCEBAY  HD
+http://spedtvhd.shop:8080/mst6630/mst00/590333
+#EXTINF:-1 tvg-id="" tvg-name="TR: OYUN HAVALARI HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/OYUN.HAVASI.png" group-title="Törökország",TR: OYUN HAVALARI HD
+http://spedtvhd.shop:8080/mst6630/mst00/590334
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER DANCE" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2556.png" group-title="Törökország",TR: POWER DANCE
+http://spedtvhd.shop:8080/mst6630/mst00/590335
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/POWER.png" group-title="Törökország",TR: POWER HD
+http://spedtvhd.shop:8080/mst6630/mst00/590336
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER LOVE" tvg-logo="https://cdn.powergroup.com.tr/image/75x75/powerapp/channels/v3/logo_2559.png" group-title="Törökország",TR: POWER LOVE
+http://spedtvhd.shop:8080/mst6630/mst00/590337
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TÜRK AKUSTIK" tvg-logo="https://cdn.powergroup.com.tr/image/75x75/powerapp/channels/v3/logo_2542.png" group-title="Törökország",TR: POWER TÜRK AKUSTIK
+http://spedtvhd.shop:8080/mst6630/mst00/590338
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/POWER.TURK.png" group-title="Törökország",TR: POWER TURK HD
+http://spedtvhd.shop:8080/mst6630/mst00/590339
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TÜRK SLOW" tvg-logo="https://cdn.powergroup.com.tr/image/75x75/powerapp/channels/v3/logo_2577.png" group-title="Törökország",TR: POWER TÜRK SLOW
+http://spedtvhd.shop:8080/mst6630/mst00/590340
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TÜRK TAPTAZE" tvg-logo="https://cdn.powergroup.com.tr/image/75x75/powerapp/channels/v3/logo_2534.png" group-title="Törökország",TR: POWER TÜRK TAPTAZE
+http://spedtvhd.shop:8080/mst6630/mst00/590341
+#EXTINF:-1 tvg-id="" tvg-name="TR: TÜRKÇE POP HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/POP.MUZIK.png" group-title="Törökország",TR: TÜRKÇE POP HD
+http://spedtvhd.shop:8080/mst6630/mst00/590344
+#EXTINF:-1 tvg-id="" tvg-name="TR: TÜRKÇE RAP HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/TURKCE.RAP.png" group-title="Törökország",TR: TÜRKÇE RAP HD
+http://spedtvhd.shop:8080/mst6630/mst00/590345
+#EXTINF:-1 tvg-id="" tvg-name="TR: TÜRKÇE SLOW HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/TURKCE.SLOW.png" group-title="Törökország",TR: TÜRKÇE SLOW HD
+http://spedtvhd.shop:8080/mst6630/mst00/590346
+#EXTINF:-1 tvg-id="" tvg-name="TR: YABANCI POP HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/YABANCI.POP.png" group-title="Törökország",TR: YABANCI POP HD
+http://spedtvhd.shop:8080/mst6630/mst00/590347
+#EXTINF:-1 tvg-id="" tvg-name="TR: YABANCI RAP HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/MUZIK/YABANCI.RAP.png" group-title="Törökország",TR: YABANCI RAP HD
+http://spedtvhd.shop:8080/mst6630/mst00/590348
+#EXTINF:-1 tvg-id="" tvg-name="♫♫♫♫ TURK MUZIK ♫♫♫♫" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO/TR/BAYRAK.png" group-title="Törökország",♫♫♫♫ TURK MUZIK ♫♫♫♫
+http://spedtvhd.shop:8080/mst6630/mst00/590349
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627882
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627883
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627884
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627885
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627886
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 6 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627887
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 7 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627888
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 8 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627889
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 9 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627890
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 10 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627891
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 11 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 11 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627892
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 12 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 12 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627893
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 13 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 13 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627894
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 14 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 14 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627895
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 15 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 15 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627896
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 16 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 16 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627897
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 17 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 17 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627898
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 18 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 18 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627899
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 19 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 19 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627900
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 20 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 20 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627901
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 21 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 21 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627902
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 22 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 22 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627903
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 23 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 23 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627904
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 24 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 24 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627905
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 25 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 25 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627906
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 26 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 26 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627907
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 27 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 27 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627908
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 28 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 28 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627909
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 29 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 29 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627910
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 30 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 30 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627911
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 31 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 31 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627912
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 32 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 32 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627913
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 33 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 33 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627914
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 34 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 34 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627915
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 35 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 35 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627916
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 36 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 36 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627917
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 37 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 37 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627918
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 38 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 38 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627919
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 39 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 39 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627920
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 40 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 40 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627921
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 41 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 41 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627922
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 42 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 42 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627923
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 43 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 43 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627924
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 44 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 44 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627925
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 45 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 45 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627926
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 46 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 46 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627927
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 47 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 47 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627928
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 48 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 48 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627929
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 49 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 49 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627930
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXIM FILM CLUB 50 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-film.club.png" group-title="Törökország",TR: MAXIM FILM CLUB 50 HD
+http://spedtvhd.shop:8080/mst6630/mst00/627931
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER FHD" tvg-logo="" group-title="Törökország",TR: TRT HABER FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638127
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HD" tvg-logo="" group-title="Törökország",TR: TRT HABER HD
+http://spedtvhd.shop:8080/mst6630/mst00/638128
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK FHD" tvg-logo="" group-title="Törökország",TR: HABER TURK FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638129
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK HD" tvg-logo="" group-title="Törökország",TR: HABER TURK HD
+http://spedtvhd.shop:8080/mst6630/mst00/638130
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK FHD" tvg-logo="" group-title="Törökország",TR: CNN TURK FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638131
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK HD" tvg-logo="" group-title="Törökország",TR: CNN TURK HD
+http://spedtvhd.shop:8080/mst6630/mst00/638132
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HABER FHD" tvg-logo="" group-title="Törökország",TR: NTV HABER FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638133
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HABER HD" tvg-logo="" group-title="Törökország",TR: NTV HABER HD
+http://spedtvhd.shop:8080/mst6630/mst00/638134
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER FHD" tvg-logo="" group-title="Törökország",TR: A HABER FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638135
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="" group-title="Törökország",TR: A HABER HD
+http://spedtvhd.shop:8080/mst6630/mst00/638136
+#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV FHD" tvg-logo="" group-title="Törökország",TR: HALK TV FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638137
+#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV HD" tvg-logo="" group-title="Törökország",TR: HALK TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/638138
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBAL HABER FHD" tvg-logo="" group-title="Törökország",TR: GLOBAL HABER FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638141
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBAL HABER HD" tvg-logo="" group-title="Törökország",TR: GLOBAL HABER HD
+http://spedtvhd.shop:8080/mst6630/mst00/638142
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Haber HD" tvg-logo="" group-title="Törökország",TR: TGRT Haber HD
+http://spedtvhd.shop:8080/mst6630/mst00/638144
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULKETV FHD" tvg-logo="" group-title="Törökország",TR: ULKETV FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638147
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULKETV HD" tvg-logo="" group-title="Törökország",TR: ULKETV HD
+http://spedtvhd.shop:8080/mst6630/mst00/638148
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 24 FHD" tvg-logo="" group-title="Törökország",TR: KANAL 24 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638149
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 24 HD" tvg-logo="" group-title="Törökország",TR: KANAL 24 HD
+http://spedtvhd.shop:8080/mst6630/mst00/638150
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 HD" tvg-logo="" group-title="Törökország",TR: 360 HD
+http://spedtvhd.shop:8080/mst6630/mst00/638151
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT TV  FHD" tvg-logo="" group-title="Törökország",TR: KRT TV  FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638152
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT TV HD" tvg-logo="" group-title="Törökország",TR: KRT TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/638153
+#EXTINF:-1 tvg-id="" tvg-name="TR: İLKE TV HD" tvg-logo="" group-title="Törökország",TR: İLKE TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/638154
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1 FHD" tvg-logo="" group-title="Törökország",TR: TELE 1 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638155
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIDER HABER FHD" tvg-logo="" group-title="Törökország",TR: LIDER HABER FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638156
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD FHD" tvg-logo="" group-title="Törökország",TR: TRT WORLD FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638157
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL KANAL HD" tvg-logo="" group-title="Törökország",TR: ULUSAL KANAL HD
+http://spedtvhd.shop:8080/mst6630/mst00/638158
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH HABER HD" tvg-logo="" group-title="Törökország",TR: FLASH HABER HD
+http://spedtvhd.shop:8080/mst6630/mst00/638159
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HD" tvg-logo="" group-title="Törökország",TR: BLOOMBERG HD
+http://spedtvhd.shop:8080/mst6630/mst00/638160
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOTURK HD" tvg-logo="" group-title="Törökország",TR: EKOTURK HD
+http://spedtvhd.shop:8080/mst6630/mst00/638161
+#EXTINF:-1 tvg-id="" tvg-name="TR: TH TÜRK HABER HD" tvg-logo="" group-title="Törökország",TR: TH TÜRK HABER HD
+http://spedtvhd.shop:8080/mst6630/mst00/638162
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV NET HD" tvg-logo="" group-title="Törökország",TR: TV NET HD
+http://spedtvhd.shop:8080/mst6630/mst00/638163
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL FHD" tvg-logo="" group-title="Törökország",TR: TRT BELGESEL FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638187
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL HD" tvg-logo="" group-title="Törökország",TR: TRT BELGESEL HD
+http://spedtvhd.shop:8080/mst6630/mst00/638188
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Törökország",TR: NATIONAL GEOGRAPHIC FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638189
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Törökország",TR: NATIONAL GEOGRAPHIC HD
+http://spedtvhd.shop:8080/mst6630/mst00/638190
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD FHD" tvg-logo="" group-title="Törökország",TR: NAT GEO WILD FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638191
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD HD" tvg-logo="" group-title="Törökország",TR: NAT GEO WILD HD
+http://spedtvhd.shop:8080/mst6630/mst00/638192
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Törökország",TR: DISCOVERY CHANNEL FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638193
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY ID FHD" tvg-logo="" group-title="Törökország",TR: DISCOVERY ID FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638194
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY ID HD" tvg-logo="" group-title="Törökország",TR: DISCOVERY ID HD
+http://spedtvhd.shop:8080/mst6630/mst00/638195
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX FHD" tvg-logo="" group-title="Törökország",TR: DMAX FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638196
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD" tvg-logo="" group-title="Törökország",TR: DMAX HD
+http://spedtvhd.shop:8080/mst6630/mst00/638197
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViASAT HiSTORY FHD" tvg-logo="" group-title="Törökország",TR: ViASAT HiSTORY FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638198
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC TV FHD" tvg-logo="" group-title="Törökország",TR: TLC TV FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638199
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH FHD" tvg-logo="" group-title="Törökország",TR: BBC EARTH FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638200
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT BELGESEL FHD" tvg-logo="" group-title="Törökország",TR: TGRT BELGESEL FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638201
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE HD" tvg-logo="" group-title="Törökország",TR: LOVE NATURE HD
+http://spedtvhd.shop:8080/mst6630/mst00/638202
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN IZ FHD" tvg-logo="" group-title="Törökország",TR: beIN IZ FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638203
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN GURME HD" tvg-logo="" group-title="Törökország",TR: BEIN GURME HD
+http://spedtvhd.shop:8080/mst6630/mst00/638204
+#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI LEARNING" tvg-logo="" group-title="Törökország",TR: DA VINCI LEARNING
+http://spedtvhd.shop:8080/mst6630/mst00/638205
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIH TV" tvg-logo="" group-title="Törökország",TR: TARIH TV
+http://spedtvhd.shop:8080/mst6630/mst00/638206
+#EXTINF:-1 tvg-id="" tvg-name="TR: CHASSE ET PECHE" tvg-logo="" group-title="Törökország",TR: CHASSE ET PECHE
+http://spedtvhd.shop:8080/mst6630/mst00/638207
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT ÇOCUK HD" tvg-logo="" group-title="Törökország",TR: TRT ÇOCUK HD
+http://spedtvhd.shop:8080/mst6630/mst00/638208
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICK JR HD" tvg-logo="" group-title="Törökország",TR: NICK JR HD
+http://spedtvhd.shop:8080/mst6630/mst00/638209
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON HD" tvg-logo="" group-title="Törökország",TR: NICKELODEON HD
+http://spedtvhd.shop:8080/mst6630/mst00/638210
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKTOONS" tvg-logo="" group-title="Törökország",TR: NICKTOONS
+http://spedtvhd.shop:8080/mst6630/mst00/638211
+#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="" group-title="Törökország",TR: CARTOON NETWORK HD
+http://spedtvhd.shop:8080/mst6630/mst00/638213
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA GO" tvg-logo="" group-title="Törökország",TR: MINIKA GO
+http://spedtvhd.shop:8080/mst6630/mst00/638214
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="" group-title="Törökország",TR: MINIKA COCUK
+http://spedtvhd.shop:8080/mst6630/mst00/638215
+#EXTINF:-1 tvg-id="" tvg-name="TR: CBEEBiES HD" tvg-logo="" group-title="Törökország",TR: CBEEBiES HD
+http://spedtvhd.shop:8080/mst6630/mst00/638216
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK FHD" tvg-logo="" group-title="Törökország",TR: SMART COCUK FHD
+http://spedtvhd.shop:8080/mst6630/mst00/638217
+#EXTINF:-1 tvg-id="" tvg-name="TR: KUKULI TV" tvg-logo="" group-title="Törökország",TR: KUKULI TV
+http://spedtvhd.shop:8080/mst6630/mst00/638219
+#EXTINF:-1 tvg-id="" tvg-name="TR: PIJAMA MASKELILER TV" tvg-logo="" group-title="Törökország",TR: PIJAMA MASKELILER TV
+http://spedtvhd.shop:8080/mst6630/mst00/638220
+#EXTINF:-1 tvg-id="" tvg-name="TR: PAW PATROL TV" tvg-logo="" group-title="Törökország",TR: PAW PATROL TV
+http://spedtvhd.shop:8080/mst6630/mst00/638222
+#EXTINF:-1 tvg-id="" tvg-name="TR: PATRON BEBEK HD" tvg-logo="" group-title="Törökország",TR: PATRON BEBEK HD
+http://spedtvhd.shop:8080/mst6630/mst00/638223
+#EXTINF:-1 tvg-id="" tvg-name="TR: SUNGER BOB HD" tvg-logo="" group-title="Törökország",TR: SUNGER BOB HD
+http://spedtvhd.shop:8080/mst6630/mst00/638225
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX ANİMASYON 1 HD" tvg-logo="" group-title="Törökország",TR: MAX ANİMASYON 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/638226
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX ANİMASYON 2 HD" tvg-logo="" group-title="Törökország",TR: MAX ANİMASYON 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/638227
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÇOCUK ŞARKILARI HD" tvg-logo="" group-title="Törökország",TR: ÇOCUK ŞARKILARI HD
+http://spedtvhd.shop:8080/mst6630/mst00/638228
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANİMASYON 1 HD" tvg-logo="" group-title="Törökország",TR: ANİMASYON 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/638229
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANİMASYON HD" tvg-logo="" group-title="Törökország",TR: ANİMASYON HD
+http://spedtvhd.shop:8080/mst6630/mst00/638230
+#EXTINF:-1 tvg-id="" tvg-name="TR: NİLOYA HD" tvg-logo="" group-title="Törökország",TR: NİLOYA HD
+http://spedtvhd.shop:8080/mst6630/mst00/638231
+#EXTINF:-1 tvg-id="" tvg-name="TR: ŞİRİNLER HD" tvg-logo="" group-title="Törökország",TR: ŞİRİNLER HD
+http://spedtvhd.shop:8080/mst6630/mst00/638232
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDKİT HD" tvg-logo="" group-title="Törökország",TR: REDKİT HD
+http://spedtvhd.shop:8080/mst6630/mst00/638233
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV HE-MAN HD" tvg-logo="" group-title="Törökország",TR: BlueTV HE-MAN HD
+http://spedtvhd.shop:8080/mst6630/mst00/638234
+#EXTINF:-1 tvg-id="" tvg-name="TR: TOM & JERRY HD" tvg-logo="" group-title="Törökország",TR: TOM & JERRY HD
+http://spedtvhd.shop:8080/mst6630/mst00/638235
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAŞA ile KOCA AYI HD" tvg-logo="" group-title="Törökország",TR: MAŞA ile KOCA AYI HD
+http://spedtvhd.shop:8080/mst6630/mst00/638236
+#EXTINF:-1 tvg-id="" tvg-name="TR: NİNJA KAPLUMBAĞALAR HD" tvg-logo="" group-title="Törökország",TR: NİNJA KAPLUMBAĞALAR HD
+http://spedtvhd.shop:8080/mst6630/mst00/638237
+#EXTINF:-1 tvg-id="" tvg-name="TR: Müfettiş Gadget HD" tvg-logo="" group-title="Törökország",TR: Müfettiş Gadget HD
+http://spedtvhd.shop:8080/mst6630/mst00/638238
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOONBUG KIDS TV" tvg-logo="" group-title="Törökország",TR: MOONBUG KIDS TV
+http://spedtvhd.shop:8080/mst6630/mst00/638239
+#EXTINF:-1 tvg-id="" tvg-name="TR : KELOĞLAN" tvg-logo="" group-title="Törökország",TR : KELOĞLAN
+http://spedtvhd.shop:8080/mst6630/mst00/638243
+#EXTINF:-1 tvg-id="" tvg-name="TR : PIRIL" tvg-logo="" group-title="Törökország",TR : PIRIL
+http://spedtvhd.shop:8080/mst6630/mst00/638245
+#EXTINF:-1 tvg-id="" tvg-name="TR: X-MEN HD" tvg-logo="" group-title="Törökország",TR: X-MEN HD
+http://spedtvhd.shop:8080/mst6630/mst00/654131
+#EXTINF:-1 tvg-id="" tvg-name="TR: GODZİLLA & KONG HD" tvg-logo="" group-title="Törökország",TR: GODZİLLA & KONG HD
+http://spedtvhd.shop:8080/mst6630/mst00/654132
+#EXTINF:-1 tvg-id="" tvg-name="TR: AMERİKAN PASTASI HD" tvg-logo="" group-title="Törökország",TR: AMERİKAN PASTASI HD
+http://spedtvhd.shop:8080/mst6630/mst00/654133
+#EXTINF:-1 tvg-id="" tvg-name="TR: GÖREVİMİZ TEHLİKE HD" tvg-logo="" group-title="Törökország",TR: GÖREVİMİZ TEHLİKE HD
+http://spedtvhd.shop:8080/mst6630/mst00/654134
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV HARRY POTER ʜᴅ" tvg-logo="" group-title="Törökország",TR: BlueTV HARRY POTER ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654135
+#EXTINF:-1 tvg-id="" tvg-name="TR: HIZLI VE ÖFKELİ HD" tvg-logo="" group-title="Törökország",TR: HIZLI VE ÖFKELİ HD
+http://spedtvhd.shop:8080/mst6630/mst00/654136
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV JAMES BOND ʜᴅ" tvg-logo="" group-title="Törökország",TR: BlueTV JAMES BOND ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654137
+#EXTINF:-1 tvg-id="" tvg-name="TR: KARAYİP KORSANLARI HD" tvg-logo="" group-title="Törökország",TR: KARAYİP KORSANLARI HD
+http://spedtvhd.shop:8080/mst6630/mst00/654138
+#EXTINF:-1 tvg-id="" tvg-name="TR: KORKUNÇ BİR FİLM HD" tvg-logo="" group-title="Törökország",TR: KORKUNÇ BİR FİLM HD
+http://spedtvhd.shop:8080/mst6630/mst00/654139
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAYMUNLAR CEHENNEMİ HD" tvg-logo="" group-title="Törökország",TR: MAYMUNLAR CEHENNEMİ HD
+http://spedtvhd.shop:8080/mst6630/mst00/654140
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÖLÜM YARIŞI HD" tvg-logo="" group-title="Törökország",TR: ÖLÜM YARIŞI HD
+http://spedtvhd.shop:8080/mst6630/mst00/654141
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÖLÜMCÜL DENEY HD" tvg-logo="" group-title="Törökország",TR: ÖLÜMCÜL DENEY HD
+http://spedtvhd.shop:8080/mst6630/mst00/654142
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÖRÜMCEK ADAM HD" tvg-logo="" group-title="Törökország",TR: ÖRÜMCEK ADAM HD
+http://spedtvhd.shop:8080/mst6630/mst00/654143
+#EXTINF:-1 tvg-id="" tvg-name="TR: RAMBO HD" tvg-logo="" group-title="Törökország",TR: RAMBO HD
+http://spedtvhd.shop:8080/mst6630/mst00/654144
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR WARS HD" tvg-logo="" group-title="Törökország",TR: STAR WARS HD
+http://spedtvhd.shop:8080/mst6630/mst00/654145
+#EXTINF:-1 tvg-id="" tvg-name="TR: YENİLMEZLER HD" tvg-logo="" group-title="Törökország",TR: YENİLMEZLER HD
+http://spedtvhd.shop:8080/mst6630/mst00/654146
+#EXTINF:-1 tvg-id="" tvg-name="TR: ALACAKARANLIK HD" tvg-logo="" group-title="Törökország",TR: ALACAKARANLIK HD
+http://spedtvhd.shop:8080/mst6630/mst00/654147
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV DÖVÜŞ ʜᴅ" tvg-logo="" group-title="Törökország",TR: BlueTV DÖVÜŞ ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654148
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRUCE LEE HD" tvg-logo="" group-title="Törökország",TR: BRUCE LEE HD
+http://spedtvhd.shop:8080/mst6630/mst00/654149
+#EXTINF:-1 tvg-id="" tvg-name="TR: VAN DAMME HD" tvg-logo="" group-title="Törökország",TR: VAN DAMME HD
+http://spedtvhd.shop:8080/mst6630/mst00/654150
+#EXTINF:-1 tvg-id="" tvg-name="TR: RECEP İVEDİK HD" tvg-logo="" group-title="Törökország",TR: RECEP İVEDİK HD
+http://spedtvhd.shop:8080/mst6630/mst00/654151
+#EXTINF:-1 tvg-id="" tvg-name="TR: POLİS AKADEMİSİ HD" tvg-logo="" group-title="Törökország",TR: POLİS AKADEMİSİ HD
+http://spedtvhd.shop:8080/mst6630/mst00/654152
+#EXTINF:-1 tvg-id="" tvg-name="TR: TESTERE HD" tvg-logo="" group-title="Törökország",TR: TESTERE HD
+http://spedtvhd.shop:8080/mst6630/mst00/654153
+#EXTINF:-1 tvg-id="" tvg-name="TR:  JACKIE CHAN HD" tvg-logo="" group-title="Törökország",TR:  JACKIE CHAN HD
+http://spedtvhd.shop:8080/mst6630/mst00/654154
+#EXTINF:-1 tvg-id="" tvg-name="TR: ŞAFAK SEZER HD" tvg-logo="" group-title="Törökország",TR: ŞAFAK SEZER HD
+http://spedtvhd.shop:8080/mst6630/mst00/654155
+#EXTINF:-1 tvg-id="" tvg-name="Best of IMDB 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",Best of IMDB 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654157
+#EXTINF:-1 tvg-id="" tvg-name="Best of IMDB 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",Best of IMDB 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654158
+#EXTINF:-1 tvg-id="" tvg-name="Best of IMDB 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",Best of IMDB 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654159
+#EXTINF:-1 tvg-id="" tvg-name="Best of IMDB 4 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",Best of IMDB 4 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654160
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Vizyon 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Vizyon 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654161
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Vizyon 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Vizyon 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654162
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Vizyon 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Vizyon 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654163
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Aksiyon 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",ZYRON TV Aksiyon 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654164
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Aksiyon 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",ZYRON TV Aksiyon 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654165
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Macera 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Macera 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654166
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Macera 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Macera 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654167
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV  Korku 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV  Korku 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654168
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV  Korku 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV  Korku 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654169
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV  Korku 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV  Korku 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654170
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Gerilim 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Gerilim 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654171
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV  Gerilim 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV  Gerilim 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654172
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Gerilim 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Gerilim 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654173
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Fantasy 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Fantasy 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654174
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Fantasy 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Fantasy 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654175
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV  Fantasy 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV  Fantasy 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654176
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Bilimkurgu 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Bilimkurgu 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654177
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Bilimkurgu 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Bilimkurgu 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654178
+#EXTINF:-1 tvg-id="" tvg-name="Bilimkurgu 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",Bilimkurgu 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654179
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Komedi 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Komedi 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654180
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Komedi 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Komedi 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654181
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Romantik 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY2/DOLBYY2.png" group-title="Törökország",ZYRON TV Romantik 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654182
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Romantik 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY2/DOLBYY2.png" group-title="Törökország",ZYRON TV Romantik 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654183
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Dram 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Dram 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654184
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Dram 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Dram 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654185
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Dram 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Dram 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654186
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Netflix 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Netflix 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654187
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Netflix 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Netflix 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654188
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Western 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Western 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654189
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Western 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Western 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654190
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Savaş ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Savaş ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654191
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Nostalji ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Nostalji ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654192
+#EXTINF:-1 tvg-id="" tvg-name="DOLBY TV Loca 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",DOLBY TV Loca 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654193
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Loca 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Loca 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654194
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Loca 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY2/DOLBYY2.png" group-title="Törökország",ZYRON TV Loca 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654195
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Loca 4 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Loca 4 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654196
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Loca 5 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Loca 5 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654197
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Loca 6 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Loca 6 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654198
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Loca 7 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Loca 7 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654199
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Loca 8 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Loca 8 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654200
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Loca 9 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Loca 9 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654201
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Loca 10 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Loca 10 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654202
+#EXTINF:-1 tvg-id="" tvg-name="ZYRON TV Loca 11ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZYRON TV Loca 11ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654203
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX AKSİYON 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.AKSIYON.1.png" group-title="Törökország",TR: MAX AKSİYON 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654204
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PREMIER HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.PREMIER.png" group-title="Törökország",TR: MAX PREMIER HD
+http://spedtvhd.shop:8080/mst6630/mst00/654205
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX VİZYON 2 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.VIZYON.2.png" group-title="Törökország",TR: MAX VİZYON 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654206
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX VİZYON 3 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.VIZYON.3.png" group-title="Törökország",TR: MAX VİZYON 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654207
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.TURK.png" group-title="Törökország",TR: MAX TURK HD
+http://spedtvhd.shop:8080/mst6630/mst00/654208
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.GOLD.png" group-title="Törökország",TR: MAX GOLD HD
+http://spedtvhd.shop:8080/mst6630/mst00/654209
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX KINO COLLECTION HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.KINO.png" group-title="Törökország",TR: MAX KINO COLLECTION HD
+http://spedtvhd.shop:8080/mst6630/mst00/654210
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.STAR.WARS.png" group-title="Törökország",TR: MAX STAR WARS HD
+http://spedtvhd.shop:8080/mst6630/mst00/654211
+#EXTINF:-1 tvg-id="" tvg-name="TR: Max ⁴ᴷ ғʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.4K.png" group-title="Törökország",TR: Max ⁴ᴷ ғʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654212
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX ORJİNAL ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.ORJINAL.png" group-title="Törökország",TR: MAX ORJİNAL ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654213
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEBOX/MAX.007.png" group-title="Törökország",TR: MAX 007 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654214
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Aksiyon ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/AKSIYON.png" group-title="Törökország",TR: CINEMAXIMUM Aksiyon ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654216
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Fantastik ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/FANTASTIK.png" group-title="Törökország",TR: CINEMAXIMUM Fantastik ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654217
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Suç ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/SUC.png" group-title="Törökország",TR: CINEMAXIMUM Suç ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654218
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Gerilim ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/GERILIM.png" group-title="Törökország",TR: CINEMAXIMUM Gerilim ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654219
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Gizem ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/GIZEM.png" group-title="Törökország",TR: CINEMAXIMUM Gizem ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654220
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Macera ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/MACERA.png" group-title="Törökország",TR: CINEMAXIMUM Macera ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654221
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Dram ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/DRAM.png" group-title="Törökország",TR: CINEMAXIMUM Dram ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654222
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Romantik ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/ROMANTIK.png" group-title="Törökország",TR: CINEMAXIMUM Romantik ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654223
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Bollywood ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/BOLLYWOOD.png" group-title="Törökország",TR: CINEMAXIMUM Bollywood ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654224
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Animasyon ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/ANIMASYON.png" group-title="Törökország",TR: CINEMAXIMUM Animasyon ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654225
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Yerli 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/YERLI.1.png" group-title="Törökország",TR: CINEMAXIMUM Yerli 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654226
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Yerli 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/YERLI.2.png" group-title="Törökország",TR: CINEMAXIMUM Yerli 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654227
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Yerli 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/YERLI.3.png" group-title="Törökország",TR: CINEMAXIMUM Yerli 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654228
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Yerli 4 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/YERLI.4.png" group-title="Törökország",TR: CINEMAXIMUM Yerli 4 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654229
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Yerli 5 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/YERLI.5.png" group-title="Törökország",TR: CINEMAXIMUM Yerli 5 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654230
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/1.png" group-title="Törökország",TR: CINEMAXIMUM 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654231
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/2.png" group-title="Törökország",TR: CINEMAXIMUM 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654232
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/3.png" group-title="Törökország",TR: CINEMAXIMUM 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654233
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 4 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/4.png" group-title="Törökország",TR: CINEMAXIMUM 4 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654234
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 5 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/5.png" group-title="Törökország",TR: CINEMAXIMUM 5 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654235
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 6 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/6.png" group-title="Törökország",TR: CINEMAXIMUM 6 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654236
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 7 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/7.png" group-title="Törökország",TR: CINEMAXIMUM 7 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654237
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 8 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/8.png" group-title="Törökország",TR: CINEMAXIMUM 8 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654238
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM  9 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/9.png" group-title="Törökország",TR: CINEMAXIMUM  9 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654239
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 10 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/CINEMAXIMUMM/10.png" group-title="Törökország",TR: CINEMAXIMUM 10 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654240
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 1 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/MARVEL.SINEMA.1.png" group-title="Törökország",TR: MARVEL STUDIOS 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654242
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 2 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/MARVEL.SINEMA.2.png" group-title="Törökország",TR: MARVEL STUDIOS 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654243
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 3 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/MARVEL.SINEMA.3.png" group-title="Törökország",TR: MARVEL STUDIOS 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654244
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 4 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/MARVEL.SINEMA.4.png" group-title="Törökország",TR: MARVEL STUDIOS 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654245
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 5 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/MARVEL.SINEMA.5.png" group-title="Törökország",TR: MARVEL STUDIOS 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654246
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 6 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/MARVEL.SINEMA.6.png" group-title="Törökország",TR: MARVEL STUDIOS 6 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654247
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 7 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/MARVEL.SINEMA.7.png" group-title="Törökország",TR: MARVEL STUDIOS 7 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654248
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN STUDIOS 1 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/WESTERN.SINEMA.1.png" group-title="Törökország",TR: WESTERN STUDIOS 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654249
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN STUDIOS 2 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/WESTERN.SINEMA.2.png" group-title="Törökország",TR: WESTERN STUDIOS 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654250
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN STUDIOS 3 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/WESTERN.SINEMA.3.png" group-title="Törökország",TR: WESTERN STUDIOS 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654251
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN STUDIOS 4 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/WESTERN.SINEMA.4.png" group-title="Törökország",TR: WESTERN STUDIOS 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654252
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN STUDIOS 5 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/MARVEL.WESTERN/WESTERN.SINEMA.5.png" group-title="Törökország",TR: WESTERN STUDIOS 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654253
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Aksiyon ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/AKSIYON.png" group-title="Törökország",TR: NETFLIX Aksiyon ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654255
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Macera ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/MACERA.png" group-title="Törökország",TR: NETFLIX Macera ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654256
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Bilimkurgu ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/BILIM.KURGU.png" group-title="Törökország",TR: NETFLIX Bilimkurgu ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654257
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Fantastik ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/FANTASTIK.png" group-title="Törökország",TR: NETFLIX Fantastik ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654258
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Suç ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/SUC.png" group-title="Törökország",TR: NETFLIX Suç ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654259
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Korku ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/KORKU.png" group-title="Törökország",TR: NETFLIX Korku ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654260
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Gerilim ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/GERILIM.png" group-title="Törökország",TR: NETFLIX Gerilim ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654261
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Gizem ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/GIZEM.png" group-title="Törökország",TR: NETFLIX Gizem ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654262
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Dram ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/DRAM.png" group-title="Törökország",TR: NETFLIX Dram ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654263
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Komedi ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/KOMEDI.png" group-title="Törökország",TR: NETFLIX Komedi ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654264
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Romantik ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/ROMANTIK.png" group-title="Törökország",TR: NETFLIX Romantik ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654265
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Belgesel ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/BELGESEL.png" group-title="Törökország",TR: NETFLIX Belgesel ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654266
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Animasyon ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/ANIMASYON.png" group-title="Törökország",TR: NETFLIX Animasyon ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654267
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/1.png" group-title="Törökország",TR: NETFLIX 1 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654268
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/2.png" group-title="Törökország",TR: NETFLIX 2 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654269
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/3.png" group-title="Törökország",TR: NETFLIX 3 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654270
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX 4 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/4.png" group-title="Törökország",TR: NETFLIX 4 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654271
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX 5 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/NETFLIX/5.png" group-title="Törökország",TR: NETFLIX 5 ʜᴅ
+http://spedtvhd.shop:8080/mst6630/mst00/654272
+#EXTINF:-1 tvg-id="" tvg-name="JOHN WICK" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",JOHN WICK
+http://spedtvhd.shop:8080/mst6630/mst00/654274
+#EXTINF:-1 tvg-id="" tvg-name="BLADE" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",BLADE
+http://spedtvhd.shop:8080/mst6630/mst00/654275
+#EXTINF:-1 tvg-id="" tvg-name="MATRİX" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",MATRİX
+http://spedtvhd.shop:8080/mst6630/mst00/654276
+#EXTINF:-1 tvg-id="" tvg-name="KARANLIKLAR DÜNYASI" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",KARANLIKLAR DÜNYASI
+http://spedtvhd.shop:8080/mst6630/mst00/654277
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",BATMAN
+http://spedtvhd.shop:8080/mst6630/mst00/654278
+#EXTINF:-1 tvg-id="" tvg-name="TERMINATOR" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",TERMINATOR
+http://spedtvhd.shop:8080/mst6630/mst00/654279
+#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMERS" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",TRANSFORMERS
+http://spedtvhd.shop:8080/mst6630/mst00/654280
+#EXTINF:-1 tvg-id="" tvg-name="SUPERMAN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",SUPERMAN
+http://spedtvhd.shop:8080/mst6630/mst00/654281
+#EXTINF:-1 tvg-id="" tvg-name="JURASSIC WORLD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",JURASSIC WORLD
+http://spedtvhd.shop:8080/mst6630/mst00/654282
+#EXTINF:-1 tvg-id="" tvg-name="ALIEN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ALIEN
+http://spedtvhd.shop:8080/mst6630/mst00/654283
+#EXTINF:-1 tvg-id="" tvg-name="FANTASTİK CANAVARLAR" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",FANTASTİK CANAVARLAR
+http://spedtvhd.shop:8080/mst6630/mst00/654284
+#EXTINF:-1 tvg-id="" tvg-name="YÜZÜKLERİN EFENDİSİ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",YÜZÜKLERİN EFENDİSİ
+http://spedtvhd.shop:8080/mst6630/mst00/654285
+#EXTINF:-1 tvg-id="" tvg-name="THE HOBBIT" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",THE HOBBIT
+http://spedtvhd.shop:8080/mst6630/mst00/654286
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",X-MEN
+http://spedtvhd.shop:8080/mst6630/mst00/654287
+#EXTINF:-1 tvg-id="" tvg-name="DEADPOOL" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",DEADPOOL
+http://spedtvhd.shop:8080/mst6630/mst00/654288
+#EXTINF:-1 tvg-id="" tvg-name="DR. STRANGE" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",DR. STRANGE
+http://spedtvhd.shop:8080/mst6630/mst00/654289
+#EXTINF:-1 tvg-id="" tvg-name="KAPTAN AMERİKA" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",KAPTAN AMERİKA
+http://spedtvhd.shop:8080/mst6630/mst00/654290
+#EXTINF:-1 tvg-id="" tvg-name="GALAKSİNİN KORUYUCULARI" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",GALAKSİNİN KORUYUCULARI
+http://spedtvhd.shop:8080/mst6630/mst00/654291
+#EXTINF:-1 tvg-id="" tvg-name="ANT-MAN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",ANT-MAN
+http://spedtvhd.shop:8080/mst6630/mst00/654292
+#EXTINF:-1 tvg-id="" tvg-name="AVENGERS" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",AVENGERS
+http://spedtvhd.shop:8080/mst6630/mst00/654293
+#EXTINF:-1 tvg-id="" tvg-name="THOR" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",THOR
+http://spedtvhd.shop:8080/mst6630/mst00/654294
+#EXTINF:-1 tvg-id="" tvg-name="IRON MAN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",IRON MAN
+http://spedtvhd.shop:8080/mst6630/mst00/654295
+#EXTINF:-1 tvg-id="" tvg-name="FANTASTİK DÖRTLÜ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",FANTASTİK DÖRTLÜ
+http://spedtvhd.shop:8080/mst6630/mst00/654296
+#EXTINF:-1 tvg-id="" tvg-name="VENOM" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",VENOM
+http://spedtvhd.shop:8080/mst6630/mst00/654297
+#EXTINF:-1 tvg-id="" tvg-name="xXx" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",xXx
+http://spedtvhd.shop:8080/mst6630/mst00/654298
+#EXTINF:-1 tvg-id="" tvg-name="UYUMSUZ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",UYUMSUZ
+http://spedtvhd.shop:8080/mst6630/mst00/654299
+#EXTINF:-1 tvg-id="" tvg-name="AÇLIK OYUNLARI" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",AÇLIK OYUNLARI
+http://spedtvhd.shop:8080/mst6630/mst00/654300
+#EXTINF:-1 tvg-id="" tvg-name="RIDDICT" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",RIDDICT
+http://spedtvhd.shop:8080/mst6630/mst00/654301
+#EXTINF:-1 tvg-id="" tvg-name="HELLBOY" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",HELLBOY
+http://spedtvhd.shop:8080/mst6630/mst00/654302
+#EXTINF:-1 tvg-id="" tvg-name="JUMANJI" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",JUMANJI
+http://spedtvhd.shop:8080/mst6630/mst00/654303
+#EXTINF:-1 tvg-id="" tvg-name="HAYALET AVCILARI" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",HAYALET AVCILARI
+http://spedtvhd.shop:8080/mst6630/mst00/654304
+#EXTINF:-1 tvg-id="" tvg-name="MÜZEDE BİR GECE" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",MÜZEDE BİR GECE
+http://spedtvhd.shop:8080/mst6630/mst00/654305
+#EXTINF:-1 tvg-id="" tvg-name="CREED" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",CREED
+http://spedtvhd.shop:8080/mst6630/mst00/654306
+#EXTINF:-1 tvg-id="" tvg-name="IP MAN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",IP MAN
+http://spedtvhd.shop:8080/mst6630/mst00/654307
+#EXTINF:-1 tvg-id="" tvg-name="YENİLMEZ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",YENİLMEZ
+http://spedtvhd.shop:8080/mst6630/mst00/654308
+#EXTINF:-1 tvg-id="" tvg-name="KILL BILL" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",KILL BILL
+http://spedtvhd.shop:8080/mst6630/mst00/654309
+#EXTINF:-1 tvg-id="" tvg-name="EXTRACTION" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",EXTRACTION
+http://spedtvhd.shop:8080/mst6630/mst00/654310
+#EXTINF:-1 tvg-id="" tvg-name="BOURNE" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",BOURNE
+http://spedtvhd.shop:8080/mst6630/mst00/654311
+#EXTINF:-1 tvg-id="" tvg-name="ÇILGIN İKİLİ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ÇILGIN İKİLİ
+http://spedtvhd.shop:8080/mst6630/mst00/654312
+#EXTINF:-1 tvg-id="" tvg-name="ADALET" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ADALET
+http://spedtvhd.shop:8080/mst6630/mst00/654313
+#EXTINF:-1 tvg-id="" tvg-name="TAKEN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",TAKEN
+http://spedtvhd.shop:8080/mst6630/mst00/654314
+#EXTINF:-1 tvg-id="" tvg-name="SİHİRBAZLAR ÇETESİ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",SİHİRBAZLAR ÇETESİ
+http://spedtvhd.shop:8080/mst6630/mst00/654315
+#EXTINF:-1 tvg-id="" tvg-name="OTEL" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",OTEL
+http://spedtvhd.shop:8080/mst6630/mst00/654316
+#EXTINF:-1 tvg-id="" tvg-name="PARANORMAL AKTİVİTE" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",PARANORMAL AKTİVİTE
+http://spedtvhd.shop:8080/mst6630/mst00/654317
+#EXTINF:-1 tvg-id="" tvg-name="HANNIBAL" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",HANNIBAL
+http://spedtvhd.shop:8080/mst6630/mst00/654318
+#EXTINF:-1 tvg-id="" tvg-name="DERİN SULAR" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",DERİN SULAR
+http://spedtvhd.shop:8080/mst6630/mst00/654319
+#EXTINF:-1 tvg-id="" tvg-name="ŞEYTANIN OTELİ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",ŞEYTANIN OTELİ
+http://spedtvhd.shop:8080/mst6630/mst00/654320
+#EXTINF:-1 tvg-id="" tvg-name="KÜP" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",KÜP
+http://spedtvhd.shop:8080/mst6630/mst00/654321
+#EXTINF:-1 tvg-id="" tvg-name="JAWS" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",JAWS
+http://spedtvhd.shop:8080/mst6630/mst00/654322
+#EXTINF:-1 tvg-id="" tvg-name="POLTERGEIST" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",POLTERGEIST
+http://spedtvhd.shop:8080/mst6630/mst00/654323
+#EXTINF:-1 tvg-id="" tvg-name="FINAL DESTINATION" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",FINAL DESTINATION
+http://spedtvhd.shop:8080/mst6630/mst00/654324
+#EXTINF:-1 tvg-id="" tvg-name="MUMYA" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",MUMYA
+http://spedtvhd.shop:8080/mst6630/mst00/654325
+#EXTINF:-1 tvg-id="" tvg-name="KELEBEK ETKİSİ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",KELEBEK ETKİSİ
+http://spedtvhd.shop:8080/mst6630/mst00/654326
+#EXTINF:-1 tvg-id="" tvg-name="OCEANS ELEVEN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",OCEANS ELEVEN
+http://spedtvhd.shop:8080/mst6630/mst00/654327
+#EXTINF:-1 tvg-id="" tvg-name="TAŞIYICI" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",TAŞIYICI
+http://spedtvhd.shop:8080/mst6630/mst00/654328
+#EXTINF:-1 tvg-id="" tvg-name="TAXI" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",TAXI
+http://spedtvhd.shop:8080/mst6630/mst00/654329
+#EXTINF:-1 tvg-id="" tvg-name="GELECEĞE DÖNÜŞ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",GELECEĞE DÖNÜŞ
+http://spedtvhd.shop:8080/mst6630/mst00/654330
+#EXTINF:-1 tvg-id="" tvg-name="CONAN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",CONAN
+http://spedtvhd.shop:8080/mst6630/mst00/654331
+#EXTINF:-1 tvg-id="" tvg-name="MAHLUKLAR" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",MAHLUKLAR
+http://spedtvhd.shop:8080/mst6630/mst00/654332
+#EXTINF:-1 tvg-id="" tvg-name="KİRLİ İŞLER" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",KİRLİ İŞLER
+http://spedtvhd.shop:8080/mst6630/mst00/654333
+#EXTINF:-1 tvg-id="" tvg-name="JARHEAD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",JARHEAD
+http://spedtvhd.shop:8080/mst6630/mst00/654334
+#EXTINF:-1 tvg-id="" tvg-name="CEHENNEM SİLAHI" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",CEHENNEM SİLAHI
+http://spedtvhd.shop:8080/mst6630/mst00/654335
+#EXTINF:-1 tvg-id="" tvg-name="ZOR ÖLÜM" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ZOR ÖLÜM
+http://spedtvhd.shop:8080/mst6630/mst00/654336
+#EXTINF:-1 tvg-id="" tvg-name="ROBOCOP" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",ROBOCOP
+http://spedtvhd.shop:8080/mst6630/mst00/654337
+#EXTINF:-1 tvg-id="" tvg-name="MAD MAX" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",MAD MAX
+http://spedtvhd.shop:8080/mst6630/mst00/654338
+#EXTINF:-1 tvg-id="" tvg-name="Men in BLACK" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",Men in BLACK
+http://spedtvhd.shop:8080/mst6630/mst00/654339
+#EXTINF:-1 tvg-id="" tvg-name="ROCKY" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY.png" group-title="Törökország",ROCKY
+http://spedtvhd.shop:8080/mst6630/mst00/654340
+#EXTINF:-1 tvg-id="" tvg-name="FELEKTEN BİR GECE" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/DOBLYYY/DOLBYY2.png" group-title="Törökország",FELEKTEN BİR GECE
+http://spedtvhd.shop:8080/mst6630/mst00/654341
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 MODÜL FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.FHD.png" group-title="Törökország",TR: BEIN SPORTS 1 MODÜL FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654738
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 MODUL HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.FHD.png" group-title="Törökország",TR: BEIN SPORTS 1 MODUL HD
+http://spedtvhd.shop:8080/mst6630/mst00/654739
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 LOCAL UYDU" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.FHD.png" group-title="Törökország",TR: BEIN SPORTS 1 LOCAL UYDU
+http://spedtvhd.shop:8080/mst6630/mst00/654740
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 640p" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.FHD.png" group-title="Törökország",TR: BEIN SPORTS 1 640p
+http://spedtvhd.shop:8080/mst6630/mst00/654741
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 576p" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.FHD.png" group-title="Törökország",TR: BEIN SPORTS 1 576p
+http://spedtvhd.shop:8080/mst6630/mst00/654742
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 480p" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.FHD.png" group-title="Törökország",TR: BEIN SPORTS 1 480p
+http://spedtvhd.shop:8080/mst6630/mst00/654743
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.2.FHD.png" group-title="Törökország",TR: BEIN SPORTS 2 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654744
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.2.FHD.png" group-title="Törökország",TR: BEIN SPORTS 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654745
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.3.FHD.png" group-title="Törökország",TR: BEIN SPORTS 3 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654746
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.3.FHD.png" group-title="Törökország",TR: BEIN SPORTS 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654747
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.4.FHD.png" group-title="Törökország",TR: BEIN SPORTS 4 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654748
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.4.FHD.png" group-title="Törökország",TR: BEIN SPORTS 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654749
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.5.FHD.png" group-title="Törökország",TR: BEIN SPORTS 5 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654750
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.5.FHD.png" group-title="Törökország",TR: BEIN SPORTS 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654751
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.MAX.1.png" group-title="Törökország",TR: BEIN SPORTS MAX 1
+http://spedtvhd.shop:8080/mst6630/mst00/654752
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.MAX.2.png" group-title="Törökország",TR: BEIN SPORTS MAX 2
+http://spedtvhd.shop:8080/mst6630/mst00/654753
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.HABER.png" group-title="Törökország",TR: beIN SPORTS HABER HD
+http://spedtvhd.shop:8080/mst6630/mst00/654755
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 RAW" tvg-logo="" group-title="Törökország",TR: beIN SPORTS 1 RAW
+http://spedtvhd.shop:8080/mst6630/mst00/654756
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.FHD.png" group-title="Törökország",TR: beIN SPORTS 1 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654757
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 fHD - EXTRA" tvg-logo="" group-title="Törökország",TR: beIN SPORTS 1 fHD - EXTRA
+http://spedtvhd.shop:8080/mst6630/mst00/654758
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="" group-title="Törökország",TR: beIN SPORTS 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654759
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 HD - EXTRA" tvg-logo="" group-title="Törökország",TR: beIN SPORTS 1 HD - EXTRA
+http://spedtvhd.shop:8080/mst6630/mst00/654760
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 TICARI YAYIN" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.TICARI.png" group-title="Törökország",TR: beIN SPORTS 1 TICARI YAYIN
+http://spedtvhd.shop:8080/mst6630/mst00/654761
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 PREMIUM" tvg-logo="" group-title="Törökország",TR: beIN SPORTS 1 PREMIUM
+http://spedtvhd.shop:8080/mst6630/mst00/654762
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 SD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.1.SD.png" group-title="Törökország",TR: beIN SPORTS 1 SD
+http://spedtvhd.shop:8080/mst6630/mst00/654763
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 PREMIUM" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.2.PREMIUM.png" group-title="Törökország",TR: beIN SPORTS 2 PREMIUM
+http://spedtvhd.shop:8080/mst6630/mst00/654764
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.2.FHD.png" group-title="Törökország",TR: beIN SPORTS 2 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654765
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.2.HD.png" group-title="Törökország",TR: beIN SPORTS 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654766
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 SD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.2.SD.png" group-title="Törökország",TR: beIN SPORTS 2 SD
+http://spedtvhd.shop:8080/mst6630/mst00/654767
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.3.FHD.png" group-title="Törökország",TR: beIN SPORTS 3 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654768
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.3.HD.png" group-title="Törökország",TR: beIN SPORTS 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654769
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 SD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.3.SD.png" group-title="Törökország",TR: beIN SPORTS 3 SD
+http://spedtvhd.shop:8080/mst6630/mst00/654770
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.4.FHD.png" group-title="Törökország",TR: beIN SPORTS 4 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654771
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.4.HD.png" group-title="Törökország",TR: beIN SPORTS 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654772
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 SD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.4.SD.png" group-title="Törökország",TR: beIN SPORTS 4 SD
+http://spedtvhd.shop:8080/mst6630/mst00/654773
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.5.FHD.png" group-title="Törökország",TR: beIN SPORTS 5 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654774
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SPORTS 5 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.5.HD.png" group-title="Törökország",TR: bEIN SPORTS 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654775
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEiN SPORTS 5 SD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.5.SD.png" group-title="Törökország",TR: bEiN SPORTS 5 SD
+http://spedtvhd.shop:8080/mst6630/mst00/654776
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 1 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.MAX.1.png" group-title="Törökország",TR: beIN SPORTS MAX 1 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654777
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 2 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/BEIN.SPORTS.MAX.2.png" group-title="Törökország",TR: beIN SPORTS MAX 2 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654778
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN CONNECT 1" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.1.png" group-title="Törökország",TR: bEIN CONNECT 1
+http://spedtvhd.shop:8080/mst6630/mst00/654779
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN CONNECT 2" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.2.png" group-title="Törökország",TR: bEIN CONNECT 2
+http://spedtvhd.shop:8080/mst6630/mst00/654780
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN CONNECT 3" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.3.png" group-title="Törökország",TR: bEIN CONNECT 3
+http://spedtvhd.shop:8080/mst6630/mst00/654781
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN CONNECT 4" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.4.png" group-title="Törökország",TR: bEIN CONNECT 4
+http://spedtvhd.shop:8080/mst6630/mst00/654782
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN CONNECT 5" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.5.png" group-title="Törökország",TR: bEIN CONNECT 5
+http://spedtvhd.shop:8080/mst6630/mst00/654783
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN CONNECT 6" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.6.png" group-title="Törökország",TR: bEIN CONNECT 6
+http://spedtvhd.shop:8080/mst6630/mst00/654784
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN CONNECT 7" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.7.png" group-title="Törökország",TR: bEIN CONNECT 7
+http://spedtvhd.shop:8080/mst6630/mst00/654785
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN CONNECT 8" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.8.png" group-title="Törökország",TR: beIN CONNECT 8
+http://spedtvhd.shop:8080/mst6630/mst00/654786
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN CONNECT 9" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.9.png" group-title="Törökország",TR: bEIN CONNECT 9
+http://spedtvhd.shop:8080/mst6630/mst00/654787
+#EXTINF:-1 tvg-id="" tvg-name="TR: beiN CONNECT 10" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.10.png" group-title="Törökország",TR: beiN CONNECT 10
+http://spedtvhd.shop:8080/mst6630/mst00/654788
+#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN CONNECT 11" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/BEIN.Y/CONNECT.11.png" group-title="Törökország",TR: bEIN CONNECT 11
+http://spedtvhd.shop:8080/mst6630/mst00/654789
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/0.png" group-title="Törökország",TR: Tabii Spor FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654791
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/0.png" group-title="Törökország",TR: Tabii Spor HD
+http://spedtvhd.shop:8080/mst6630/mst00/654792
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 1 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/1.png" group-title="Törökország",TR: Tabii Spor 1 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654793
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 1 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/1.png" group-title="Törökország",TR: Tabii Spor 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654794
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 2 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/2.png" group-title="Törökország",TR: Tabii Spor 2 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654795
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 2 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/2.png" group-title="Törökország",TR: Tabii Spor 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654796
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 3 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/3.png" group-title="Törökország",TR: Tabii Spor 3 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654797
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 3 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/3.png" group-title="Törökország",TR: Tabii Spor 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654798
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 4 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/4.png" group-title="Törökország",TR: Tabii Spor 4 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654799
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 4 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/4.png" group-title="Törökország",TR: Tabii Spor 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654800
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 5 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/5.png" group-title="Törökország",TR: Tabii Spor 5 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654801
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 5 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/5.png" group-title="Törökország",TR: Tabii Spor 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654802
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 6 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/6.png" group-title="Törökország",TR: Tabii Spor 6 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654803
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 6 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/6.png" group-title="Törökország",TR: Tabii Spor 6 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654804
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 7 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/7.png" group-title="Törökország",TR: Tabii Spor 7 FHD
+http://spedtvhd.shop:8080/mst6630/mst00/654805
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 7 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/TABII/7.png" group-title="Törökország",TR: Tabii Spor 7 HD
+http://spedtvhd.shop:8080/mst6630/mst00/654806
+#EXTINF:-1 tvg-id="KANAL24.tr" tvg-name="|TR| 24 TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/24_tv.png" group-title="Törökország",|TR| 24 TV
+http://spedtvhd.shop:8080/mst6630/mst00/20748
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/Disney_Junior_logosu.png" group-title="Törökország",|TR| Disney Junior HD
+http://spedtvhd.shop:8080/mst6630/mst00/6236
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Boomerang TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Törökország",|TR| Boomerang TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/6243
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Minika Go HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Minika_go_old.png" group-title="Törökország",|TR| Minika Go HD
+http://spedtvhd.shop:8080/mst6630/mst00/6244
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Minika Çocuk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" group-title="Törökország",|TR| Minika Çocuk HD
+http://spedtvhd.shop:8080/mst6630/mst00/6247
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Pembe Panter TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxpembepanter.png" group-title="Törökország",|TR| Pembe Panter TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/6235
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maşa İle Koca Ayı HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/masakocaayi.png" group-title="Törökország",|TR| Maşa İle Koca Ayı HD
+http://spedtvhd.shop:8080/mst6630/mst00/6238
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Baby TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxbabytv.png" group-title="Törökország",|TR| Baby TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/6239
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tom & Jerry TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxtomjerry.png" group-title="Törökország",|TR| Tom & Jerry TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/6240
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Pepe TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxpepetv.png" group-title="Törökország",|TR| Pepe TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/6241
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Nickelodeon HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxniloyatv.png" group-title="Törökország",|TR| Nickelodeon HD
+http://spedtvhd.shop:8080/mst6630/mst00/6242
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Şirinler TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxsirinlertv.png" group-title="Törökország",|TR| Şirinler TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/6245
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kids Max TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/kidsturk.png" group-title="Törökország",|TR| Kids Max TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/6249
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Disney Channel HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/disnepchannel.png" group-title="Törökország",|TR| Disney Channel HD
+http://spedtvhd.shop:8080/mst6630/mst00/20416
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Caillou TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxcailloutv.png" group-title="Törökország",|TR| Caillou TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/28933
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Pija Maskeliler TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/pijamaskeliler.png" group-title="Törökország",|TR| Pija Maskeliler TV HD
+http://spedtvhd.shop:8080/mst6630/mst00/35592
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Niloya HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxniloyatv.png" group-title="Törökország",|TR| MaximTV Niloya HD
+http://spedtvhd.shop:8080/mst6630/mst00/113702
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Nick JR HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxnickjr.png" group-title="Törökország",|TR| MaximTV Nick JR HD
+http://spedtvhd.shop:8080/mst6630/mst00/113705
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Müzik Tv 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="Törökország",|TR| MAX Müzik Tv 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/189587
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Müzik Tv 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="Törökország",|TR| MAX Müzik Tv 7 HD
+http://spedtvhd.shop:8080/mst6630/mst00/189590
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Müzik Tv 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="Törökország",|TR| MAX Müzik Tv 8 HD
+http://spedtvhd.shop:8080/mst6630/mst00/189591
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Müzik Tv 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="Törökország",|TR| MAX Müzik Tv 9 HD
+http://spedtvhd.shop:8080/mst6630/mst00/189592
+#EXTINF:-1 tvg-id="BLOOMBERG.tr" tvg-name="|TR| Bloomberg HT" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bloombeerg_ht.png" group-title="Törökország",|TR| Bloomberg HT
+http://spedtvhd.shop:8080/mst6630/mst00/6214
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Müzik Tv 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="Törökország",|TR| MAX Müzik Tv 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/189585
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAX Müzik Tv 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="Törökország",|TR| MAX Müzik Tv 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/189586
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca Sinema 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximlocatv.png" group-title="Törökország",|TR| Loca Sinema 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6164
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca Sinema 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximlocatv.png" group-title="Törökország",|TR| Loca Sinema 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6165
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca Sinema 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximlocatv.png" group-title="Törökország",|TR| Loca Sinema 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6166
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca Sinema 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximlocatv.png" group-title="Törökország",|TR| Loca Sinema 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6167
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca Sinema 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximlocatv.png" group-title="Törökország",|TR| Loca Sinema 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6168
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca Sinema 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximlocatv.png" group-title="Törökország",|TR| Loca Sinema 6 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6169
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca Sinema 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximlocatv.png" group-title="Törökország",|TR| Loca Sinema 7 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6170
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca Sinema 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximlocatv.png" group-title="Törökország",|TR| Loca Sinema 8 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6171
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca Sinema 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximlocatv.png" group-title="Törökország",|TR| Loca Sinema 10 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6173
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca Sinema 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maximlocatv.png" group-title="Törökország",|TR| Loca Sinema 9 HD
+http://spedtvhd.shop:8080/mst6630/mst00/143367
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon Sinema 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-salontv.png" group-title="Törökország",|TR| Salon Sinema 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6154
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon Sinema 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-salontv.png" group-title="Törökország",|TR| Salon Sinema 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6155
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon Sinema 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-salontv.png" group-title="Törökország",|TR| Salon Sinema 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6156
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon Sinema 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-salontv.png" group-title="Törökország",|TR| Salon Sinema 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6157
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon Sinema 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-salontv.png" group-title="Törökország",|TR| Salon Sinema 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6158
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon Sinema 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-salontv.png" group-title="Törökország",|TR| Salon Sinema 6 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6159
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon Sinema 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-salontv.png" group-title="Törökország",|TR| Salon Sinema 7 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6160
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon Sinema 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-salontv.png" group-title="Törökország",|TR| Salon Sinema 8 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6161
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon Sinema 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-salontv.png" group-title="Törökország",|TR| Salon Sinema 9 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6162
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Salon Sinema 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxim-salontv.png" group-title="Törökország",|TR| Salon Sinema 10 HD
+http://spedtvhd.shop:8080/mst6630/mst00/6163
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K Sinema TV 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maximtv-4k-logo.png" group-title="Törökország",|TR| 4K Sinema TV 1 HD
+http://spedtvhd.shop:8080/mst6630/mst00/102233
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K Sinema TV 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maximtv-4k-logo.png" group-title="Törökország",|TR| 4K Sinema TV 2 HD
+http://spedtvhd.shop:8080/mst6630/mst00/102234
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K Sinema TV 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maximtv-4k-logo.png" group-title="Törökország",|TR| 4K Sinema TV 3 HD
+http://spedtvhd.shop:8080/mst6630/mst00/102235
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K Sinema TV 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maximtv-4k-logo.png" group-title="Törökország",|TR| 4K Sinema TV 4 HD
+http://spedtvhd.shop:8080/mst6630/mst00/102236
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K Sinema TV 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maximtv-4k-logo.png" group-title="Törökország",|TR| 4K Sinema TV 5 HD
+http://spedtvhd.shop:8080/mst6630/mst00/102237
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K Sinema TV  6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maximtv-4k-logo.png" group-title="Törökország",|TR| 4K Sinema TV  6 HD
+http://spedtvhd.shop:8080/mst6630/mst00/102238
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K Sinema TV 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maximtv-4k-logo.png" group-title="Törökország",|TR| 4K Sinema TV 7 HD
+http://spedtvhd.shop:8080/mst6630/mst00/102239
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K Sinema TV 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maximtv-4k-logo.png" group-title="Törökország",|TR| 4K Sinema TV 8 HD
+http://spedtvhd.shop:8080/mst6630/mst00/102240
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K Sinema TV 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maximtv-4k-logo.png" group-title="Törökország",|TR| 4K Sinema TV 9 HD
+http://spedtvhd.shop:8080/mst6630/mst00/102241
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 4K Sinema TV 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maximtv-4k-logo.png" group-title="Törökország",|TR| 4K Sinema TV 10 HD
+http://spedtvhd.shop:8080/mst6630/mst00/102242
+
+
 
 
 
