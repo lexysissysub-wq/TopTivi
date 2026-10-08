@@ -14600,6 +14600,4 @@ http://msedxim.shop:8080/hmd1114/cn.0705/647890
 http://msedxim.shop:8080/hmd1114/cn.0705/647891
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="NexusTV" tvg-name="Nexus TV" group-title="Rumble",Nexus TV
-https://hugh.cdn.rumble.cloud/video/fwe2/4c/s8/2/y/Z/c/4/yZc4A.Eaa.rec.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4558611968-4558783842
+
